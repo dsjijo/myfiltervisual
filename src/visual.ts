@@ -142,7 +142,6 @@ module powerbi.extensibility.visual {
       let __this = this.host;
 
       $("#treeview-sprites li.elm").on("click", function() {
-        console.log("clicked");
         var parent = $(this).attr("parent");
         let target: IFilterColumnTarget = {
           table: "_Sales Target",
@@ -154,7 +153,7 @@ module powerbi.extensibility.visual {
           "In",
           values
         );
-        console.log(filter);
+
         __this.applyJsonFilter(filter, "general", "filter", FilterAction.merge);
       });
     }

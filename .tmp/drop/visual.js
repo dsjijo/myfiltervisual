@@ -3897,7 +3897,6 @@ var powerbi;
                         //   // invoke the filter
                         let __this = this.host;
                         $("#treeview-sprites li.elm").on("click", function () {
-                            console.log("clicked");
                             var parent = $(this).attr("parent");
                             let target = {
                                 table: "_Sales Target",
@@ -3905,7 +3904,6 @@ var powerbi;
                             };
                             let values = [$(this).html()];
                             let filter = new window["powerbi-models"].BasicFilter(target, "In", values);
-                            console.log(filter);
                             __this.applyJsonFilter(filter, "general", "filter", 0 /* merge */);
                         });
                     }
