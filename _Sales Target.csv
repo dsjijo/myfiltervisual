@@ -1,0 +1,4523 @@
+﻿Category,Number of Records,Order Date,Sales Target,Segment
+Office Supplies,1,01-01-2015,40,Home Office
+Furniture,1,03-01-2015,795,Consumer
+Office Supplies,1,04-01-2015,123,Consumer
+Office Supplies,1,04-01-2015,38,Corporate
+Office Supplies,1,05-01-2015,317,Home Office
+Furniture,1,06-01-2015,298,Consumer
+Furniture,1,07-01-2015,132,Corporate
+Office Supplies,1,07-01-2015,5,Consumer
+Office Supplies,1,07-01-2015,689,Corporate
+Furniture,1,08-01-2015,1066,Consumer
+Office Supplies,1,08-01-2015,122,Consumer
+Office Supplies,1,10-01-2015,206,Corporate
+Furniture,1,11-01-2015,1520,Consumer
+Office Supplies,1,11-01-2015,279,Consumer
+Furniture,1,12-01-2015,557,Corporate
+Furniture,1,12-01-2015,316,Home Office
+Office Supplies,1,12-01-2015,36,Consumer
+Office Supplies,1,12-01-2015,243,Corporate
+Technology,1,12-01-2015,480,Corporate
+Office Supplies,1,13-01-2015,279,Consumer
+Office Supplies,1,14-01-2015,211,Home Office
+Technology,1,14-01-2015,925,Home Office
+Furniture,1,15-01-2015,613,Home Office
+Office Supplies,1,15-01-2015,434,Corporate
+Technology,1,15-01-2015,579,Corporate
+Office Supplies,1,17-01-2015,567,Corporate
+Office Supplies,1,17-01-2015,15,Home Office
+Office Supplies,1,18-01-2015,22,Consumer
+Office Supplies,1,18-01-2015,96,Corporate
+Office Supplies,1,19-01-2015,47,Corporate
+Office Supplies,1,19-01-2015,195,Home Office
+Office Supplies,1,20-01-2015,63,Consumer
+Technology,1,21-01-2015,515,Consumer
+Furniture,1,22-01-2015,751,Home Office
+Office Supplies,1,22-01-2015,186,Corporate
+Office Supplies,1,22-01-2015,1507,Home Office
+Technology,1,22-01-2015,61,Corporate
+Furniture,1,24-01-2015,125,Consumer
+Office Supplies,1,24-01-2015,138,Consumer
+Office Supplies,1,24-01-2015,12,Corporate
+Office Supplies,1,24-01-2015,26,Home Office
+Technology,1,24-01-2015,603,Corporate
+Furniture,1,25-01-2015,21,Corporate
+Office Supplies,1,25-01-2015,604,Consumer
+Office Supplies,1,25-01-2015,130,Corporate
+Furniture,1,26-01-2015,302,Consumer
+Office Supplies,1,26-01-2015,856,Consumer
+Technology,1,26-01-2015,87,Consumer
+Technology,1,26-01-2015,502,Corporate
+Office Supplies,1,28-01-2015,25,Consumer
+Office Supplies,1,01-02-2015,108,Consumer
+Office Supplies,1,01-02-2015,143,Corporate
+Furniture,1,02-02-2015,1046,Consumer
+Office Supplies,1,02-02-2015,197,Consumer
+Office Supplies,1,02-02-2015,326,Corporate
+Technology,1,02-02-2015,828,Consumer
+Technology,1,02-02-2015,1800,Corporate
+Office Supplies,1,03-02-2015,78,Home Office
+Office Supplies,1,04-02-2015,147,Consumer
+Office Supplies,1,04-02-2015,51,Home Office
+Office Supplies,1,07-02-2015,175,Consumer
+Office Supplies,1,07-02-2015,27,Corporate
+Technology,1,07-02-2015,224,Consumer
+Office Supplies,1,08-02-2015,119,Consumer
+Office Supplies,1,08-02-2015,166,Corporate
+Furniture,1,09-02-2015,514,Corporate
+Furniture,1,09-02-2015,397,Home Office
+Office Supplies,1,09-02-2015,222,Consumer
+Office Supplies,1,09-02-2015,156,Corporate
+Office Supplies,1,09-02-2015,311,Home Office
+Furniture,1,10-02-2015,1458,Corporate
+Office Supplies,1,10-02-2015,52,Consumer
+Office Supplies,1,10-02-2015,33,Corporate
+Office Supplies,1,10-02-2015,379,Home Office
+Technology,1,10-02-2015,214,Consumer
+Office Supplies,1,14-02-2015,37,Consumer
+Furniture,1,15-02-2015,1010,Consumer
+Furniture,1,15-02-2015,906,Corporate
+Furniture,1,16-02-2015,4181,Corporate
+Office Supplies,1,16-02-2015,509,Corporate
+Technology,1,16-02-2015,420,Corporate
+Office Supplies,1,18-02-2015,147,Consumer
+Office Supplies,1,18-02-2015,37,Corporate
+Technology,1,18-02-2015,134,Consumer
+Furniture,1,21-02-2015,1033,Consumer
+Office Supplies,1,21-02-2015,236,Consumer
+Office Supplies,1,21-02-2015,17,Corporate
+Technology,1,21-02-2015,28,Consumer
+Furniture,1,22-02-2015,113,Consumer
+Office Supplies,1,22-02-2015,132,Consumer
+Technology,1,22-02-2015,596,Consumer
+Furniture,1,23-02-2015,41,Corporate
+Furniture,1,24-02-2015,1910,Corporate
+Office Supplies,1,24-02-2015,306,Corporate
+Technology,1,24-02-2015,483,Corporate
+Furniture,1,26-02-2015,496,Consumer
+Technology,1,26-02-2015,118,Consumer
+Furniture,1,02-03-2015,1797,Corporate
+Office Supplies,1,02-03-2015,569,Consumer
+Office Supplies,1,02-03-2015,225,Corporate
+Office Supplies,1,02-03-2015,234,Home Office
+Technology,1,02-03-2015,142,Corporate
+Technology,1,02-03-2015,42,Home Office
+Office Supplies,1,04-03-2015,56,Consumer
+Office Supplies,1,04-03-2015,88,Home Office
+Office Supplies,1,06-03-2015,98,Home Office
+Office Supplies,1,08-03-2015,100,Consumer
+Office Supplies,1,09-03-2015,122,Consumer
+Office Supplies,1,10-03-2015,265,Consumer
+Technology,1,10-03-2015,128,Consumer
+Furniture,1,11-03-2015,66,Consumer
+Office Supplies,1,11-03-2015,28,Corporate
+Technology,1,11-03-2015,484,Home Office
+Office Supplies,1,12-03-2015,68,Consumer
+Office Supplies,1,12-03-2015,201,Corporate
+Office Supplies,1,13-03-2015,206,Consumer
+Office Supplies,1,13-03-2015,484,Corporate
+Office Supplies,1,15-03-2015,3430,Consumer
+Office Supplies,1,15-03-2015,15,Corporate
+Technology,1,15-03-2015,204,Corporate
+Furniture,1,16-03-2015,236,Consumer
+Office Supplies,1,16-03-2015,112,Consumer
+Office Supplies,1,17-03-2015,71,Corporate
+Office Supplies,1,18-03-2015,107,Corporate
+Office Supplies,1,19-03-2015,173,Consumer
+Office Supplies,1,19-03-2015,60,Home Office
+Technology,1,20-03-2015,324,Consumer
+Furniture,1,22-03-2015,407,Consumer
+Office Supplies,1,22-03-2015,185,Consumer
+Office Supplies,1,22-03-2015,24,Corporate
+Technology,1,22-03-2015,69,Consumer
+Technology,1,22-03-2015,688,Corporate
+Office Supplies,1,23-03-2015,139,Consumer
+Furniture,1,24-03-2015,824,Home Office
+Office Supplies,1,24-03-2015,191,Home Office
+Office Supplies,1,25-03-2015,827,Home Office
+Technology,1,25-03-2015,221,Home Office
+Office Supplies,1,26-03-2015,99,Consumer
+Office Supplies,1,26-03-2015,172,Home Office
+Technology,1,26-03-2015,87,Consumer
+Office Supplies,1,27-03-2015,702,Consumer
+Office Supplies,1,28-03-2015,32,Consumer
+Office Supplies,1,29-03-2015,54,Consumer
+Office Supplies,1,29-03-2015,103,Corporate
+Furniture,1,30-03-2015,179,Consumer
+Office Supplies,1,30-03-2015,35,Consumer
+Office Supplies,1,30-03-2015,8,Home Office
+Technology,1,30-03-2015,550,Consumer
+Furniture,1,31-03-2015,780,Corporate
+Office Supplies,1,31-03-2015,50,Corporate
+Technology,1,31-03-2015,607,Corporate
+Furniture,1,01-04-2015,2953,Consumer
+Furniture,1,01-04-2015,42,Corporate
+Office Supplies,1,01-04-2015,526,Consumer
+Office Supplies,1,02-04-2015,481,Consumer
+Technology,1,02-04-2015,122,Consumer
+Technology,1,02-04-2015,546,Corporate
+Furniture,1,05-04-2015,517,Corporate
+Office Supplies,1,05-04-2015,84,Consumer
+Office Supplies,1,05-04-2015,175,Corporate
+Office Supplies,1,06-04-2015,2363,Corporate
+Furniture,1,07-04-2015,355,Home Office
+Office Supplies,1,07-04-2015,601,Consumer
+Office Supplies,1,07-04-2015,26,Corporate
+Office Supplies,1,07-04-2015,1613,Home Office
+Office Supplies,1,08-04-2015,126,Consumer
+Office Supplies,1,08-04-2015,1138,Corporate
+Furniture,1,09-04-2015,66,Corporate
+Office Supplies,1,09-04-2015,98,Corporate
+Office Supplies,1,10-04-2015,196,Corporate
+Furniture,1,12-04-2015,262,Consumer
+Office Supplies,1,12-04-2015,99,Consumer
+Technology,1,12-04-2015,1247,Consumer
+Furniture,1,13-04-2015,61,Home Office
+Office Supplies,1,13-04-2015,173,Home Office
+Technology,1,13-04-2015,65,Corporate
+Office Supplies,1,15-04-2015,648,Consumer
+Technology,1,15-04-2015,556,Consumer
+Office Supplies,1,16-04-2015,38,Corporate
+Office Supplies,1,17-04-2015,16,Corporate
+Technology,1,17-04-2015,1158,Home Office
+Office Supplies,1,19-04-2015,1096,Corporate
+Technology,1,19-04-2015,2119,Corporate
+Office Supplies,1,20-04-2015,84,Consumer
+Office Supplies,1,21-04-2015,575,Consumer
+Technology,1,21-04-2015,875,Consumer
+Office Supplies,1,22-04-2015,36,Consumer
+Technology,1,22-04-2015,435,Consumer
+Furniture,1,23-04-2015,167,Consumer
+Office Supplies,1,23-04-2015,528,Consumer
+Office Supplies,1,23-04-2015,17,Corporate
+Technology,1,23-04-2015,258,Consumer
+Technology,1,23-04-2015,626,Corporate
+Office Supplies,1,26-04-2015,39,Consumer
+Furniture,1,27-04-2015,47,Corporate
+Office Supplies,1,27-04-2015,160,Consumer
+Office Supplies,1,27-04-2015,181,Corporate
+Technology,1,27-04-2015,622,Consumer
+Furniture,1,28-04-2015,2243,Consumer
+Furniture,1,28-04-2015,611,Corporate
+Office Supplies,1,28-04-2015,459,Consumer
+Office Supplies,1,28-04-2015,386,Corporate
+Office Supplies,1,29-04-2015,15,Consumer
+Office Supplies,1,30-04-2015,340,Consumer
+Office Supplies,1,30-04-2015,154,Corporate
+Office Supplies,1,30-04-2015,443,Home Office
+Office Supplies,1,03-05-2015,1333,Consumer
+Technology,1,03-05-2015,138,Consumer
+Office Supplies,1,04-05-2015,529,Corporate
+Technology,1,04-05-2015,688,Corporate
+Furniture,1,05-05-2015,1272,Corporate
+Furniture,1,05-05-2015,117,Home Office
+Office Supplies,1,05-05-2015,448,Consumer
+Office Supplies,1,05-05-2015,90,Corporate
+Office Supplies,1,05-05-2015,66,Home Office
+Technology,1,05-05-2015,2291,Consumer
+Technology,1,05-05-2015,58,Home Office
+Furniture,1,06-05-2015,295,Home Office
+Office Supplies,1,06-05-2015,390,Home Office
+Technology,1,06-05-2015,1215,Corporate
+Furniture,1,07-05-2015,162,Consumer
+Office Supplies,1,07-05-2015,35,Consumer
+Office Supplies,1,08-05-2015,73,Consumer
+Office Supplies,1,08-05-2015,170,Home Office
+Technology,1,08-05-2015,226,Consumer
+Furniture,1,10-05-2015,165,Corporate
+Office Supplies,1,10-05-2015,24,Consumer
+Furniture,1,11-05-2015,91,Consumer
+Office Supplies,1,11-05-2015,274,Consumer
+Office Supplies,1,11-05-2015,720,Corporate
+Technology,1,11-05-2015,315,Consumer
+Technology,1,11-05-2015,432,Corporate
+Furniture,1,12-05-2015,205,Consumer
+Office Supplies,1,12-05-2015,354,Consumer
+Office Supplies,1,12-05-2015,67,Corporate
+Furniture,1,13-05-2015,565,Home Office
+Office Supplies,1,13-05-2015,22,Consumer
+Office Supplies,1,13-05-2015,1093,Corporate
+Office Supplies,1,14-05-2015,105,Corporate
+Office Supplies,1,14-05-2015,145,Home Office
+Technology,1,14-05-2015,1015,Corporate
+Technology,1,16-05-2015,196,Consumer
+Office Supplies,1,17-05-2015,124,Consumer
+Office Supplies,1,18-05-2015,87,Consumer
+Technology,1,18-05-2015,79,Consumer
+Furniture,1,19-05-2015,1031,Consumer
+Office Supplies,1,19-05-2015,988,Consumer
+Office Supplies,1,19-05-2015,54,Corporate
+Office Supplies,1,19-05-2015,616,Home Office
+Office Supplies,1,20-05-2015,710,Corporate
+Office Supplies,1,20-05-2015,146,Home Office
+Furniture,1,22-05-2015,538,Consumer
+Office Supplies,1,22-05-2015,15,Consumer
+Office Supplies,1,22-05-2015,68,Corporate
+Office Supplies,1,26-05-2015,346,Corporate
+Technology,1,26-05-2015,1298,Corporate
+Furniture,1,27-05-2015,559,Consumer
+Office Supplies,1,27-05-2015,586,Consumer
+Office Supplies,1,27-05-2015,3222,Corporate
+Furniture,1,28-05-2015,1402,Consumer
+Office Supplies,1,28-05-2015,652,Consumer
+Office Supplies,1,28-05-2015,50,Corporate
+Technology,1,29-05-2015,57,Consumer
+Furniture,1,31-05-2015,2117,Consumer
+Office Supplies,1,01-06-2015,108,Consumer
+Technology,1,01-06-2015,456,Consumer
+Furniture,1,02-06-2015,885,Corporate
+Office Supplies,1,02-06-2015,196,Consumer
+Office Supplies,1,02-06-2015,582,Corporate
+Office Supplies,1,02-06-2015,95,Home Office
+Technology,1,02-06-2015,1423,Corporate
+Furniture,1,03-06-2015,1150,Corporate
+Office Supplies,1,03-06-2015,56,Consumer
+Office Supplies,1,03-06-2015,2422,Corporate
+Technology,1,03-06-2015,753,Consumer
+Technology,1,03-06-2015,650,Corporate
+Office Supplies,1,04-06-2015,406,Corporate
+Office Supplies,1,05-06-2015,131,Corporate
+Technology,1,05-06-2015,345,Home Office
+Furniture,1,07-06-2015,1190,Home Office
+Office Supplies,1,07-06-2015,1058,Consumer
+Office Supplies,1,07-06-2015,548,Corporate
+Technology,1,07-06-2015,520,Corporate
+Furniture,1,08-06-2015,579,Corporate
+Furniture,1,08-06-2015,124,Home Office
+Office Supplies,1,08-06-2015,323,Consumer
+Office Supplies,1,08-06-2015,356,Corporate
+Office Supplies,1,08-06-2015,1234,Home Office
+Technology,1,08-06-2015,227,Corporate
+Technology,1,08-06-2015,606,Home Office
+Furniture,1,09-06-2015,126,Consumer
+Furniture,1,09-06-2015,266,Corporate
+Office Supplies,1,09-06-2015,219,Consumer
+Office Supplies,1,09-06-2015,84,Corporate
+Technology,1,09-06-2015,1325,Consumer
+Technology,1,09-06-2015,943,Corporate
+Office Supplies,1,10-06-2015,76,Corporate
+Office Supplies,1,10-06-2015,828,Home Office
+Technology,1,10-06-2015,694,Consumer
+Furniture,1,11-06-2015,482,Corporate
+Office Supplies,1,11-06-2015,880,Consumer
+Office Supplies,1,11-06-2015,789,Corporate
+Furniture,1,12-06-2015,2200,Consumer
+Office Supplies,1,12-06-2015,19,Corporate
+Furniture,1,14-06-2015,660,Corporate
+Office Supplies,1,14-06-2015,703,Consumer
+Office Supplies,1,14-06-2015,252,Corporate
+Office Supplies,1,15-06-2015,331,Consumer
+Office Supplies,1,15-06-2015,52,Corporate
+Office Supplies,1,15-06-2015,246,Home Office
+Technology,1,15-06-2015,541,Consumer
+Technology,1,15-06-2015,1132,Corporate
+Office Supplies,1,16-06-2015,89,Consumer
+Office Supplies,1,16-06-2015,38,Corporate
+Technology,1,16-06-2015,1152,Consumer
+Furniture,1,17-06-2015,157,Consumer
+Furniture,1,17-06-2015,87,Corporate
+Office Supplies,1,17-06-2015,720,Consumer
+Office Supplies,1,17-06-2015,59,Home Office
+Technology,1,17-06-2015,216,Consumer
+Technology,1,17-06-2015,514,Home Office
+Furniture,1,18-06-2015,707,Consumer
+Furniture,1,18-06-2015,94,Home Office
+Office Supplies,1,18-06-2015,24,Consumer
+Office Supplies,1,18-06-2015,312,Corporate
+Office Supplies,1,18-06-2015,194,Home Office
+Technology,1,18-06-2015,519,Corporate
+Furniture,1,19-06-2015,2211,Consumer
+Office Supplies,1,19-06-2015,316,Consumer
+Technology,1,19-06-2015,994,Consumer
+Office Supplies,1,21-06-2015,85,Corporate
+Office Supplies,1,21-06-2015,118,Home Office
+Technology,1,21-06-2015,302,Consumer
+Technology,1,21-06-2015,67,Home Office
+Furniture,1,22-06-2015,1798,Consumer
+Office Supplies,1,22-06-2015,335,Consumer
+Technology,1,22-06-2015,372,Consumer
+Furniture,1,23-06-2015,703,Consumer
+Furniture,1,23-06-2015,1187,Corporate
+Office Supplies,1,23-06-2015,798,Consumer
+Office Supplies,1,23-06-2015,920,Corporate
+Technology,1,23-06-2015,1500,Consumer
+Technology,1,23-06-2015,333,Corporate
+Office Supplies,1,25-06-2015,467,Consumer
+Office Supplies,1,25-06-2015,52,Corporate
+Office Supplies,1,26-06-2015,18,Corporate
+Furniture,1,27-06-2015,634,Consumer
+Office Supplies,1,27-06-2015,60,Consumer
+Office Supplies,1,28-06-2015,98,Consumer
+Office Supplies,1,28-06-2015,241,Corporate
+Technology,1,28-06-2015,1034,Corporate
+Technology,1,28-06-2015,496,Home Office
+Furniture,1,29-06-2015,19,Consumer
+Furniture,1,29-06-2015,247,Corporate
+Furniture,1,29-06-2015,1096,Home Office
+Office Supplies,1,29-06-2015,41,Consumer
+Office Supplies,1,29-06-2015,216,Corporate
+Office Supplies,1,29-06-2015,71,Home Office
+Technology,1,29-06-2015,597,Consumer
+Technology,1,29-06-2015,307,Home Office
+Office Supplies,1,30-06-2015,673,Consumer
+Office Supplies,1,02-07-2015,37,Consumer
+Office Supplies,1,03-07-2015,33,Consumer
+Office Supplies,1,05-07-2015,760,Consumer
+Furniture,1,07-07-2015,176,Corporate
+Office Supplies,1,07-07-2015,118,Consumer
+Office Supplies,1,07-07-2015,73,Home Office
+Technology,1,07-07-2015,1073,Corporate
+Technology,1,08-07-2015,1274,Corporate
+Office Supplies,1,09-07-2015,430,Corporate
+Technology,1,09-07-2015,213,Corporate
+Furniture,1,10-07-2015,109,Consumer
+Office Supplies,1,10-07-2015,1155,Consumer
+Office Supplies,1,12-07-2015,139,Corporate
+Furniture,1,13-07-2015,67,Consumer
+Office Supplies,1,13-07-2015,165,Consumer
+Office Supplies,1,13-07-2015,51,Corporate
+Office Supplies,1,13-07-2015,85,Home Office
+Technology,1,13-07-2015,531,Consumer
+Office Supplies,1,14-07-2015,370,Consumer
+Furniture,1,15-07-2015,309,Corporate
+Office Supplies,1,15-07-2015,586,Corporate
+Technology,1,15-07-2015,1457,Consumer
+Office Supplies,1,17-07-2015,30,Consumer
+Technology,1,17-07-2015,534,Consumer
+Furniture,1,19-07-2015,329,Consumer
+Technology,1,19-07-2015,1135,Home Office
+Furniture,1,21-07-2015,93,Consumer
+Office Supplies,1,21-07-2015,341,Consumer
+Office Supplies,1,21-07-2015,262,Corporate
+Furniture,1,22-07-2015,97,Consumer
+Office Supplies,1,22-07-2015,160,Consumer
+Office Supplies,1,23-07-2015,13,Home Office
+Technology,1,23-07-2015,1463,Home Office
+Office Supplies,1,25-07-2015,54,Consumer
+Office Supplies,1,27-07-2015,192,Consumer
+Technology,1,27-07-2015,187,Consumer
+Office Supplies,1,28-07-2015,324,Consumer
+Office Supplies,1,28-07-2015,553,Corporate
+Technology,1,28-07-2015,1687,Consumer
+Technology,1,28-07-2015,185,Corporate
+Furniture,1,29-07-2015,73,Consumer
+Furniture,1,29-07-2015,542,Home Office
+Furniture,1,30-07-2015,163,Consumer
+Furniture,1,30-07-2015,116,Corporate
+Office Supplies,1,30-07-2015,49,Consumer
+Office Supplies,1,30-07-2015,53,Corporate
+Furniture,1,01-08-2015,84,Consumer
+Office Supplies,1,01-08-2015,24,Consumer
+Office Supplies,1,01-08-2015,229,Corporate
+Furniture,1,02-08-2015,254,Consumer
+Office Supplies,1,02-08-2015,214,Home Office
+Technology,1,02-08-2015,189,Home Office
+Office Supplies,1,03-08-2015,24,Home Office
+Furniture,1,04-08-2015,193,Consumer
+Furniture,1,04-08-2015,940,Corporate
+Office Supplies,1,04-08-2015,371,Consumer
+Office Supplies,1,04-08-2015,83,Corporate
+Technology,1,04-08-2015,64,Consumer
+Technology,1,04-08-2015,330,Corporate
+Office Supplies,1,05-08-2015,402,Consumer
+Office Supplies,1,05-08-2015,437,Corporate
+Technology,1,05-08-2015,542,Consumer
+Furniture,1,06-08-2015,419,Consumer
+Office Supplies,1,06-08-2015,535,Consumer
+Technology,1,06-08-2015,539,Consumer
+Office Supplies,1,07-08-2015,460,Consumer
+Furniture,1,08-08-2015,39,Corporate
+Office Supplies,1,09-08-2015,57,Consumer
+Office Supplies,1,09-08-2015,35,Home Office
+Technology,1,09-08-2015,251,Consumer
+Furniture,1,10-08-2015,446,Consumer
+Furniture,1,10-08-2015,198,Corporate
+Furniture,1,10-08-2015,291,Home Office
+Office Supplies,1,10-08-2015,153,Consumer
+Office Supplies,1,10-08-2015,643,Corporate
+Office Supplies,1,10-08-2015,277,Home Office
+Technology,1,10-08-2015,1806,Consumer
+Office Supplies,1,11-08-2015,91,Consumer
+Office Supplies,1,11-08-2015,386,Corporate
+Technology,1,11-08-2015,4855,Consumer
+Technology,1,11-08-2015,326,Corporate
+Office Supplies,1,12-08-2015,791,Consumer
+Office Supplies,1,12-08-2015,39,Home Office
+Technology,1,12-08-2015,48,Consumer
+Furniture,1,13-08-2015,128,Consumer
+Office Supplies,1,13-08-2015,290,Consumer
+Office Supplies,1,13-08-2015,44,Corporate
+Office Supplies,1,13-08-2015,156,Home Office
+Technology,1,13-08-2015,1157,Consumer
+Furniture,1,16-08-2015,1830,Consumer
+Office Supplies,1,16-08-2015,848,Consumer
+Office Supplies,1,16-08-2015,88,Home Office
+Technology,1,16-08-2015,174,Consumer
+Technology,1,16-08-2015,152,Home Office
+Furniture,1,17-08-2015,50,Corporate
+Office Supplies,1,17-08-2015,751,Consumer
+Office Supplies,1,17-08-2015,534,Corporate
+Technology,1,17-08-2015,622,Consumer
+Technology,1,17-08-2015,4676,Corporate
+Furniture,1,18-08-2015,1607,Consumer
+Office Supplies,1,18-08-2015,222,Consumer
+Office Supplies,1,19-08-2015,861,Consumer
+Office Supplies,1,19-08-2015,22,Home Office
+Technology,1,19-08-2015,2322,Consumer
+Technology,1,19-08-2015,762,Home Office
+Office Supplies,1,20-08-2015,66,Corporate
+Office Supplies,1,20-08-2015,77,Home Office
+Furniture,1,22-08-2015,1281,Consumer
+Office Supplies,1,22-08-2015,1164,Consumer
+Technology,1,22-08-2015,221,Consumer
+Office Supplies,1,23-08-2015,579,Consumer
+Office Supplies,1,24-08-2015,282,Consumer
+Office Supplies,1,24-08-2015,64,Corporate
+Office Supplies,1,24-08-2015,16,Home Office
+Technology,1,24-08-2015,277,Consumer
+Technology,1,24-08-2015,144,Corporate
+Furniture,1,25-08-2015,73,Consumer
+Furniture,1,25-08-2015,818,Corporate
+Office Supplies,1,25-08-2015,47,Consumer
+Office Supplies,1,25-08-2015,762,Corporate
+Technology,1,25-08-2015,193,Consumer
+Technology,1,25-08-2015,342,Corporate
+Furniture,1,26-08-2015,396,Consumer
+Office Supplies,1,26-08-2015,489,Consumer
+Office Supplies,1,26-08-2015,107,Corporate
+Office Supplies,1,26-08-2015,222,Home Office
+Technology,1,26-08-2015,381,Consumer
+Furniture,1,27-08-2015,2923,Consumer
+Office Supplies,1,27-08-2015,3588,Consumer
+Office Supplies,1,27-08-2015,256,Corporate
+Technology,1,27-08-2015,587,Corporate
+Furniture,1,28-08-2015,688,Consumer
+Furniture,1,28-08-2015,257,Corporate
+Office Supplies,1,28-08-2015,284,Corporate
+Technology,1,28-08-2015,957,Consumer
+Technology,1,28-08-2015,244,Corporate
+Furniture,1,30-08-2015,187,Consumer
+Furniture,1,30-08-2015,93,Corporate
+Office Supplies,1,30-08-2015,156,Consumer
+Furniture,1,31-08-2015,83,Consumer
+Office Supplies,1,31-08-2015,560,Consumer
+Office Supplies,1,31-08-2015,8,Corporate
+Office Supplies,1,31-08-2015,72,Home Office
+Technology,1,31-08-2015,594,Consumer
+Technology,1,31-08-2015,219,Home Office
+Office Supplies,1,01-09-2015,1582,Consumer
+Office Supplies,1,02-09-2015,249,Corporate
+Office Supplies,1,02-09-2015,173,Home Office
+Technology,1,02-09-2015,1208,Consumer
+Furniture,1,03-09-2015,1088,Consumer
+Furniture,1,03-09-2015,295,Corporate
+Office Supplies,1,03-09-2015,235,Consumer
+Office Supplies,1,03-09-2015,123,Corporate
+Office Supplies,1,04-09-2015,52,Consumer
+Office Supplies,1,04-09-2015,158,Home Office
+Technology,1,04-09-2015,153,Consumer
+Furniture,1,06-09-2015,1083,Consumer
+Office Supplies,1,06-09-2015,107,Consumer
+Furniture,1,07-09-2015,842,Corporate
+Office Supplies,1,07-09-2015,996,Consumer
+Office Supplies,1,07-09-2015,100,Corporate
+Office Supplies,1,07-09-2015,591,Home Office
+Technology,1,07-09-2015,360,Consumer
+Technology,1,07-09-2015,164,Corporate
+Technology,1,07-09-2015,725,Home Office
+Office Supplies,1,08-09-2015,28,Corporate
+Furniture,1,09-09-2015,1133,Consumer
+Office Supplies,1,09-09-2015,1793,Consumer
+Office Supplies,1,09-09-2015,6207,Corporate
+Technology,1,09-09-2015,206,Consumer
+Furniture,1,10-09-2015,509,Corporate
+Office Supplies,1,10-09-2015,168,Corporate
+Office Supplies,1,10-09-2015,15,Home Office
+Technology,1,10-09-2015,1433,Corporate
+Furniture,1,11-09-2015,78,Consumer
+Office Supplies,1,11-09-2015,244,Consumer
+Office Supplies,1,13-09-2015,70,Corporate
+Office Supplies,1,13-09-2015,1184,Home Office
+Technology,1,13-09-2015,746,Corporate
+Technology,1,13-09-2015,79,Home Office
+Office Supplies,1,14-09-2015,338,Consumer
+Office Supplies,1,15-09-2015,739,Consumer
+Office Supplies,1,15-09-2015,22,Corporate
+Technology,1,15-09-2015,946,Consumer
+Technology,1,15-09-2015,477,Corporate
+Furniture,1,16-09-2015,779,Consumer
+Furniture,1,16-09-2015,832,Corporate
+Furniture,1,16-09-2015,78,Home Office
+Office Supplies,1,16-09-2015,346,Consumer
+Office Supplies,1,16-09-2015,63,Corporate
+Office Supplies,1,16-09-2015,355,Home Office
+Technology,1,16-09-2015,301,Consumer
+Technology,1,16-09-2015,1331,Corporate
+Furniture,1,17-09-2015,2596,Consumer
+Office Supplies,1,17-09-2015,338,Consumer
+Technology,1,17-09-2015,1068,Consumer
+Furniture,1,18-09-2015,659,Consumer
+Furniture,1,18-09-2015,109,Corporate
+Office Supplies,1,18-09-2015,444,Corporate
+Furniture,1,19-09-2015,554,Consumer
+Office Supplies,1,19-09-2015,151,Consumer
+Technology,1,19-09-2015,76,Consumer
+Furniture,1,20-09-2015,274,Corporate
+Office Supplies,1,20-09-2015,486,Consumer
+Office Supplies,1,20-09-2015,186,Corporate
+Office Supplies,1,20-09-2015,78,Home Office
+Technology,1,20-09-2015,1584,Consumer
+Furniture,1,21-09-2015,347,Consumer
+Office Supplies,1,21-09-2015,329,Consumer
+Office Supplies,1,21-09-2015,139,Corporate
+Technology,1,21-09-2015,5207,Consumer
+Furniture,1,22-09-2015,1146,Home Office
+Office Supplies,1,22-09-2015,36,Corporate
+Office Supplies,1,22-09-2015,87,Home Office
+Furniture,1,23-09-2015,277,Home Office
+Office Supplies,1,23-09-2015,1559,Consumer
+Office Supplies,1,23-09-2015,230,Corporate
+Office Supplies,1,23-09-2015,26,Home Office
+Technology,1,23-09-2015,98,Consumer
+Technology,1,23-09-2015,179,Corporate
+Furniture,1,24-09-2015,427,Home Office
+Office Supplies,1,24-09-2015,4369,Consumer
+Office Supplies,1,24-09-2015,147,Corporate
+Furniture,1,25-09-2015,52,Corporate
+Office Supplies,1,25-09-2015,140,Consumer
+Office Supplies,1,25-09-2015,754,Home Office
+Technology,1,25-09-2015,674,Home Office
+Office Supplies,1,27-09-2015,313,Corporate
+Office Supplies,1,27-09-2015,1465,Home Office
+Technology,1,27-09-2015,129,Consumer
+Technology,1,27-09-2015,434,Corporate
+Office Supplies,1,28-09-2015,1585,Consumer
+Office Supplies,1,28-09-2015,436,Corporate
+Technology,1,28-09-2015,3592,Consumer
+Technology,1,28-09-2015,999,Corporate
+Furniture,1,29-09-2015,193,Corporate
+Office Supplies,1,29-09-2015,4374,Consumer
+Office Supplies,1,29-09-2015,13,Corporate
+Office Supplies,1,29-09-2015,128,Home Office
+Furniture,1,30-09-2015,743,Home Office
+Office Supplies,1,30-09-2015,277,Consumer
+Office Supplies,1,30-09-2015,464,Home Office
+Furniture,1,01-10-2015,761,Consumer
+Office Supplies,1,01-10-2015,92,Consumer
+Office Supplies,1,01-10-2015,13,Corporate
+Office Supplies,1,01-10-2015,427,Home Office
+Furniture,1,04-10-2015,223,Consumer
+Office Supplies,1,04-10-2015,326,Consumer
+Furniture,1,05-10-2015,316,Home Office
+Office Supplies,1,05-10-2015,438,Home Office
+Technology,1,05-10-2015,1954,Home Office
+Furniture,1,07-10-2015,255,Home Office
+Office Supplies,1,07-10-2015,165,Consumer
+Office Supplies,1,08-10-2015,20,Consumer
+Furniture,1,09-10-2015,130,Home Office
+Office Supplies,1,09-10-2015,140,Home Office
+Office Supplies,1,11-10-2015,33,Consumer
+Office Supplies,1,11-10-2015,106,Corporate
+Office Supplies,1,11-10-2015,238,Home Office
+Office Supplies,1,12-10-2015,192,Consumer
+Office Supplies,1,12-10-2015,27,Home Office
+Office Supplies,1,13-10-2015,310,Consumer
+Office Supplies,1,13-10-2015,331,Home Office
+Technology,1,13-10-2015,1005,Consumer
+Office Supplies,1,14-10-2015,1390,Corporate
+Office Supplies,1,14-10-2015,89,Home Office
+Office Supplies,1,15-10-2015,81,Consumer
+Technology,1,15-10-2015,113,Consumer
+Office Supplies,1,16-10-2015,163,Corporate
+Furniture,1,18-10-2015,2204,Consumer
+Office Supplies,1,18-10-2015,40,Consumer
+Office Supplies,1,18-10-2015,50,Corporate
+Office Supplies,1,19-10-2015,171,Consumer
+Technology,1,19-10-2015,1174,Consumer
+Furniture,1,20-10-2015,1970,Consumer
+Office Supplies,1,20-10-2015,35,Consumer
+Office Supplies,1,20-10-2015,80,Home Office
+Furniture,1,21-10-2015,62,Corporate
+Office Supplies,1,21-10-2015,1172,Consumer
+Office Supplies,1,21-10-2015,25,Corporate
+Office Supplies,1,21-10-2015,12,Home Office
+Furniture,1,22-10-2015,304,Corporate
+Office Supplies,1,22-10-2015,387,Corporate
+Furniture,1,23-10-2015,94,Consumer
+Office Supplies,1,23-10-2015,167,Corporate
+Office Supplies,1,25-10-2015,247,Home Office
+Technology,1,25-10-2015,337,Corporate
+Office Supplies,1,26-10-2015,78,Consumer
+Office Supplies,1,26-10-2015,79,Corporate
+Furniture,1,27-10-2015,52,Consumer
+Furniture,1,28-10-2015,537,Home Office
+Furniture,1,29-10-2015,190,Home Office
+Office Supplies,1,29-10-2015,72,Home Office
+Furniture,1,30-10-2015,720,Consumer
+Office Supplies,1,30-10-2015,126,Consumer
+Office Supplies,1,01-11-2015,142,Consumer
+Office Supplies,1,01-11-2015,239,Home Office
+Furniture,1,02-11-2015,589,Consumer
+Office Supplies,1,02-11-2015,3610,Consumer
+Technology,1,02-11-2015,2122,Consumer
+Furniture,1,03-11-2015,573,Consumer
+Furniture,1,03-11-2015,1330,Home Office
+Office Supplies,1,03-11-2015,153,Consumer
+Office Supplies,1,03-11-2015,235,Corporate
+Office Supplies,1,03-11-2015,15,Home Office
+Technology,1,03-11-2015,649,Home Office
+Furniture,1,04-11-2015,825,Consumer
+Furniture,1,04-11-2015,1308,Corporate
+Office Supplies,1,04-11-2015,3603,Consumer
+Office Supplies,1,04-11-2015,115,Corporate
+Technology,1,04-11-2015,564,Consumer
+Furniture,1,05-11-2015,1122,Consumer
+Office Supplies,1,05-11-2015,703,Consumer
+Office Supplies,1,05-11-2015,60,Corporate
+Technology,1,05-11-2015,1416,Corporate
+Office Supplies,1,06-11-2015,1006,Consumer
+Technology,1,06-11-2015,4093,Consumer
+Furniture,1,07-11-2015,141,Home Office
+Office Supplies,1,07-11-2015,41,Home Office
+Technology,1,07-11-2015,1188,Home Office
+Office Supplies,1,08-11-2015,171,Consumer
+Office Supplies,1,08-11-2015,82,Home Office
+Furniture,1,09-11-2015,752,Corporate
+Office Supplies,1,09-11-2015,177,Consumer
+Office Supplies,1,09-11-2015,374,Corporate
+Office Supplies,1,09-11-2015,476,Home Office
+Furniture,1,10-11-2015,192,Consumer
+Furniture,1,10-11-2015,134,Corporate
+Office Supplies,1,10-11-2015,29,Consumer
+Office Supplies,1,10-11-2015,110,Corporate
+Technology,1,10-11-2015,630,Consumer
+Furniture,1,11-11-2015,192,Consumer
+Office Supplies,1,11-11-2015,745,Consumer
+Office Supplies,1,11-11-2015,26,Corporate
+Office Supplies,1,11-11-2015,556,Home Office
+Technology,1,11-11-2015,138,Consumer
+Technology,1,11-11-2015,397,Home Office
+Office Supplies,1,12-11-2015,1087,Consumer
+Office Supplies,1,14-11-2015,79,Corporate
+Office Supplies,1,14-11-2015,207,Home Office
+Furniture,1,15-11-2015,65,Corporate
+Office Supplies,1,15-11-2015,103,Consumer
+Furniture,1,16-11-2015,962,Consumer
+Office Supplies,1,16-11-2015,356,Consumer
+Office Supplies,1,16-11-2015,63,Home Office
+Technology,1,16-11-2015,643,Consumer
+Technology,1,16-11-2015,1024,Home Office
+Office Supplies,1,17-11-2015,307,Consumer
+Office Supplies,1,17-11-2015,381,Corporate
+Technology,1,17-11-2015,394,Corporate
+Furniture,1,18-11-2015,96,Home Office
+Office Supplies,1,18-11-2015,26,Consumer
+Office Supplies,1,18-11-2015,80,Corporate
+Office Supplies,1,18-11-2015,222,Home Office
+Furniture,1,19-11-2015,3539,Consumer
+Office Supplies,1,19-11-2015,23,Consumer
+Furniture,1,20-11-2015,571,Corporate
+Office Supplies,1,20-11-2015,315,Corporate
+Technology,1,20-11-2015,1103,Corporate
+Furniture,1,22-11-2015,215,Consumer
+Office Supplies,1,22-11-2015,291,Consumer
+Furniture,1,23-11-2015,127,Consumer
+Office Supplies,1,23-11-2015,474,Consumer
+Office Supplies,1,23-11-2015,811,Home Office
+Technology,1,23-11-2015,107,Consumer
+Technology,1,23-11-2015,97,Home Office
+Furniture,1,24-11-2015,453,Consumer
+Office Supplies,1,24-11-2015,343,Consumer
+Technology,1,24-11-2015,1221,Consumer
+Technology,1,25-11-2015,1302,Consumer
+Office Supplies,1,26-11-2015,24,Consumer
+Technology,1,26-11-2015,1269,Consumer
+Furniture,1,27-11-2015,146,Corporate
+Office Supplies,1,27-11-2015,2081,Consumer
+Technology,1,27-11-2015,634,Corporate
+Office Supplies,1,28-11-2015,86,Consumer
+Office Supplies,1,29-11-2015,881,Consumer
+Technology,1,29-11-2015,352,Consumer
+Office Supplies,1,30-11-2015,136,Consumer
+Office Supplies,1,30-11-2015,58,Corporate
+Office Supplies,1,30-11-2015,200,Home Office
+Technology,1,30-11-2015,107,Corporate
+Technology,1,30-11-2015,1662,Home Office
+Furniture,1,01-12-2015,133,Consumer
+Furniture,1,01-12-2015,675,Corporate
+Office Supplies,1,01-12-2015,103,Consumer
+Office Supplies,1,01-12-2015,54,Corporate
+Technology,1,01-12-2015,1340,Consumer
+Office Supplies,1,02-12-2015,370,Consumer
+Office Supplies,1,02-12-2015,180,Corporate
+Office Supplies,1,02-12-2015,291,Home Office
+Technology,1,02-12-2015,3838,Home Office
+Office Supplies,1,03-12-2015,1016,Consumer
+Office Supplies,1,03-12-2015,27,Corporate
+Office Supplies,1,03-12-2015,438,Home Office
+Technology,1,03-12-2015,535,Consumer
+Technology,1,03-12-2015,99,Corporate
+Furniture,1,04-12-2015,1185,Corporate
+Office Supplies,1,04-12-2015,67,Consumer
+Office Supplies,1,04-12-2015,57,Corporate
+Office Supplies,1,04-12-2015,177,Home Office
+Technology,1,04-12-2015,351,Consumer
+Technology,1,04-12-2015,3787,Corporate
+Furniture,1,06-12-2015,1000,Consumer
+Office Supplies,1,06-12-2015,54,Consumer
+Office Supplies,1,06-12-2015,41,Corporate
+Technology,1,06-12-2015,654,Consumer
+Furniture,1,07-12-2015,189,Consumer
+Furniture,1,07-12-2015,1111,Home Office
+Office Supplies,1,07-12-2015,326,Consumer
+Office Supplies,1,07-12-2015,25,Corporate
+Technology,1,07-12-2015,716,Consumer
+Technology,1,07-12-2015,294,Corporate
+Furniture,1,08-12-2015,154,Consumer
+Office Supplies,1,08-12-2015,95,Consumer
+Furniture,1,09-12-2015,1061,Home Office
+Office Supplies,1,09-12-2015,269,Consumer
+Office Supplies,1,09-12-2015,133,Corporate
+Office Supplies,1,09-12-2015,251,Home Office
+Technology,1,09-12-2015,1102,Consumer
+Technology,1,09-12-2015,234,Home Office
+Furniture,1,10-12-2015,865,Corporate
+Furniture,1,10-12-2015,373,Home Office
+Office Supplies,1,10-12-2015,10,Corporate
+Office Supplies,1,10-12-2015,499,Home Office
+Technology,1,10-12-2015,274,Home Office
+Furniture,1,11-12-2015,437,Consumer
+Furniture,1,11-12-2015,259,Corporate
+Office Supplies,1,11-12-2015,105,Consumer
+Office Supplies,1,11-12-2015,741,Corporate
+Technology,1,11-12-2015,399,Home Office
+Office Supplies,1,13-12-2015,28,Consumer
+Office Supplies,1,13-12-2015,153,Corporate
+Technology,1,13-12-2015,338,Home Office
+Furniture,1,14-12-2015,1301,Consumer
+Furniture,1,14-12-2015,1434,Corporate
+Office Supplies,1,14-12-2015,1245,Consumer
+Office Supplies,1,14-12-2015,925,Corporate
+Technology,1,14-12-2015,351,Corporate
+Technology,1,15-12-2015,1617,Consumer
+Furniture,1,16-12-2015,1884,Consumer
+Furniture,1,16-12-2015,61,Corporate
+Furniture,1,16-12-2015,591,Home Office
+Office Supplies,1,16-12-2015,21,Consumer
+Office Supplies,1,16-12-2015,1351,Corporate
+Office Supplies,1,16-12-2015,697,Home Office
+Technology,1,16-12-2015,1314,Corporate
+Technology,1,16-12-2015,441,Home Office
+Office Supplies,1,17-12-2015,613,Consumer
+Technology,1,17-12-2015,623,Consumer
+Furniture,1,18-12-2015,403,Consumer
+Office Supplies,1,18-12-2015,944,Consumer
+Office Supplies,1,18-12-2015,145,Corporate
+Technology,1,18-12-2015,2546,Consumer
+Technology,1,18-12-2015,623,Corporate
+Furniture,1,20-12-2015,2732,Home Office
+Office Supplies,1,20-12-2015,12,Consumer
+Office Supplies,1,20-12-2015,246,Corporate
+Office Supplies,1,20-12-2015,308,Home Office
+Technology,1,20-12-2015,99,Corporate
+Furniture,1,21-12-2015,1021,Consumer
+Office Supplies,1,21-12-2015,723,Consumer
+Office Supplies,1,21-12-2015,133,Corporate
+Technology,1,21-12-2015,128,Consumer
+Furniture,1,22-12-2015,397,Corporate
+Office Supplies,1,22-12-2015,1546,Consumer
+Office Supplies,1,22-12-2015,2220,Corporate
+Office Supplies,1,22-12-2015,54,Home Office
+Technology,1,22-12-2015,269,Home Office
+Office Supplies,1,23-12-2015,327,Corporate
+Office Supplies,1,23-12-2015,158,Home Office
+Technology,1,23-12-2015,126,Consumer
+Furniture,1,24-12-2015,66,Consumer
+Office Supplies,1,24-12-2015,960,Consumer
+Office Supplies,1,24-12-2015,121,Corporate
+Technology,1,24-12-2015,2075,Consumer
+Office Supplies,1,25-12-2015,36,Consumer
+Furniture,1,27-12-2015,1505,Consumer
+Furniture,1,27-12-2015,4624,Corporate
+Office Supplies,1,27-12-2015,835,Consumer
+Office Supplies,1,27-12-2015,253,Corporate
+Technology,1,27-12-2015,357,Consumer
+Technology,1,27-12-2015,1537,Corporate
+Office Supplies,1,28-12-2015,1335,Consumer
+Office Supplies,1,28-12-2015,434,Home Office
+Technology,1,28-12-2015,274,Consumer
+Technology,1,28-12-2015,382,Corporate
+Technology,1,28-12-2015,276,Home Office
+Furniture,1,29-12-2015,426,Corporate
+Furniture,1,29-12-2015,2474,Home Office
+Office Supplies,1,29-12-2015,162,Corporate
+Office Supplies,1,29-12-2015,495,Home Office
+Technology,1,29-12-2015,182,Corporate
+Office Supplies,1,30-12-2015,87,Consumer
+Office Supplies,1,30-12-2015,128,Home Office
+Technology,1,30-12-2015,303,Consumer
+Furniture,1,31-12-2015,299,Home Office
+Office Supplies,1,31-12-2015,166,Consumer
+Office Supplies,1,31-12-2015,40,Home Office
+Technology,1,31-12-2015,492,Consumer
+Furniture,1,01-01-2016,634,Corporate
+Office Supplies,1,01-01-2016,280,Corporate
+Office Supplies,1,03-01-2016,87,Corporate
+Furniture,1,04-01-2016,52,Corporate
+Office Supplies,1,04-01-2016,442,Consumer
+Office Supplies,1,05-01-2016,771,Consumer
+Office Supplies,1,05-01-2016,37,Home Office
+Furniture,1,06-01-2016,240,Consumer
+Furniture,1,06-01-2016,408,Home Office
+Office Supplies,1,06-01-2016,702,Consumer
+Office Supplies,1,06-01-2016,945,Home Office
+Technology,1,06-01-2016,1231,Consumer
+Technology,1,06-01-2016,417,Home Office
+Office Supplies,1,07-01-2016,15,Consumer
+Office Supplies,1,07-01-2016,101,Home Office
+Technology,1,07-01-2016,138,Consumer
+Office Supplies,1,08-01-2016,80,Corporate
+Office Supplies,1,08-01-2016,61,Home Office
+Technology,1,08-01-2016,96,Consumer
+Technology,1,08-01-2016,945,Corporate
+Furniture,1,10-01-2016,889,Consumer
+Office Supplies,1,10-01-2016,249,Consumer
+Technology,1,10-01-2016,966,Consumer
+Technology,1,10-01-2016,379,Corporate
+Office Supplies,1,11-01-2016,1544,Consumer
+Technology,1,11-01-2016,195,Consumer
+Office Supplies,1,12-01-2016,116,Corporate
+Technology,1,12-01-2016,2024,Consumer
+Furniture,1,13-01-2016,101,Corporate
+Office Supplies,1,13-01-2016,1938,Corporate
+Technology,1,13-01-2016,1490,Corporate
+Office Supplies,1,14-01-2016,758,Consumer
+Technology,1,14-01-2016,1280,Home Office
+Office Supplies,1,15-01-2016,57,Consumer
+Technology,1,15-01-2016,387,Consumer
+Furniture,1,17-01-2016,652,Consumer
+Furniture,1,17-01-2016,383,Corporate
+Office Supplies,1,17-01-2016,19,Consumer
+Office Supplies,1,17-01-2016,2099,Corporate
+Office Supplies,1,17-01-2016,91,Home Office
+Technology,1,17-01-2016,237,Consumer
+Technology,1,17-01-2016,70,Corporate
+Office Supplies,1,18-01-2016,132,Consumer
+Office Supplies,1,18-01-2016,164,Home Office
+Technology,1,18-01-2016,241,Consumer
+Furniture,1,19-01-2016,179,Consumer
+Furniture,1,19-01-2016,47,Corporate
+Office Supplies,1,19-01-2016,14,Consumer
+Office Supplies,1,19-01-2016,38,Corporate
+Office Supplies,1,19-01-2016,1450,Home Office
+Technology,1,19-01-2016,323,Corporate
+Furniture,1,20-01-2016,235,Consumer
+Office Supplies,1,20-01-2016,184,Consumer
+Furniture,1,21-01-2016,66,Corporate
+Office Supplies,1,21-01-2016,19,Consumer
+Technology,1,21-01-2016,579,Consumer
+Furniture,1,23-01-2016,142,Home Office
+Furniture,1,24-01-2016,1422,Corporate
+Office Supplies,1,24-01-2016,249,Corporate
+Technology,1,24-01-2016,389,Corporate
+Furniture,1,25-01-2016,414,Consumer
+Office Supplies,1,25-01-2016,936,Consumer
+Technology,1,25-01-2016,1129,Consumer
+Furniture,1,26-01-2016,63,Corporate
+Office Supplies,1,26-01-2016,815,Corporate
+Office Supplies,1,26-01-2016,207,Home Office
+Technology,1,26-01-2016,317,Corporate
+Office Supplies,1,28-01-2016,363,Consumer
+Technology,1,28-01-2016,463,Home Office
+Office Supplies,1,29-01-2016,377,Consumer
+Office Supplies,1,29-01-2016,24,Corporate
+Technology,1,29-01-2016,406,Consumer
+Office Supplies,1,31-01-2016,323,Corporate
+Office Supplies,1,31-01-2016,559,Home Office
+Technology,1,02-02-2016,131,Consumer
+Furniture,1,03-02-2016,249,Consumer
+Office Supplies,1,03-02-2016,549,Consumer
+Technology,1,03-02-2016,5527,Consumer
+Office Supplies,1,04-02-2016,61,Consumer
+Office Supplies,1,04-02-2016,57,Corporate
+Technology,1,05-02-2016,118,Consumer
+Furniture,1,07-02-2016,47,Consumer
+Office Supplies,1,07-02-2016,369,Consumer
+Furniture,1,08-02-2016,703,Consumer
+Furniture,1,08-02-2016,666,Corporate
+Office Supplies,1,08-02-2016,180,Consumer
+Furniture,1,09-02-2016,488,Consumer
+Office Supplies,1,09-02-2016,477,Consumer
+Technology,1,09-02-2016,455,Consumer
+Office Supplies,1,10-02-2016,283,Corporate
+Office Supplies,1,10-02-2016,982,Home Office
+Technology,1,10-02-2016,257,Corporate
+Technology,1,10-02-2016,1037,Home Office
+Office Supplies,1,11-02-2016,55,Corporate
+Office Supplies,1,12-02-2016,139,Consumer
+Furniture,1,14-02-2016,101,Consumer
+Office Supplies,1,14-02-2016,476,Consumer
+Furniture,1,15-02-2016,1240,Consumer
+Office Supplies,1,15-02-2016,78,Consumer
+Office Supplies,1,15-02-2016,100,Corporate
+Technology,1,15-02-2016,827,Consumer
+Furniture,1,16-02-2016,17,Consumer
+Office Supplies,1,16-02-2016,266,Consumer
+Office Supplies,1,16-02-2016,30,Corporate
+Office Supplies,1,18-02-2016,75,Consumer
+Furniture,1,19-02-2016,361,Consumer
+Office Supplies,1,19-02-2016,65,Consumer
+Office Supplies,1,19-02-2016,146,Corporate
+Office Supplies,1,19-02-2016,29,Home Office
+Technology,1,19-02-2016,609,Consumer
+Furniture,1,20-02-2016,160,Consumer
+Office Supplies,1,21-02-2016,175,Consumer
+Office Supplies,1,22-02-2016,153,Consumer
+Office Supplies,1,23-02-2016,103,Consumer
+Office Supplies,1,23-02-2016,111,Home Office
+Technology,1,23-02-2016,199,Consumer
+Technology,1,23-02-2016,142,Home Office
+Furniture,1,24-02-2016,2103,Home Office
+Office Supplies,1,24-02-2016,474,Corporate
+Technology,1,24-02-2016,901,Corporate
+Technology,1,25-02-2016,331,Corporate
+Office Supplies,1,28-02-2016,21,Consumer
+Office Supplies,1,01-03-2016,42,Consumer
+Office Supplies,1,01-03-2016,27,Corporate
+Technology,1,01-03-2016,311,Home Office
+Office Supplies,1,02-03-2016,264,Consumer
+Office Supplies,1,02-03-2016,58,Home Office
+Technology,1,02-03-2016,1144,Consumer
+Furniture,1,03-03-2016,583,Consumer
+Furniture,1,03-03-2016,1565,Corporate
+Office Supplies,1,03-03-2016,696,Consumer
+Office Supplies,1,03-03-2016,289,Corporate
+Technology,1,03-03-2016,2920,Consumer
+Technology,1,03-03-2016,319,Corporate
+Office Supplies,1,04-03-2016,301,Corporate
+Furniture,1,06-03-2016,874,Consumer
+Office Supplies,1,06-03-2016,293,Consumer
+Office Supplies,1,06-03-2016,98,Home Office
+Furniture,1,07-03-2016,984,Consumer
+Office Supplies,1,07-03-2016,174,Consumer
+Office Supplies,1,07-03-2016,29,Corporate
+Furniture,1,08-03-2016,1080,Consumer
+Furniture,1,08-03-2016,483,Corporate
+Office Supplies,1,08-03-2016,1154,Consumer
+Office Supplies,1,08-03-2016,46,Corporate
+Technology,1,08-03-2016,1105,Consumer
+Technology,1,08-03-2016,1931,Home Office
+Office Supplies,1,09-03-2016,44,Corporate
+Furniture,1,10-03-2016,127,Corporate
+Office Supplies,1,10-03-2016,56,Consumer
+Technology,1,10-03-2016,231,Consumer
+Furniture,1,13-03-2016,100,Consumer
+Office Supplies,1,13-03-2016,323,Consumer
+Technology,1,13-03-2016,148,Consumer
+Furniture,1,14-03-2016,127,Home Office
+Office Supplies,1,14-03-2016,217,Consumer
+Office Supplies,1,14-03-2016,49,Home Office
+Technology,1,14-03-2016,1257,Corporate
+Technology,1,14-03-2016,128,Home Office
+Furniture,1,15-03-2016,1273,Consumer
+Furniture,1,15-03-2016,155,Home Office
+Office Supplies,1,15-03-2016,298,Consumer
+Technology,1,15-03-2016,872,Home Office
+Furniture,1,16-03-2016,920,Consumer
+Office Supplies,1,16-03-2016,524,Consumer
+Office Supplies,1,16-03-2016,302,Corporate
+Office Supplies,1,16-03-2016,118,Home Office
+Technology,1,16-03-2016,4060,Consumer
+Furniture,1,17-03-2016,330,Consumer
+Office Supplies,1,17-03-2016,217,Consumer
+Office Supplies,1,17-03-2016,27,Home Office
+Technology,1,17-03-2016,274,Consumer
+Technology,1,17-03-2016,700,Home Office
+Furniture,1,18-03-2016,96,Consumer
+Office Supplies,1,18-03-2016,373,Consumer
+Furniture,1,20-03-2016,111,Consumer
+Office Supplies,1,20-03-2016,1391,Consumer
+Office Supplies,1,20-03-2016,1766,Corporate
+Technology,1,20-03-2016,142,Corporate
+Office Supplies,1,21-03-2016,237,Consumer
+Office Supplies,1,21-03-2016,532,Corporate
+Technology,1,21-03-2016,390,Consumer
+Technology,1,21-03-2016,66,Corporate
+Furniture,1,22-03-2016,953,Consumer
+Office Supplies,1,22-03-2016,93,Corporate
+Furniture,1,23-03-2016,427,Consumer
+Office Supplies,1,23-03-2016,118,Consumer
+Office Supplies,1,23-03-2016,266,Corporate
+Technology,1,23-03-2016,114,Home Office
+Office Supplies,1,24-03-2016,273,Corporate
+Office Supplies,1,24-03-2016,54,Home Office
+Technology,1,24-03-2016,163,Consumer
+Technology,1,24-03-2016,141,Corporate
+Office Supplies,1,25-03-2016,55,Consumer
+Office Supplies,1,25-03-2016,182,Corporate
+Office Supplies,1,27-03-2016,1166,Consumer
+Office Supplies,1,27-03-2016,200,Corporate
+Technology,1,27-03-2016,203,Consumer
+Technology,1,27-03-2016,526,Corporate
+Office Supplies,1,28-03-2016,580,Consumer
+Office Supplies,1,28-03-2016,705,Home Office
+Technology,1,28-03-2016,927,Consumer
+Office Supplies,1,29-03-2016,166,Consumer
+Furniture,1,30-03-2016,152,Consumer
+Office Supplies,1,30-03-2016,813,Consumer
+Technology,1,30-03-2016,1958,Consumer
+Office Supplies,1,31-03-2016,75,Consumer
+Office Supplies,1,31-03-2016,237,Corporate
+Office Supplies,1,01-04-2016,249,Consumer
+Office Supplies,1,01-04-2016,946,Corporate
+Office Supplies,1,01-04-2016,71,Home Office
+Technology,1,01-04-2016,219,Home Office
+Office Supplies,1,03-04-2016,130,Corporate
+Office Supplies,1,03-04-2016,44,Home Office
+Office Supplies,1,04-04-2016,117,Consumer
+Office Supplies,1,04-04-2016,52,Home Office
+Office Supplies,1,05-04-2016,294,Consumer
+Office Supplies,1,06-04-2016,554,Corporate
+Technology,1,06-04-2016,2905,Corporate
+Office Supplies,1,07-04-2016,91,Consumer
+Office Supplies,1,08-04-2016,409,Consumer
+Technology,1,08-04-2016,779,Consumer
+Office Supplies,1,10-04-2016,122,Consumer
+Technology,1,10-04-2016,324,Consumer
+Technology,1,10-04-2016,1033,Home Office
+Furniture,1,11-04-2016,488,Consumer
+Office Supplies,1,11-04-2016,155,Consumer
+Furniture,1,12-04-2016,403,Consumer
+Office Supplies,1,12-04-2016,1209,Consumer
+Office Supplies,1,13-04-2016,26,Consumer
+Technology,1,13-04-2016,680,Consumer
+Furniture,1,14-04-2016,1171,Consumer
+Office Supplies,1,14-04-2016,307,Consumer
+Office Supplies,1,14-04-2016,239,Home Office
+Technology,1,14-04-2016,661,Consumer
+Technology,1,14-04-2016,726,Home Office
+Office Supplies,1,15-04-2016,942,Consumer
+Furniture,1,17-04-2016,919,Consumer
+Office Supplies,1,17-04-2016,1367,Consumer
+Technology,1,17-04-2016,1702,Consumer
+Office Supplies,1,18-04-2016,90,Consumer
+Technology,1,19-04-2016,388,Home Office
+Office Supplies,1,20-04-2016,371,Consumer
+Furniture,1,21-04-2016,1174,Corporate
+Office Supplies,1,21-04-2016,115,Corporate
+Technology,1,21-04-2016,527,Corporate
+Office Supplies,1,23-04-2016,220,Consumer
+Office Supplies,1,23-04-2016,447,Corporate
+Technology,1,23-04-2016,4084,Corporate
+Office Supplies,1,24-04-2016,19,Consumer
+Office Supplies,1,24-04-2016,361,Corporate
+Office Supplies,1,24-04-2016,59,Home Office
+Technology,1,24-04-2016,390,Corporate
+Office Supplies,1,25-04-2016,181,Consumer
+Office Supplies,1,25-04-2016,161,Corporate
+Office Supplies,1,26-04-2016,140,Corporate
+Furniture,1,27-04-2016,427,Consumer
+Office Supplies,1,27-04-2016,1214,Consumer
+Office Supplies,1,27-04-2016,397,Corporate
+Office Supplies,1,27-04-2016,9,Home Office
+Technology,1,27-04-2016,718,Consumer
+Technology,1,27-04-2016,146,Corporate
+Office Supplies,1,28-04-2016,367,Consumer
+Office Supplies,1,28-04-2016,68,Corporate
+Office Supplies,1,28-04-2016,199,Home Office
+Technology,1,28-04-2016,80,Consumer
+Technology,1,28-04-2016,241,Home Office
+Office Supplies,1,29-04-2016,341,Consumer
+Technology,1,29-04-2016,426,Consumer
+Furniture,1,01-05-2016,1131,Consumer
+Office Supplies,1,01-05-2016,142,Consumer
+Office Supplies,1,01-05-2016,102,Home Office
+Furniture,1,02-05-2016,49,Consumer
+Office Supplies,1,02-05-2016,378,Consumer
+Office Supplies,1,02-05-2016,15,Corporate
+Office Supplies,1,02-05-2016,99,Home Office
+Furniture,1,04-05-2016,362,Corporate
+Technology,1,05-05-2016,206,Home Office
+Office Supplies,1,09-05-2016,423,Corporate
+Technology,1,09-05-2016,179,Consumer
+Furniture,1,10-05-2016,901,Consumer
+Office Supplies,1,10-05-2016,156,Consumer
+Office Supplies,1,10-05-2016,10,Home Office
+Furniture,1,12-05-2016,643,Consumer
+Furniture,1,12-05-2016,297,Corporate
+Office Supplies,1,12-05-2016,378,Consumer
+Office Supplies,1,12-05-2016,1168,Corporate
+Furniture,1,13-05-2016,261,Consumer
+Office Supplies,1,13-05-2016,510,Consumer
+Technology,1,13-05-2016,442,Consumer
+Office Supplies,1,14-05-2016,72,Consumer
+Office Supplies,1,15-05-2016,147,Consumer
+Office Supplies,1,15-05-2016,1129,Corporate
+Technology,1,15-05-2016,180,Consumer
+Technology,1,15-05-2016,448,Corporate
+Furniture,1,16-05-2016,69,Consumer
+Office Supplies,1,16-05-2016,548,Consumer
+Office Supplies,1,16-05-2016,474,Corporate
+Technology,1,16-05-2016,421,Consumer
+Furniture,1,17-05-2016,2442,Consumer
+Office Supplies,1,17-05-2016,165,Home Office
+Furniture,1,18-05-2016,1116,Consumer
+Office Supplies,1,18-05-2016,2983,Consumer
+Office Supplies,1,18-05-2016,99,Corporate
+Technology,1,18-05-2016,609,Consumer
+Furniture,1,19-05-2016,706,Consumer
+Office Supplies,1,19-05-2016,546,Consumer
+Office Supplies,1,19-05-2016,60,Corporate
+Furniture,1,22-05-2016,304,Consumer
+Furniture,1,22-05-2016,94,Home Office
+Office Supplies,1,22-05-2016,608,Consumer
+Office Supplies,1,22-05-2016,74,Corporate
+Technology,1,22-05-2016,816,Consumer
+Furniture,1,23-05-2016,720,Corporate
+Office Supplies,1,23-05-2016,89,Corporate
+Office Supplies,1,23-05-2016,85,Home Office
+Technology,1,23-05-2016,440,Corporate
+Furniture,1,24-05-2016,179,Consumer
+Office Supplies,1,24-05-2016,551,Consumer
+Technology,1,24-05-2016,456,Consumer
+Furniture,1,25-05-2016,231,Corporate
+Office Supplies,1,25-05-2016,90,Consumer
+Office Supplies,1,25-05-2016,207,Corporate
+Technology,1,25-05-2016,712,Corporate
+Technology,1,25-05-2016,455,Home Office
+Office Supplies,1,26-05-2016,504,Consumer
+Technology,1,26-05-2016,601,Consumer
+Office Supplies,1,27-05-2016,324,Corporate
+Technology,1,29-05-2016,1559,Consumer
+Office Supplies,1,30-05-2016,87,Consumer
+Technology,1,30-05-2016,5982,Consumer
+Office Supplies,1,31-05-2016,25,Consumer
+Furniture,1,01-06-2016,284,Corporate
+Furniture,1,01-06-2016,533,Home Office
+Office Supplies,1,01-06-2016,135,Consumer
+Office Supplies,1,01-06-2016,303,Corporate
+Technology,1,01-06-2016,828,Consumer
+Technology,1,01-06-2016,1875,Corporate
+Furniture,1,02-06-2016,1950,Consumer
+Office Supplies,1,02-06-2016,412,Consumer
+Office Supplies,1,02-06-2016,231,Corporate
+Technology,1,02-06-2016,620,Corporate
+Furniture,1,03-06-2016,144,Corporate
+Office Supplies,1,03-06-2016,597,Consumer
+Office Supplies,1,03-06-2016,112,Corporate
+Technology,1,03-06-2016,1017,Consumer
+Furniture,1,04-06-2016,49,Consumer
+Office Supplies,1,04-06-2016,125,Consumer
+Furniture,1,05-06-2016,278,Consumer
+Office Supplies,1,05-06-2016,140,Consumer
+Office Supplies,1,05-06-2016,202,Corporate
+Office Supplies,1,06-06-2016,35,Corporate
+Technology,1,06-06-2016,1759,Corporate
+Furniture,1,07-06-2016,1071,Consumer
+Furniture,1,07-06-2016,37,Corporate
+Office Supplies,1,07-06-2016,225,Consumer
+Office Supplies,1,07-06-2016,104,Corporate
+Technology,1,07-06-2016,123,Home Office
+Furniture,1,08-06-2016,413,Consumer
+Office Supplies,1,08-06-2016,112,Home Office
+Technology,1,08-06-2016,266,Consumer
+Technology,1,08-06-2016,516,Corporate
+Furniture,1,09-06-2016,201,Consumer
+Office Supplies,1,09-06-2016,1165,Consumer
+Office Supplies,1,09-06-2016,124,Corporate
+Technology,1,09-06-2016,2046,Consumer
+Furniture,1,10-06-2016,138,Consumer
+Office Supplies,1,10-06-2016,154,Consumer
+Technology,1,10-06-2016,451,Consumer
+Furniture,1,12-06-2016,518,Consumer
+Office Supplies,1,12-06-2016,142,Consumer
+Office Supplies,1,12-06-2016,476,Corporate
+Office Supplies,1,12-06-2016,94,Home Office
+Technology,1,12-06-2016,369,Consumer
+Furniture,1,13-06-2016,93,Corporate
+Office Supplies,1,13-06-2016,621,Consumer
+Office Supplies,1,13-06-2016,194,Corporate
+Technology,1,13-06-2016,336,Consumer
+Office Supplies,1,14-06-2016,260,Corporate
+Technology,1,14-06-2016,821,Corporate
+Office Supplies,1,15-06-2016,33,Consumer
+Office Supplies,1,15-06-2016,580,Home Office
+Technology,1,15-06-2016,1415,Home Office
+Furniture,1,16-06-2016,27,Consumer
+Furniture,1,16-06-2016,850,Corporate
+Office Supplies,1,16-06-2016,274,Consumer
+Office Supplies,1,16-06-2016,340,Corporate
+Office Supplies,1,16-06-2016,52,Home Office
+Technology,1,16-06-2016,64,Consumer
+Technology,1,16-06-2016,1186,Corporate
+Technology,1,16-06-2016,82,Home Office
+Furniture,1,17-06-2016,2572,Consumer
+Office Supplies,1,17-06-2016,320,Consumer
+Office Supplies,1,17-06-2016,31,Corporate
+Furniture,1,19-06-2016,3131,Consumer
+Furniture,1,19-06-2016,46,Home Office
+Office Supplies,1,19-06-2016,332,Consumer
+Office Supplies,1,19-06-2016,96,Home Office
+Technology,1,19-06-2016,1451,Consumer
+Technology,1,19-06-2016,1616,Home Office
+Furniture,1,20-06-2016,2362,Consumer
+Furniture,1,20-06-2016,316,Corporate
+Office Supplies,1,20-06-2016,3235,Consumer
+Office Supplies,1,20-06-2016,938,Corporate
+Technology,1,20-06-2016,2686,Consumer
+Furniture,1,21-06-2016,315,Consumer
+Furniture,1,21-06-2016,2352,Corporate
+Furniture,1,21-06-2016,409,Home Office
+Office Supplies,1,21-06-2016,480,Consumer
+Office Supplies,1,21-06-2016,13,Corporate
+Office Supplies,1,21-06-2016,26,Home Office
+Technology,1,21-06-2016,1027,Consumer
+Technology,1,21-06-2016,1530,Corporate
+Furniture,1,22-06-2016,549,Consumer
+Office Supplies,1,22-06-2016,64,Consumer
+Office Supplies,1,22-06-2016,354,Corporate
+Office Supplies,1,22-06-2016,183,Home Office
+Technology,1,22-06-2016,107,Consumer
+Furniture,1,23-06-2016,429,Home Office
+Office Supplies,1,23-06-2016,308,Consumer
+Technology,1,23-06-2016,1153,Home Office
+Furniture,1,24-06-2016,1677,Consumer
+Office Supplies,1,24-06-2016,367,Consumer
+Furniture,1,26-06-2016,486,Consumer
+Furniture,1,26-06-2016,377,Home Office
+Office Supplies,1,26-06-2016,34,Consumer
+Office Supplies,1,26-06-2016,358,Corporate
+Office Supplies,1,26-06-2016,892,Home Office
+Technology,1,26-06-2016,2246,Consumer
+Furniture,1,27-06-2016,678,Corporate
+Office Supplies,1,27-06-2016,60,Consumer
+Technology,1,27-06-2016,125,Consumer
+Technology,1,27-06-2016,1497,Corporate
+Office Supplies,1,28-06-2016,86,Corporate
+Office Supplies,1,28-06-2016,313,Home Office
+Technology,1,28-06-2016,142,Corporate
+Technology,1,28-06-2016,706,Home Office
+Furniture,1,29-06-2016,889,Home Office
+Office Supplies,1,29-06-2016,204,Consumer
+Office Supplies,1,29-06-2016,77,Corporate
+Office Supplies,1,29-06-2016,270,Home Office
+Technology,1,29-06-2016,213,Consumer
+Furniture,1,30-06-2016,848,Consumer
+Furniture,1,30-06-2016,270,Corporate
+Office Supplies,1,30-06-2016,327,Consumer
+Office Supplies,1,30-06-2016,144,Corporate
+Office Supplies,1,30-06-2016,521,Home Office
+Technology,1,30-06-2016,1664,Consumer
+Technology,1,30-06-2016,454,Corporate
+Furniture,1,01-07-2016,570,Home Office
+Office Supplies,1,01-07-2016,364,Consumer
+Furniture,1,02-07-2016,1828,Corporate
+Office Supplies,1,02-07-2016,150,Corporate
+Technology,1,02-07-2016,585,Corporate
+Office Supplies,1,03-07-2016,287,Consumer
+Office Supplies,1,03-07-2016,426,Home Office
+Furniture,1,04-07-2016,816,Consumer
+Office Supplies,1,04-07-2016,30,Corporate
+Technology,1,04-07-2016,2335,Corporate
+Office Supplies,1,05-07-2016,1970,Consumer
+Office Supplies,1,05-07-2016,74,Corporate
+Office Supplies,1,05-07-2016,121,Home Office
+Office Supplies,1,06-07-2016,262,Consumer
+Technology,1,06-07-2016,519,Consumer
+Furniture,1,07-07-2016,741,Corporate
+Furniture,1,07-07-2016,933,Home Office
+Office Supplies,1,07-07-2016,2472,Corporate
+Office Supplies,1,07-07-2016,77,Home Office
+Office Supplies,1,11-07-2016,55,Home Office
+Furniture,1,12-07-2016,1842,Consumer
+Office Supplies,1,12-07-2016,1371,Consumer
+Office Supplies,1,12-07-2016,68,Corporate
+Technology,1,12-07-2016,236,Corporate
+Furniture,1,13-07-2016,1063,Home Office
+Office Supplies,1,13-07-2016,90,Consumer
+Office Supplies,1,13-07-2016,51,Home Office
+Office Supplies,1,14-07-2016,287,Consumer
+Office Supplies,1,14-07-2016,268,Corporate
+Office Supplies,1,14-07-2016,699,Home Office
+Technology,1,14-07-2016,1793,Consumer
+Technology,1,14-07-2016,1598,Corporate
+Furniture,1,15-07-2016,448,Corporate
+Office Supplies,1,15-07-2016,967,Corporate
+Furniture,1,17-07-2016,472,Consumer
+Office Supplies,1,17-07-2016,91,Consumer
+Technology,1,17-07-2016,178,Consumer
+Technology,1,17-07-2016,854,Corporate
+Furniture,1,18-07-2016,269,Consumer
+Furniture,1,18-07-2016,509,Corporate
+Office Supplies,1,18-07-2016,97,Consumer
+Office Supplies,1,18-07-2016,309,Corporate
+Technology,1,18-07-2016,2331,Corporate
+Office Supplies,1,19-07-2016,99,Consumer
+Technology,1,19-07-2016,1181,Consumer
+Office Supplies,1,20-07-2016,344,Consumer
+Furniture,1,21-07-2016,133,Consumer
+Furniture,1,21-07-2016,46,Corporate
+Office Supplies,1,21-07-2016,76,Consumer
+Office Supplies,1,21-07-2016,988,Corporate
+Technology,1,21-07-2016,1204,Consumer
+Office Supplies,1,24-07-2016,1784,Consumer
+Technology,1,24-07-2016,3973,Consumer
+Office Supplies,1,25-07-2016,1226,Consumer
+Office Supplies,1,25-07-2016,376,Corporate
+Office Supplies,1,26-07-2016,385,Consumer
+Office Supplies,1,26-07-2016,471,Corporate
+Technology,1,26-07-2016,209,Corporate
+Furniture,1,27-07-2016,56,Consumer
+Office Supplies,1,28-07-2016,536,Consumer
+Office Supplies,1,29-07-2016,47,Consumer
+Office Supplies,1,29-07-2016,43,Home Office
+Technology,1,29-07-2016,426,Consumer
+Furniture,1,31-07-2016,279,Consumer
+Furniture,1,31-07-2016,1541,Corporate
+Office Supplies,1,31-07-2016,867,Consumer
+Office Supplies,1,31-07-2016,625,Corporate
+Technology,1,31-07-2016,424,Consumer
+Furniture,1,02-08-2016,385,Consumer
+Office Supplies,1,02-08-2016,1414,Consumer
+Office Supplies,1,02-08-2016,3701,Corporate
+Technology,1,02-08-2016,1967,Consumer
+Technology,1,02-08-2016,390,Corporate
+Furniture,1,03-08-2016,78,Consumer
+Furniture,1,03-08-2016,168,Home Office
+Office Supplies,1,03-08-2016,196,Corporate
+Office Supplies,1,03-08-2016,589,Home Office
+Technology,1,03-08-2016,1638,Home Office
+Furniture,1,04-08-2016,1392,Consumer
+Furniture,1,04-08-2016,119,Corporate
+Furniture,1,04-08-2016,444,Home Office
+Office Supplies,1,04-08-2016,1448,Consumer
+Office Supplies,1,04-08-2016,157,Corporate
+Office Supplies,1,04-08-2016,1733,Home Office
+Technology,1,04-08-2016,2798,Consumer
+Technology,1,04-08-2016,975,Corporate
+Technology,1,04-08-2016,288,Home Office
+Furniture,1,05-08-2016,137,Corporate
+Office Supplies,1,05-08-2016,58,Consumer
+Office Supplies,1,05-08-2016,978,Corporate
+Office Supplies,1,05-08-2016,53,Home Office
+Furniture,1,06-08-2016,1259,Home Office
+Office Supplies,1,06-08-2016,620,Home Office
+Furniture,1,07-08-2016,122,Consumer
+Office Supplies,1,07-08-2016,494,Consumer
+Office Supplies,1,07-08-2016,236,Corporate
+Office Supplies,1,07-08-2016,11,Home Office
+Technology,1,07-08-2016,490,Consumer
+Technology,1,07-08-2016,696,Corporate
+Technology,1,07-08-2016,964,Home Office
+Furniture,1,08-08-2016,501,Consumer
+Furniture,1,08-08-2016,815,Corporate
+Office Supplies,1,08-08-2016,305,Consumer
+Office Supplies,1,08-08-2016,100,Corporate
+Office Supplies,1,09-08-2016,277,Consumer
+Office Supplies,1,09-08-2016,230,Corporate
+Technology,1,09-08-2016,495,Corporate
+Furniture,1,10-08-2016,684,Corporate
+Office Supplies,1,10-08-2016,234,Consumer
+Office Supplies,1,10-08-2016,249,Corporate
+Office Supplies,1,10-08-2016,404,Home Office
+Technology,1,10-08-2016,1005,Consumer
+Technology,1,10-08-2016,970,Home Office
+Office Supplies,1,11-08-2016,610,Consumer
+Office Supplies,1,11-08-2016,525,Corporate
+Technology,1,11-08-2016,2517,Corporate
+Office Supplies,1,12-08-2016,36,Consumer
+Office Supplies,1,13-08-2016,55,Consumer
+Furniture,1,14-08-2016,803,Consumer
+Office Supplies,1,14-08-2016,1303,Consumer
+Office Supplies,1,14-08-2016,65,Home Office
+Technology,1,14-08-2016,306,Consumer
+Furniture,1,15-08-2016,91,Consumer
+Office Supplies,1,15-08-2016,2306,Consumer
+Office Supplies,1,15-08-2016,319,Home Office
+Technology,1,15-08-2016,1973,Consumer
+Technology,1,15-08-2016,1172,Home Office
+Furniture,1,16-08-2016,1143,Consumer
+Furniture,1,16-08-2016,236,Home Office
+Office Supplies,1,16-08-2016,724,Consumer
+Office Supplies,1,16-08-2016,6,Home Office
+Technology,1,16-08-2016,531,Home Office
+Furniture,1,17-08-2016,147,Consumer
+Office Supplies,1,17-08-2016,448,Consumer
+Office Supplies,1,17-08-2016,222,Corporate
+Office Supplies,1,17-08-2016,126,Home Office
+Furniture,1,18-08-2016,1173,Consumer
+Furniture,1,18-08-2016,203,Home Office
+Office Supplies,1,18-08-2016,186,Home Office
+Furniture,1,19-08-2016,189,Consumer
+Office Supplies,1,19-08-2016,474,Corporate
+Office Supplies,1,19-08-2016,53,Home Office
+Technology,1,19-08-2016,1403,Home Office
+Furniture,1,21-08-2016,3647,Consumer
+Office Supplies,1,21-08-2016,63,Corporate
+Technology,1,21-08-2016,687,Consumer
+Furniture,1,22-08-2016,1077,Corporate
+Office Supplies,1,22-08-2016,97,Consumer
+Office Supplies,1,22-08-2016,196,Corporate
+Technology,1,22-08-2016,242,Consumer
+Technology,1,22-08-2016,157,Corporate
+Furniture,1,23-08-2016,1084,Corporate
+Office Supplies,1,23-08-2016,667,Corporate
+Technology,1,23-08-2016,616,Corporate
+Furniture,1,24-08-2016,1728,Consumer
+Furniture,1,24-08-2016,354,Corporate
+Office Supplies,1,24-08-2016,196,Consumer
+Office Supplies,1,24-08-2016,316,Corporate
+Office Supplies,1,24-08-2016,1239,Home Office
+Technology,1,24-08-2016,236,Home Office
+Furniture,1,25-08-2016,2905,Consumer
+Furniture,1,25-08-2016,371,Corporate
+Furniture,1,25-08-2016,90,Home Office
+Office Supplies,1,25-08-2016,2012,Consumer
+Office Supplies,1,25-08-2016,381,Corporate
+Office Supplies,1,25-08-2016,387,Home Office
+Technology,1,25-08-2016,3329,Consumer
+Technology,1,25-08-2016,156,Home Office
+Office Supplies,1,26-08-2016,737,Consumer
+Furniture,1,28-08-2016,47,Consumer
+Office Supplies,1,28-08-2016,49,Consumer
+Office Supplies,1,28-08-2016,46,Corporate
+Office Supplies,1,28-08-2016,145,Home Office
+Technology,1,28-08-2016,450,Consumer
+Office Supplies,1,29-08-2016,112,Consumer
+Technology,1,29-08-2016,1185,Consumer
+Furniture,1,30-08-2016,1559,Consumer
+Office Supplies,1,30-08-2016,2640,Consumer
+Office Supplies,1,30-08-2016,118,Corporate
+Office Supplies,1,30-08-2016,1365,Home Office
+Technology,1,30-08-2016,4808,Consumer
+Technology,1,30-08-2016,121,Home Office
+Furniture,1,31-08-2016,2655,Corporate
+Office Supplies,1,31-08-2016,350,Consumer
+Office Supplies,1,31-08-2016,255,Corporate
+Office Supplies,1,31-08-2016,193,Home Office
+Technology,1,31-08-2016,2008,Consumer
+Office Supplies,1,01-09-2016,900,Consumer
+Office Supplies,1,01-09-2016,57,Corporate
+Office Supplies,1,01-09-2016,17,Home Office
+Technology,1,01-09-2016,651,Consumer
+Technology,1,01-09-2016,1720,Corporate
+Technology,1,01-09-2016,1188,Home Office
+Furniture,1,02-09-2016,116,Consumer
+Furniture,1,02-09-2016,766,Home Office
+Office Supplies,1,02-09-2016,612,Consumer
+Office Supplies,1,02-09-2016,259,Home Office
+Technology,1,02-09-2016,117,Consumer
+Technology,1,02-09-2016,454,Home Office
+Furniture,1,03-09-2016,241,Corporate
+Office Supplies,1,03-09-2016,578,Consumer
+Office Supplies,1,03-09-2016,42,Corporate
+Technology,1,03-09-2016,82,Corporate
+Office Supplies,1,04-09-2016,288,Consumer
+Office Supplies,1,04-09-2016,125,Corporate
+Office Supplies,1,04-09-2016,29,Home Office
+Technology,1,04-09-2016,159,Corporate
+Furniture,1,05-09-2016,188,Consumer
+Furniture,1,05-09-2016,1035,Corporate
+Office Supplies,1,05-09-2016,774,Consumer
+Technology,1,05-09-2016,870,Consumer
+Technology,1,05-09-2016,215,Corporate
+Furniture,1,06-09-2016,237,Consumer
+Furniture,1,06-09-2016,660,Corporate
+Office Supplies,1,06-09-2016,335,Corporate
+Office Supplies,1,06-09-2016,17,Home Office
+Technology,1,06-09-2016,186,Consumer
+Furniture,1,07-09-2016,439,Consumer
+Office Supplies,1,07-09-2016,431,Consumer
+Office Supplies,1,07-09-2016,17,Corporate
+Technology,1,07-09-2016,225,Consumer
+Furniture,1,08-09-2016,2675,Consumer
+Office Supplies,1,08-09-2016,77,Consumer
+Office Supplies,1,08-09-2016,277,Corporate
+Office Supplies,1,08-09-2016,55,Home Office
+Technology,1,08-09-2016,1554,Consumer
+Technology,1,08-09-2016,157,Corporate
+Technology,1,08-09-2016,691,Home Office
+Furniture,1,09-09-2016,129,Consumer
+Office Supplies,1,09-09-2016,213,Corporate
+Furniture,1,10-09-2016,1225,Corporate
+Office Supplies,1,10-09-2016,460,Corporate
+Furniture,1,11-09-2016,432,Corporate
+Furniture,1,11-09-2016,804,Home Office
+Office Supplies,1,11-09-2016,154,Consumer
+Office Supplies,1,11-09-2016,585,Corporate
+Office Supplies,1,11-09-2016,1052,Home Office
+Technology,1,11-09-2016,783,Consumer
+Technology,1,11-09-2016,1318,Corporate
+Furniture,1,12-09-2016,46,Home Office
+Office Supplies,1,12-09-2016,372,Consumer
+Office Supplies,1,12-09-2016,407,Home Office
+Technology,1,12-09-2016,209,Corporate
+Furniture,1,13-09-2016,463,Consumer
+Furniture,1,13-09-2016,186,Corporate
+Office Supplies,1,13-09-2016,703,Consumer
+Office Supplies,1,13-09-2016,153,Corporate
+Office Supplies,1,13-09-2016,111,Home Office
+Technology,1,13-09-2016,1020,Corporate
+Furniture,1,14-09-2016,242,Consumer
+Furniture,1,14-09-2016,455,Corporate
+Office Supplies,1,14-09-2016,23,Consumer
+Office Supplies,1,14-09-2016,77,Corporate
+Office Supplies,1,14-09-2016,41,Home Office
+Technology,1,14-09-2016,276,Consumer
+Furniture,1,15-09-2016,382,Corporate
+Office Supplies,1,15-09-2016,373,Consumer
+Technology,1,15-09-2016,95,Consumer
+Technology,1,16-09-2016,320,Home Office
+Office Supplies,1,17-09-2016,37,Corporate
+Technology,1,17-09-2016,151,Corporate
+Office Supplies,1,18-09-2016,1512,Consumer
+Office Supplies,1,18-09-2016,298,Home Office
+Technology,1,18-09-2016,1817,Consumer
+Technology,1,18-09-2016,426,Home Office
+Furniture,1,19-09-2016,2365,Corporate
+Office Supplies,1,19-09-2016,416,Corporate
+Technology,1,19-09-2016,1015,Corporate
+Furniture,1,20-09-2016,44,Consumer
+Office Supplies,1,20-09-2016,389,Consumer
+Technology,1,20-09-2016,309,Consumer
+Furniture,1,21-09-2016,4264,Consumer
+Office Supplies,1,21-09-2016,2148,Consumer
+Office Supplies,1,21-09-2016,209,Corporate
+Technology,1,21-09-2016,4914,Consumer
+Furniture,1,22-09-2016,133,Consumer
+Office Supplies,1,22-09-2016,159,Consumer
+Office Supplies,1,22-09-2016,17,Corporate
+Office Supplies,1,22-09-2016,59,Home Office
+Technology,1,22-09-2016,1270,Consumer
+Furniture,1,23-09-2016,357,Corporate
+Office Supplies,1,23-09-2016,610,Corporate
+Technology,1,23-09-2016,299,Consumer
+Technology,1,23-09-2016,834,Corporate
+Furniture,1,25-09-2016,264,Consumer
+Furniture,1,25-09-2016,202,Corporate
+Office Supplies,1,25-09-2016,1918,Consumer
+Office Supplies,1,25-09-2016,242,Corporate
+Technology,1,25-09-2016,614,Consumer
+Technology,1,25-09-2016,358,Corporate
+Furniture,1,26-09-2016,190,Consumer
+Office Supplies,1,26-09-2016,511,Consumer
+Office Supplies,1,26-09-2016,66,Home Office
+Technology,1,26-09-2016,442,Consumer
+Technology,1,26-09-2016,243,Home Office
+Furniture,1,27-09-2016,848,Consumer
+Office Supplies,1,27-09-2016,188,Consumer
+Furniture,1,28-09-2016,697,Home Office
+Office Supplies,1,28-09-2016,755,Consumer
+Office Supplies,1,28-09-2016,201,Corporate
+Office Supplies,1,28-09-2016,251,Home Office
+Technology,1,28-09-2016,779,Home Office
+Furniture,1,29-09-2016,3346,Consumer
+Office Supplies,1,29-09-2016,898,Consumer
+Technology,1,29-09-2016,1130,Consumer
+Technology,1,29-09-2016,464,Home Office
+Office Supplies,1,30-09-2016,217,Consumer
+Office Supplies,1,30-09-2016,688,Corporate
+Technology,1,30-09-2016,2758,Consumer
+Furniture,1,02-10-2016,153,Consumer
+Furniture,1,02-10-2016,1853,Corporate
+Office Supplies,1,02-10-2016,121,Consumer
+Office Supplies,1,02-10-2016,345,Corporate
+Technology,1,02-10-2016,1056,Consumer
+Technology,1,02-10-2016,1076,Corporate
+Technology,1,03-10-2016,87,Home Office
+Furniture,1,04-10-2016,37,Corporate
+Office Supplies,1,04-10-2016,70,Corporate
+Furniture,1,05-10-2016,1665,Consumer
+Office Supplies,1,05-10-2016,69,Consumer
+Office Supplies,1,05-10-2016,201,Home Office
+Technology,1,05-10-2016,501,Consumer
+Furniture,1,06-10-2016,621,Corporate
+Office Supplies,1,06-10-2016,427,Corporate
+Technology,1,06-10-2016,184,Consumer
+Technology,1,06-10-2016,73,Corporate
+Furniture,1,07-10-2016,444,Consumer
+Office Supplies,1,07-10-2016,401,Consumer
+Office Supplies,1,09-10-2016,291,Consumer
+Office Supplies,1,10-10-2016,54,Consumer
+Office Supplies,1,11-10-2016,99,Consumer
+Office Supplies,1,11-10-2016,181,Corporate
+Technology,1,11-10-2016,648,Consumer
+Technology,1,11-10-2016,361,Home Office
+Office Supplies,1,12-10-2016,144,Corporate
+Office Supplies,1,12-10-2016,320,Home Office
+Technology,1,12-10-2016,924,Corporate
+Technology,1,12-10-2016,76,Home Office
+Office Supplies,1,13-10-2016,54,Home Office
+Technology,1,14-10-2016,2188,Consumer
+Furniture,1,16-10-2016,2603,Corporate
+Office Supplies,1,16-10-2016,441,Consumer
+Office Supplies,1,16-10-2016,51,Corporate
+Furniture,1,17-10-2016,247,Consumer
+Office Supplies,1,17-10-2016,13,Consumer
+Technology,1,17-10-2016,311,Consumer
+Furniture,1,18-10-2016,869,Consumer
+Furniture,1,18-10-2016,312,Home Office
+Office Supplies,1,18-10-2016,25,Consumer
+Office Supplies,1,18-10-2016,578,Corporate
+Office Supplies,1,18-10-2016,306,Home Office
+Technology,1,18-10-2016,219,Home Office
+Office Supplies,1,19-10-2016,111,Consumer
+Office Supplies,1,19-10-2016,240,Home Office
+Technology,1,19-10-2016,92,Consumer
+Technology,1,19-10-2016,551,Home Office
+Office Supplies,1,20-10-2016,100,Consumer
+Office Supplies,1,20-10-2016,711,Home Office
+Furniture,1,21-10-2016,673,Consumer
+Office Supplies,1,21-10-2016,45,Consumer
+Office Supplies,1,22-10-2016,139,Consumer
+Furniture,1,23-10-2016,508,Corporate
+Furniture,1,23-10-2016,763,Home Office
+Office Supplies,1,23-10-2016,12,Consumer
+Office Supplies,1,23-10-2016,131,Corporate
+Furniture,1,24-10-2016,678,Corporate
+Office Supplies,1,24-10-2016,97,Corporate
+Furniture,1,25-10-2016,337,Corporate
+Office Supplies,1,25-10-2016,848,Corporate
+Technology,1,25-10-2016,236,Corporate
+Office Supplies,1,26-10-2016,499,Home Office
+Technology,1,26-10-2016,252,Home Office
+Office Supplies,1,27-10-2016,236,Home Office
+Technology,1,27-10-2016,314,Home Office
+Furniture,1,28-10-2016,1254,Consumer
+Office Supplies,1,28-10-2016,405,Consumer
+Office Supplies,1,28-10-2016,292,Corporate
+Furniture,1,30-10-2016,177,Consumer
+Furniture,1,31-10-2016,870,Consumer
+Furniture,1,31-10-2016,383,Corporate
+Furniture,1,31-10-2016,47,Home Office
+Office Supplies,1,31-10-2016,766,Consumer
+Office Supplies,1,31-10-2016,301,Corporate
+Office Supplies,1,31-10-2016,212,Home Office
+Technology,1,31-10-2016,1540,Consumer
+Technology,1,31-10-2016,1286,Corporate
+Technology,1,31-10-2016,607,Home Office
+Office Supplies,1,01-11-2016,243,Consumer
+Office Supplies,1,01-11-2016,1086,Corporate
+Office Supplies,1,02-11-2016,164,Consumer
+Office Supplies,1,02-11-2016,344,Corporate
+Office Supplies,1,02-11-2016,91,Home Office
+Furniture,1,03-11-2016,2154,Consumer
+Office Supplies,1,03-11-2016,509,Consumer
+Office Supplies,1,03-11-2016,127,Corporate
+Office Supplies,1,03-11-2016,110,Home Office
+Technology,1,03-11-2016,749,Consumer
+Office Supplies,1,04-11-2016,154,Consumer
+Office Supplies,1,04-11-2016,41,Home Office
+Technology,1,04-11-2016,631,Home Office
+Furniture,1,06-11-2016,316,Consumer
+Furniture,1,06-11-2016,160,Corporate
+Furniture,1,06-11-2016,750,Home Office
+Office Supplies,1,06-11-2016,44,Consumer
+Office Supplies,1,06-11-2016,680,Corporate
+Office Supplies,1,06-11-2016,66,Home Office
+Technology,1,06-11-2016,993,Home Office
+Office Supplies,1,07-11-2016,1935,Consumer
+Office Supplies,1,07-11-2016,112,Corporate
+Technology,1,07-11-2016,212,Consumer
+Office Supplies,1,08-11-2016,121,Consumer
+Office Supplies,1,08-11-2016,74,Corporate
+Office Supplies,1,08-11-2016,127,Home Office
+Technology,1,08-11-2016,340,Corporate
+Office Supplies,1,09-11-2016,948,Consumer
+Office Supplies,1,09-11-2016,723,Corporate
+Technology,1,09-11-2016,530,Corporate
+Furniture,1,10-11-2016,192,Consumer
+Furniture,1,10-11-2016,189,Corporate
+Office Supplies,1,10-11-2016,338,Consumer
+Office Supplies,1,10-11-2016,175,Corporate
+Technology,1,10-11-2016,1225,Corporate
+Furniture,1,11-11-2016,379,Consumer
+Furniture,1,11-11-2016,1882,Corporate
+Office Supplies,1,11-11-2016,2147,Consumer
+Office Supplies,1,11-11-2016,362,Corporate
+Technology,1,11-11-2016,2441,Consumer
+Technology,1,11-11-2016,315,Corporate
+Furniture,1,13-11-2016,831,Consumer
+Furniture,1,13-11-2016,880,Corporate
+Furniture,1,13-11-2016,1047,Home Office
+Office Supplies,1,13-11-2016,245,Consumer
+Office Supplies,1,13-11-2016,99,Corporate
+Office Supplies,1,13-11-2016,265,Home Office
+Technology,1,13-11-2016,731,Consumer
+Technology,1,13-11-2016,84,Home Office
+Furniture,1,14-11-2016,370,Home Office
+Office Supplies,1,14-11-2016,3166,Consumer
+Office Supplies,1,14-11-2016,735,Corporate
+Office Supplies,1,14-11-2016,23,Home Office
+Technology,1,14-11-2016,333,Consumer
+Furniture,1,15-11-2016,474,Home Office
+Office Supplies,1,15-11-2016,24,Corporate
+Office Supplies,1,15-11-2016,426,Home Office
+Technology,1,15-11-2016,638,Home Office
+Furniture,1,16-11-2016,56,Corporate
+Office Supplies,1,16-11-2016,125,Consumer
+Office Supplies,1,16-11-2016,1853,Corporate
+Technology,1,16-11-2016,632,Corporate
+Furniture,1,17-11-2016,237,Corporate
+Office Supplies,1,17-11-2016,583,Consumer
+Office Supplies,1,17-11-2016,270,Corporate
+Office Supplies,1,17-11-2016,172,Home Office
+Technology,1,17-11-2016,1879,Consumer
+Technology,1,17-11-2016,332,Home Office
+Furniture,1,18-11-2016,353,Consumer
+Office Supplies,1,18-11-2016,37,Corporate
+Office Supplies,1,18-11-2016,37,Home Office
+Technology,1,18-11-2016,72,Consumer
+Office Supplies,1,20-11-2016,196,Consumer
+Office Supplies,1,20-11-2016,482,Corporate
+Office Supplies,1,20-11-2016,59,Home Office
+Technology,1,20-11-2016,1034,Home Office
+Furniture,1,21-11-2016,1074,Corporate
+Office Supplies,1,21-11-2016,256,Consumer
+Office Supplies,1,21-11-2016,253,Corporate
+Office Supplies,1,21-11-2016,536,Home Office
+Technology,1,21-11-2016,749,Consumer
+Technology,1,21-11-2016,1343,Home Office
+Furniture,1,22-11-2016,110,Consumer
+Office Supplies,1,22-11-2016,784,Consumer
+Office Supplies,1,22-11-2016,86,Corporate
+Technology,1,22-11-2016,1371,Consumer
+Furniture,1,23-11-2016,723,Consumer
+Office Supplies,1,23-11-2016,709,Consumer
+Office Supplies,1,23-11-2016,192,Corporate
+Office Supplies,1,23-11-2016,13,Home Office
+Technology,1,23-11-2016,185,Corporate
+Furniture,1,24-11-2016,1076,Consumer
+Furniture,1,24-11-2016,1260,Corporate
+Office Supplies,1,24-11-2016,1199,Corporate
+Technology,1,24-11-2016,344,Consumer
+Technology,1,24-11-2016,2178,Corporate
+Furniture,1,25-11-2016,110,Consumer
+Furniture,1,25-11-2016,215,Corporate
+Office Supplies,1,25-11-2016,1541,Consumer
+Office Supplies,1,26-11-2016,223,Corporate
+Furniture,1,27-11-2016,491,Home Office
+Office Supplies,1,27-11-2016,419,Consumer
+Office Supplies,1,27-11-2016,276,Home Office
+Technology,1,27-11-2016,197,Corporate
+Furniture,1,28-11-2016,135,Consumer
+Furniture,1,28-11-2016,322,Corporate
+Office Supplies,1,28-11-2016,366,Consumer
+Office Supplies,1,28-11-2016,103,Corporate
+Technology,1,28-11-2016,227,Corporate
+Office Supplies,1,29-11-2016,426,Consumer
+Furniture,1,30-11-2016,65,Consumer
+Office Supplies,1,30-11-2016,443,Consumer
+Office Supplies,1,30-11-2016,249,Corporate
+Technology,1,30-11-2016,1354,Corporate
+Furniture,1,01-12-2016,385,Home Office
+Office Supplies,1,01-12-2016,40,Consumer
+Office Supplies,1,01-12-2016,119,Home Office
+Furniture,1,02-12-2016,670,Consumer
+Office Supplies,1,02-12-2016,1508,Consumer
+Technology,1,02-12-2016,975,Consumer
+Furniture,1,04-12-2016,1000,Consumer
+Furniture,1,04-12-2016,1050,Corporate
+Office Supplies,1,04-12-2016,1100,Consumer
+Office Supplies,1,04-12-2016,192,Corporate
+Office Supplies,1,04-12-2016,212,Home Office
+Technology,1,04-12-2016,1323,Home Office
+Furniture,1,05-12-2016,112,Consumer
+Furniture,1,05-12-2016,211,Home Office
+Office Supplies,1,05-12-2016,726,Consumer
+Office Supplies,1,05-12-2016,53,Corporate
+Office Supplies,1,05-12-2016,458,Home Office
+Technology,1,05-12-2016,568,Consumer
+Technology,1,05-12-2016,241,Corporate
+Furniture,1,06-12-2016,264,Corporate
+Office Supplies,1,06-12-2016,217,Consumer
+Office Supplies,1,06-12-2016,502,Corporate
+Office Supplies,1,06-12-2016,134,Home Office
+Technology,1,06-12-2016,485,Corporate
+Office Supplies,1,07-12-2016,235,Consumer
+Office Supplies,1,07-12-2016,92,Corporate
+Office Supplies,1,07-12-2016,78,Home Office
+Office Supplies,1,08-12-2016,512,Corporate
+Office Supplies,1,08-12-2016,325,Home Office
+Technology,1,08-12-2016,1249,Corporate
+Furniture,1,11-12-2016,1183,Consumer
+Furniture,1,11-12-2016,143,Corporate
+Office Supplies,1,11-12-2016,463,Consumer
+Office Supplies,1,11-12-2016,63,Corporate
+Technology,1,11-12-2016,92,Consumer
+Furniture,1,12-12-2016,838,Consumer
+Office Supplies,1,12-12-2016,45,Consumer
+Furniture,1,13-12-2016,159,Consumer
+Furniture,1,13-12-2016,179,Corporate
+Office Supplies,1,13-12-2016,165,Consumer
+Office Supplies,1,13-12-2016,75,Corporate
+Office Supplies,1,13-12-2016,120,Home Office
+Technology,1,13-12-2016,122,Consumer
+Furniture,1,14-12-2016,20,Consumer
+Office Supplies,1,14-12-2016,1372,Consumer
+Technology,1,14-12-2016,7284,Consumer
+Furniture,1,15-12-2016,1219,Consumer
+Office Supplies,1,15-12-2016,282,Consumer
+Office Supplies,1,15-12-2016,51,Home Office
+Technology,1,15-12-2016,883,Consumer
+Office Supplies,1,16-12-2016,736,Consumer
+Office Supplies,1,16-12-2016,39,Corporate
+Office Supplies,1,16-12-2016,191,Home Office
+Furniture,1,18-12-2016,289,Corporate
+Office Supplies,1,18-12-2016,211,Consumer
+Office Supplies,1,18-12-2016,490,Corporate
+Office Supplies,1,18-12-2016,905,Home Office
+Technology,1,18-12-2016,2196,Corporate
+Furniture,1,19-12-2016,142,Consumer
+Furniture,1,19-12-2016,341,Home Office
+Office Supplies,1,19-12-2016,439,Consumer
+Office Supplies,1,19-12-2016,987,Corporate
+Technology,1,19-12-2016,93,Consumer
+Furniture,1,20-12-2016,2181,Home Office
+Office Supplies,1,20-12-2016,120,Consumer
+Office Supplies,1,20-12-2016,15,Corporate
+Technology,1,20-12-2016,1157,Consumer
+Furniture,1,21-12-2016,804,Consumer
+Furniture,1,21-12-2016,214,Corporate
+Office Supplies,1,21-12-2016,3192,Consumer
+Office Supplies,1,21-12-2016,188,Corporate
+Technology,1,21-12-2016,1759,Consumer
+Technology,1,21-12-2016,1420,Corporate
+Furniture,1,22-12-2016,947,Consumer
+Furniture,1,22-12-2016,496,Corporate
+Office Supplies,1,22-12-2016,2306,Consumer
+Technology,1,22-12-2016,136,Consumer
+Furniture,1,23-12-2016,362,Consumer
+Office Supplies,1,23-12-2016,220,Consumer
+Office Supplies,1,23-12-2016,401,Corporate
+Office Supplies,1,23-12-2016,45,Home Office
+Technology,1,23-12-2016,625,Consumer
+Technology,1,23-12-2016,51,Corporate
+Technology,1,23-12-2016,812,Home Office
+Office Supplies,1,25-12-2016,1010,Consumer
+Office Supplies,1,25-12-2016,110,Corporate
+Furniture,1,26-12-2016,549,Consumer
+Furniture,1,26-12-2016,522,Corporate
+Office Supplies,1,26-12-2016,3493,Consumer
+Office Supplies,1,26-12-2016,207,Corporate
+Technology,1,26-12-2016,205,Consumer
+Furniture,1,27-12-2016,1690,Consumer
+Office Supplies,1,27-12-2016,1138,Consumer
+Office Supplies,1,27-12-2016,83,Corporate
+Technology,1,27-12-2016,1650,Consumer
+Furniture,1,28-12-2016,377,Home Office
+Office Supplies,1,28-12-2016,1206,Consumer
+Office Supplies,1,28-12-2016,201,Corporate
+Office Supplies,1,28-12-2016,1967,Home Office
+Technology,1,28-12-2016,1073,Consumer
+Technology,1,28-12-2016,687,Corporate
+Office Supplies,1,29-12-2016,306,Consumer
+Office Supplies,1,29-12-2016,152,Corporate
+Office Supplies,1,29-12-2016,1478,Home Office
+Technology,1,29-12-2016,341,Consumer
+Technology,1,29-12-2016,1671,Corporate
+Office Supplies,1,30-12-2016,449,Consumer
+Office Supplies,1,30-12-2016,250,Corporate
+Office Supplies,1,30-12-2016,51,Home Office
+Office Supplies,1,31-12-2016,213,Consumer
+Furniture,1,01-01-2017,502,Consumer
+Office Supplies,1,01-01-2017,1803,Consumer
+Office Supplies,1,01-01-2017,171,Corporate
+Office Supplies,1,01-01-2017,711,Home Office
+Technology,1,01-01-2017,222,Consumer
+Technology,1,01-01-2017,254,Home Office
+Office Supplies,1,02-01-2017,728,Consumer
+Furniture,1,03-01-2017,1583,Consumer
+Office Supplies,1,03-01-2017,1566,Consumer
+Office Supplies,1,03-01-2017,259,Corporate
+Furniture,1,04-01-2017,388,Consumer
+Office Supplies,1,04-01-2017,770,Consumer
+Office Supplies,1,04-01-2017,938,Corporate
+Office Supplies,1,04-01-2017,33,Home Office
+Technology,1,04-01-2017,357,Consumer
+Technology,1,04-01-2017,184,Corporate
+Furniture,1,05-01-2017,682,Consumer
+Furniture,1,05-01-2017,395,Home Office
+Office Supplies,1,05-01-2017,1688,Consumer
+Office Supplies,1,05-01-2017,1277,Corporate
+Office Supplies,1,05-01-2017,1864,Home Office
+Technology,1,05-01-2017,292,Home Office
+Furniture,1,06-01-2017,2343,Consumer
+Office Supplies,1,06-01-2017,35,Consumer
+Furniture,1,08-01-2017,23,Consumer
+Office Supplies,1,08-01-2017,432,Consumer
+Office Supplies,1,08-01-2017,1446,Corporate
+Technology,1,08-01-2017,43,Corporate
+Furniture,1,09-01-2017,724,Consumer
+Office Supplies,1,09-01-2017,49,Home Office
+Office Supplies,1,10-01-2017,19,Home Office
+Furniture,1,12-01-2017,882,Consumer
+Office Supplies,1,12-01-2017,168,Consumer
+Technology,1,12-01-2017,680,Home Office
+Office Supplies,1,13-01-2017,112,Consumer
+Office Supplies,1,13-01-2017,4503,Corporate
+Office Supplies,1,15-01-2017,473,Consumer
+Technology,1,15-01-2017,87,Consumer
+Furniture,1,16-01-2017,83,Home Office
+Office Supplies,1,16-01-2017,242,Corporate
+Office Supplies,1,16-01-2017,55,Home Office
+Technology,1,16-01-2017,1173,Home Office
+Furniture,1,17-01-2017,273,Consumer
+Office Supplies,1,17-01-2017,647,Consumer
+Technology,1,17-01-2017,431,Consumer
+Office Supplies,1,18-01-2017,477,Consumer
+Office Supplies,1,18-01-2017,42,Corporate
+Technology,1,18-01-2017,539,Consumer
+Furniture,1,19-01-2017,704,Consumer
+Furniture,1,19-01-2017,127,Corporate
+Office Supplies,1,19-01-2017,56,Consumer
+Office Supplies,1,19-01-2017,242,Corporate
+Technology,1,19-01-2017,468,Home Office
+Furniture,1,20-01-2017,43,Home Office
+Office Supplies,1,20-01-2017,1809,Corporate
+Furniture,1,22-01-2017,5560,Consumer
+Office Supplies,1,22-01-2017,15,Consumer
+Office Supplies,1,22-01-2017,47,Corporate
+Technology,1,22-01-2017,710,Consumer
+Furniture,1,23-01-2017,437,Corporate
+Furniture,1,24-01-2017,142,Corporate
+Office Supplies,1,24-01-2017,73,Corporate
+Office Supplies,1,25-01-2017,57,Consumer
+Technology,1,25-01-2017,260,Consumer
+Office Supplies,1,26-01-2017,110,Consumer
+Furniture,1,27-01-2017,134,Corporate
+Office Supplies,1,27-01-2017,236,Corporate
+Technology,1,27-01-2017,110,Corporate
+Office Supplies,1,28-01-2017,164,Consumer
+Office Supplies,1,29-01-2017,475,Consumer
+Technology,1,29-01-2017,35,Consumer
+Technology,1,29-01-2017,2950,Home Office
+Furniture,1,30-01-2017,204,Consumer
+Furniture,1,30-01-2017,516,Corporate
+Office Supplies,1,30-01-2017,2058,Consumer
+Office Supplies,1,30-01-2017,218,Corporate
+Office Supplies,1,30-01-2017,83,Home Office
+Technology,1,30-01-2017,3400,Consumer
+Technology,1,30-01-2017,188,Corporate
+Furniture,1,31-01-2017,191,Consumer
+Office Supplies,1,31-01-2017,384,Consumer
+Furniture,1,01-02-2017,136,Consumer
+Office Supplies,1,01-02-2017,44,Consumer
+Office Supplies,1,01-02-2017,43,Corporate
+Furniture,1,02-02-2017,331,Consumer
+Office Supplies,1,02-02-2017,839,Consumer
+Office Supplies,1,02-02-2017,202,Corporate
+Office Supplies,1,03-02-2017,357,Consumer
+Office Supplies,1,04-02-2017,338,Home Office
+Furniture,1,05-02-2017,145,Consumer
+Furniture,1,06-02-2017,3496,Consumer
+Furniture,1,06-02-2017,319,Home Office
+Office Supplies,1,06-02-2017,60,Consumer
+Office Supplies,1,06-02-2017,45,Corporate
+Office Supplies,1,06-02-2017,1206,Home Office
+Technology,1,06-02-2017,243,Consumer
+Furniture,1,07-02-2017,164,Consumer
+Office Supplies,1,07-02-2017,62,Consumer
+Office Supplies,1,07-02-2017,73,Corporate
+Technology,1,07-02-2017,926,Consumer
+Technology,1,07-02-2017,1614,Home Office
+Furniture,1,08-02-2017,116,Consumer
+Office Supplies,1,08-02-2017,215,Consumer
+Office Supplies,1,08-02-2017,370,Corporate
+Technology,1,08-02-2017,950,Consumer
+Furniture,1,09-02-2017,110,Home Office
+Office Supplies,1,09-02-2017,260,Consumer
+Office Supplies,1,09-02-2017,256,Home Office
+Technology,1,09-02-2017,305,Consumer
+Furniture,1,12-02-2017,281,Consumer
+Furniture,1,12-02-2017,2357,Corporate
+Office Supplies,1,12-02-2017,195,Consumer
+Office Supplies,1,12-02-2017,144,Corporate
+Furniture,1,13-02-2017,473,Consumer
+Furniture,1,13-02-2017,498,Corporate
+Office Supplies,1,13-02-2017,595,Consumer
+Office Supplies,1,13-02-2017,240,Corporate
+Technology,1,13-02-2017,286,Consumer
+Office Supplies,1,14-02-2017,442,Consumer
+Office Supplies,1,14-02-2017,38,Corporate
+Office Supplies,1,14-02-2017,32,Home Office
+Technology,1,14-02-2017,415,Consumer
+Technology,1,14-02-2017,480,Corporate
+Office Supplies,1,15-02-2017,404,Consumer
+Office Supplies,1,15-02-2017,71,Corporate
+Office Supplies,1,15-02-2017,71,Home Office
+Technology,1,15-02-2017,1116,Corporate
+Furniture,1,16-02-2017,273,Home Office
+Office Supplies,1,16-02-2017,561,Consumer
+Office Supplies,1,16-02-2017,280,Home Office
+Technology,1,16-02-2017,857,Consumer
+Furniture,1,17-02-2017,1077,Corporate
+Furniture,1,17-02-2017,246,Home Office
+Office Supplies,1,17-02-2017,39,Corporate
+Office Supplies,1,17-02-2017,89,Home Office
+Furniture,1,19-02-2017,503,Corporate
+Office Supplies,1,19-02-2017,628,Consumer
+Office Supplies,1,19-02-2017,240,Corporate
+Technology,1,19-02-2017,3986,Corporate
+Office Supplies,1,20-02-2017,201,Corporate
+Office Supplies,1,20-02-2017,1027,Home Office
+Technology,1,20-02-2017,1353,Home Office
+Furniture,1,21-02-2017,1025,Home Office
+Office Supplies,1,21-02-2017,200,Consumer
+Office Supplies,1,21-02-2017,176,Corporate
+Office Supplies,1,21-02-2017,279,Home Office
+Technology,1,21-02-2017,510,Consumer
+Technology,1,21-02-2017,1172,Corporate
+Office Supplies,1,22-02-2017,163,Corporate
+Office Supplies,1,23-02-2017,2673,Consumer
+Office Supplies,1,23-02-2017,83,Corporate
+Furniture,1,24-02-2017,104,Corporate
+Office Supplies,1,24-02-2017,131,Corporate
+Office Supplies,1,24-02-2017,54,Home Office
+Technology,1,24-02-2017,634,Corporate
+Furniture,1,26-02-2017,1274,Corporate
+Office Supplies,1,26-02-2017,95,Consumer
+Office Supplies,1,26-02-2017,22,Corporate
+Office Supplies,1,26-02-2017,460,Home Office
+Technology,1,26-02-2017,766,Corporate
+Technology,1,26-02-2017,155,Home Office
+Furniture,1,27-02-2017,488,Consumer
+Furniture,1,27-02-2017,481,Corporate
+Office Supplies,1,27-02-2017,178,Corporate
+Office Supplies,1,28-02-2017,983,Consumer
+Office Supplies,1,28-02-2017,4641,Home Office
+Technology,1,28-02-2017,751,Consumer
+Technology,1,28-02-2017,1458,Home Office
+Furniture,1,28-02-2017,308,Consumer
+Office Supplies,1,28-02-2017,1235,Consumer
+Furniture,1,01-03-2017,118,Corporate
+Furniture,1,01-03-2017,385,Home Office
+Office Supplies,1,01-03-2017,157,Consumer
+Office Supplies,1,01-03-2017,383,Home Office
+Technology,1,01-03-2017,148,Consumer
+Furniture,1,02-03-2017,329,Corporate
+Office Supplies,1,02-03-2017,55,Corporate
+Office Supplies,1,03-03-2017,22,Corporate
+Technology,1,03-03-2017,117,Corporate
+Office Supplies,1,04-03-2017,205,Corporate
+Furniture,1,05-03-2017,1348,Consumer
+Office Supplies,1,05-03-2017,551,Consumer
+Technology,1,05-03-2017,236,Consumer
+Office Supplies,1,06-03-2017,46,Consumer
+Office Supplies,1,06-03-2017,199,Home Office
+Technology,1,06-03-2017,553,Consumer
+Furniture,1,07-03-2017,308,Consumer
+Office Supplies,1,07-03-2017,30,Consumer
+Furniture,1,08-03-2017,2102,Corporate
+Office Supplies,1,08-03-2017,58,Consumer
+Office Supplies,1,08-03-2017,281,Corporate
+Office Supplies,1,08-03-2017,311,Home Office
+Technology,1,08-03-2017,834,Corporate
+Technology,1,08-03-2017,887,Home Office
+Office Supplies,1,11-03-2017,679,Consumer
+Office Supplies,1,11-03-2017,107,Corporate
+Office Supplies,1,11-03-2017,83,Home Office
+Technology,1,11-03-2017,427,Consumer
+Furniture,1,12-03-2017,1362,Consumer
+Office Supplies,1,12-03-2017,224,Consumer
+Technology,1,12-03-2017,179,Home Office
+Furniture,1,13-03-2017,251,Consumer
+Furniture,1,13-03-2017,3020,Home Office
+Office Supplies,1,13-03-2017,684,Consumer
+Office Supplies,1,13-03-2017,291,Corporate
+Office Supplies,1,13-03-2017,206,Home Office
+Technology,1,13-03-2017,715,Corporate
+Office Supplies,1,14-03-2017,41,Consumer
+Furniture,1,15-03-2017,147,Consumer
+Furniture,1,15-03-2017,564,Home Office
+Office Supplies,1,15-03-2017,17,Consumer
+Office Supplies,1,15-03-2017,355,Corporate
+Office Supplies,1,18-03-2017,188,Corporate
+Furniture,1,19-03-2017,300,Consumer
+Office Supplies,1,19-03-2017,1253,Consumer
+Office Supplies,1,19-03-2017,355,Corporate
+Technology,1,19-03-2017,766,Consumer
+Office Supplies,1,20-03-2017,3514,Consumer
+Furniture,1,21-03-2017,603,Consumer
+Office Supplies,1,21-03-2017,224,Consumer
+Office Supplies,1,22-03-2017,216,Home Office
+Technology,1,22-03-2017,520,Consumer
+Technology,1,22-03-2017,101,Home Office
+Furniture,1,23-03-2017,1090,Consumer
+Office Supplies,1,23-03-2017,288,Consumer
+Technology,1,23-03-2017,782,Consumer
+Office Supplies,1,25-03-2017,107,Consumer
+Office Supplies,1,25-03-2017,170,Corporate
+Furniture,1,26-03-2017,321,Consumer
+Office Supplies,1,26-03-2017,344,Consumer
+Office Supplies,1,26-03-2017,80,Corporate
+Technology,1,26-03-2017,57,Consumer
+Furniture,1,27-03-2017,494,Corporate
+Office Supplies,1,27-03-2017,15,Corporate
+Office Supplies,1,28-03-2017,518,Corporate
+Technology,1,28-03-2017,445,Corporate
+Furniture,1,29-03-2017,354,Corporate
+Office Supplies,1,29-03-2017,461,Corporate
+Technology,1,29-03-2017,490,Corporate
+Office Supplies,1,30-03-2017,56,Home Office
+Office Supplies,1,31-03-2017,349,Consumer
+Furniture,1,02-04-2017,489,Consumer
+Furniture,1,02-04-2017,356,Corporate
+Office Supplies,1,02-04-2017,53,Consumer
+Office Supplies,1,02-04-2017,4201,Corporate
+Office Supplies,1,02-04-2017,112,Home Office
+Technology,1,02-04-2017,1265,Consumer
+Office Supplies,1,03-04-2017,187,Consumer
+Technology,1,03-04-2017,619,Corporate
+Office Supplies,1,04-04-2017,36,Corporate
+Office Supplies,1,04-04-2017,55,Home Office
+Technology,1,04-04-2017,256,Consumer
+Technology,1,04-04-2017,708,Corporate
+Technology,1,04-04-2017,453,Home Office
+Furniture,1,05-04-2017,39,Consumer
+Furniture,1,05-04-2017,307,Corporate
+Office Supplies,1,05-04-2017,318,Consumer
+Office Supplies,1,05-04-2017,70,Corporate
+Technology,1,05-04-2017,1583,Consumer
+Technology,1,05-04-2017,1213,Corporate
+Furniture,1,06-04-2017,285,Home Office
+Office Supplies,1,07-04-2017,543,Corporate
+Furniture,1,08-04-2017,719,Consumer
+Office Supplies,1,08-04-2017,21,Corporate
+Office Supplies,1,08-04-2017,159,Home Office
+Technology,1,08-04-2017,497,Corporate
+Office Supplies,1,09-04-2017,74,Consumer
+Office Supplies,1,09-04-2017,199,Corporate
+Technology,1,09-04-2017,886,Consumer
+Furniture,1,10-04-2017,962,Consumer
+Office Supplies,1,10-04-2017,310,Corporate
+Office Supplies,1,11-04-2017,718,Consumer
+Office Supplies,1,11-04-2017,26,Home Office
+Technology,1,11-04-2017,426,Home Office
+Office Supplies,1,13-04-2017,359,Home Office
+Furniture,1,15-04-2017,542,Corporate
+Office Supplies,1,15-04-2017,337,Consumer
+Office Supplies,1,15-04-2017,87,Corporate
+Technology,1,15-04-2017,283,Corporate
+Technology,1,15-04-2017,150,Home Office
+Furniture,1,16-04-2017,109,Corporate
+Office Supplies,1,16-04-2017,54,Consumer
+Office Supplies,1,16-04-2017,223,Corporate
+Office Supplies,1,16-04-2017,9,Home Office
+Technology,1,16-04-2017,919,Consumer
+Technology,1,16-04-2017,46,Corporate
+Technology,1,16-04-2017,172,Home Office
+Furniture,1,18-04-2017,764,Corporate
+Office Supplies,1,18-04-2017,85,Consumer
+Office Supplies,1,18-04-2017,121,Corporate
+Technology,1,18-04-2017,82,Corporate
+Office Supplies,1,19-04-2017,36,Corporate
+Furniture,1,20-04-2017,119,Home Office
+Office Supplies,1,20-04-2017,763,Home Office
+Technology,1,20-04-2017,475,Home Office
+Furniture,1,22-04-2017,553,Consumer
+Office Supplies,1,23-04-2017,182,Corporate
+Technology,1,23-04-2017,241,Corporate
+Office Supplies,1,24-04-2017,35,Consumer
+Office Supplies,1,25-04-2017,1208,Consumer
+Office Supplies,1,25-04-2017,406,Corporate
+Technology,1,25-04-2017,764,Consumer
+Office Supplies,1,26-04-2017,343,Consumer
+Furniture,1,27-04-2017,1069,Consumer
+Office Supplies,1,29-04-2017,104,Consumer
+Office Supplies,1,29-04-2017,139,Corporate
+Technology,1,29-04-2017,444,Consumer
+Furniture,1,30-04-2017,1005,Consumer
+Office Supplies,1,30-04-2017,84,Consumer
+Technology,1,30-04-2017,943,Consumer
+Technology,1,30-04-2017,1894,Corporate
+Office Supplies,1,01-05-2017,1611,Consumer
+Office Supplies,1,01-05-2017,21,Corporate
+Furniture,1,02-05-2017,92,Corporate
+Office Supplies,1,02-05-2017,136,Consumer
+Office Supplies,1,02-05-2017,174,Corporate
+Technology,1,02-05-2017,275,Consumer
+Office Supplies,1,03-05-2017,8,Consumer
+Office Supplies,1,03-05-2017,148,Corporate
+Office Supplies,1,03-05-2017,166,Home Office
+Office Supplies,1,04-05-2017,741,Consumer
+Office Supplies,1,05-05-2017,117,Corporate
+Furniture,1,06-05-2017,581,Consumer
+Office Supplies,1,06-05-2017,562,Consumer
+Office Supplies,1,06-05-2017,25,Corporate
+Office Supplies,1,06-05-2017,222,Home Office
+Technology,1,06-05-2017,317,Home Office
+Office Supplies,1,07-05-2017,157,Consumer
+Office Supplies,1,07-05-2017,206,Home Office
+Furniture,1,08-05-2017,324,Consumer
+Office Supplies,1,08-05-2017,381,Consumer
+Office Supplies,1,08-05-2017,279,Corporate
+Technology,1,08-05-2017,105,Consumer
+Technology,1,08-05-2017,414,Corporate
+Furniture,1,09-05-2017,216,Consumer
+Furniture,1,09-05-2017,153,Corporate
+Office Supplies,1,09-05-2017,80,Corporate
+Technology,1,09-05-2017,67,Consumer
+Furniture,1,10-05-2017,123,Consumer
+Office Supplies,1,10-05-2017,125,Consumer
+Office Supplies,1,10-05-2017,301,Corporate
+Office Supplies,1,10-05-2017,165,Home Office
+Technology,1,10-05-2017,1859,Consumer
+Furniture,1,11-05-2017,122,Corporate
+Technology,1,11-05-2017,276,Corporate
+Office Supplies,1,12-05-2017,76,Consumer
+Office Supplies,1,12-05-2017,120,Home Office
+Office Supplies,1,13-05-2017,780,Consumer
+Office Supplies,1,13-05-2017,224,Corporate
+Furniture,1,14-05-2017,838,Corporate
+Office Supplies,1,14-05-2017,777,Consumer
+Office Supplies,1,14-05-2017,22,Home Office
+Technology,1,14-05-2017,2590,Corporate
+Office Supplies,1,15-05-2017,691,Consumer
+Office Supplies,1,15-05-2017,104,Corporate
+Technology,1,15-05-2017,673,Corporate
+Technology,1,15-05-2017,158,Home Office
+Furniture,1,16-05-2017,675,Consumer
+Furniture,1,16-05-2017,959,Corporate
+Office Supplies,1,16-05-2017,903,Consumer
+Office Supplies,1,16-05-2017,24,Corporate
+Technology,1,16-05-2017,3921,Consumer
+Furniture,1,17-05-2017,41,Corporate
+Office Supplies,1,17-05-2017,38,Consumer
+Office Supplies,1,17-05-2017,150,Corporate
+Technology,1,17-05-2017,261,Consumer
+Office Supplies,1,18-05-2017,427,Consumer
+Technology,1,18-05-2017,124,Consumer
+Technology,1,18-05-2017,230,Home Office
+Office Supplies,1,20-05-2017,284,Home Office
+Furniture,1,21-05-2017,217,Consumer
+Office Supplies,1,21-05-2017,96,Consumer
+Office Supplies,1,21-05-2017,106,Corporate
+Furniture,1,22-05-2017,671,Corporate
+Office Supplies,1,22-05-2017,884,Consumer
+Office Supplies,1,22-05-2017,226,Corporate
+Technology,1,22-05-2017,47,Consumer
+Technology,1,22-05-2017,1005,Corporate
+Furniture,1,23-05-2017,229,Consumer
+Office Supplies,1,24-05-2017,1084,Consumer
+Technology,1,24-05-2017,567,Home Office
+Furniture,1,25-05-2017,1309,Home Office
+Office Supplies,1,27-05-2017,122,Consumer
+Office Supplies,1,27-05-2017,256,Corporate
+Technology,1,27-05-2017,532,Consumer
+Technology,1,27-05-2017,1031,Corporate
+Furniture,1,28-05-2017,1700,Consumer
+Office Supplies,1,28-05-2017,377,Consumer
+Office Supplies,1,28-05-2017,117,Corporate
+Technology,1,28-05-2017,2227,Consumer
+Office Supplies,1,29-05-2017,103,Home Office
+Technology,1,29-05-2017,349,Consumer
+Furniture,1,30-05-2017,135,Consumer
+Office Supplies,1,30-05-2017,581,Consumer
+Office Supplies,1,30-05-2017,1603,Corporate
+Office Supplies,1,30-05-2017,629,Home Office
+Technology,1,30-05-2017,2345,Consumer
+Technology,1,30-05-2017,2311,Corporate
+Technology,1,30-05-2017,1690,Home Office
+Furniture,1,31-05-2017,994,Consumer
+Office Supplies,1,31-05-2017,273,Consumer
+Office Supplies,1,31-05-2017,88,Corporate
+Technology,1,31-05-2017,302,Consumer
+Office Supplies,1,01-06-2017,131,Consumer
+Office Supplies,1,01-06-2017,285,Corporate
+Technology,1,01-06-2017,767,Corporate
+Office Supplies,1,02-06-2017,217,Consumer
+Office Supplies,1,02-06-2017,136,Corporate
+Technology,1,02-06-2017,1107,Consumer
+Furniture,1,03-06-2017,104,Consumer
+Office Supplies,1,03-06-2017,3024,Corporate
+Office Supplies,1,03-06-2017,328,Home Office
+Technology,1,03-06-2017,393,Corporate
+Furniture,1,04-06-2017,103,Corporate
+Furniture,1,04-06-2017,188,Home Office
+Office Supplies,1,04-06-2017,894,Corporate
+Office Supplies,1,04-06-2017,483,Home Office
+Technology,1,04-06-2017,6748,Corporate
+Technology,1,04-06-2017,3418,Home Office
+Furniture,1,05-06-2017,64,Home Office
+Office Supplies,1,05-06-2017,116,Consumer
+Office Supplies,1,05-06-2017,313,Corporate
+Office Supplies,1,05-06-2017,144,Home Office
+Technology,1,05-06-2017,603,Corporate
+Furniture,1,06-06-2017,1031,Corporate
+Office Supplies,1,06-06-2017,91,Consumer
+Office Supplies,1,06-06-2017,51,Home Office
+Technology,1,06-06-2017,391,Consumer
+Office Supplies,1,07-06-2017,325,Consumer
+Office Supplies,1,07-06-2017,198,Corporate
+Office Supplies,1,07-06-2017,173,Home Office
+Technology,1,07-06-2017,278,Consumer
+Technology,1,07-06-2017,180,Home Office
+Furniture,1,08-06-2017,1579,Consumer
+Office Supplies,1,08-06-2017,768,Consumer
+Office Supplies,1,08-06-2017,30,Home Office
+Technology,1,08-06-2017,1014,Consumer
+Furniture,1,09-06-2017,245,Consumer
+Office Supplies,1,09-06-2017,44,Consumer
+Furniture,1,10-06-2017,228,Consumer
+Office Supplies,1,10-06-2017,679,Consumer
+Office Supplies,1,10-06-2017,3530,Corporate
+Technology,1,10-06-2017,2686,Consumer
+Furniture,1,11-06-2017,319,Consumer
+Office Supplies,1,11-06-2017,1083,Consumer
+Office Supplies,1,11-06-2017,146,Home Office
+Technology,1,11-06-2017,1379,Consumer
+Furniture,1,12-06-2017,512,Consumer
+Furniture,1,12-06-2017,66,Corporate
+Office Supplies,1,12-06-2017,746,Consumer
+Office Supplies,1,12-06-2017,17,Corporate
+Technology,1,12-06-2017,650,Consumer
+Furniture,1,13-06-2017,997,Consumer
+Furniture,1,13-06-2017,402,Corporate
+Office Supplies,1,13-06-2017,1558,Consumer
+Office Supplies,1,13-06-2017,943,Corporate
+Office Supplies,1,13-06-2017,272,Home Office
+Technology,1,13-06-2017,443,Consumer
+Technology,1,13-06-2017,152,Corporate
+Furniture,1,14-06-2017,1266,Consumer
+Office Supplies,1,14-06-2017,233,Consumer
+Office Supplies,1,14-06-2017,849,Home Office
+Technology,1,14-06-2017,361,Consumer
+Technology,1,14-06-2017,1490,Corporate
+Technology,1,14-06-2017,2470,Home Office
+Furniture,1,15-06-2017,365,Corporate
+Office Supplies,1,15-06-2017,1420,Consumer
+Office Supplies,1,15-06-2017,476,Corporate
+Technology,1,15-06-2017,1481,Consumer
+Technology,1,15-06-2017,1027,Corporate
+Furniture,1,17-06-2017,1788,Consumer
+Furniture,1,17-06-2017,292,Corporate
+Office Supplies,1,17-06-2017,324,Consumer
+Office Supplies,1,17-06-2017,197,Corporate
+Office Supplies,1,17-06-2017,145,Home Office
+Technology,1,17-06-2017,1496,Consumer
+Technology,1,17-06-2017,634,Corporate
+Technology,1,17-06-2017,1885,Home Office
+Furniture,1,18-06-2017,463,Consumer
+Office Supplies,1,18-06-2017,338,Consumer
+Office Supplies,1,18-06-2017,50,Corporate
+Technology,1,18-06-2017,3042,Consumer
+Technology,1,18-06-2017,518,Home Office
+Furniture,1,19-06-2017,960,Consumer
+Office Supplies,1,19-06-2017,135,Consumer
+Technology,1,19-06-2017,80,Consumer
+Technology,1,19-06-2017,574,Corporate
+Office Supplies,1,20-06-2017,169,Consumer
+Furniture,1,21-06-2017,2380,Consumer
+Office Supplies,1,21-06-2017,428,Consumer
+Office Supplies,1,21-06-2017,55,Corporate
+Technology,1,21-06-2017,392,Consumer
+Technology,1,22-06-2017,421,Consumer
+Furniture,1,23-06-2017,417,Consumer
+Office Supplies,1,23-06-2017,106,Consumer
+Technology,1,23-06-2017,2335,Consumer
+Furniture,1,24-06-2017,259,Corporate
+Office Supplies,1,24-06-2017,25,Consumer
+Office Supplies,1,24-06-2017,552,Corporate
+Technology,1,24-06-2017,3456,Corporate
+Furniture,1,25-06-2017,533,Corporate
+Office Supplies,1,25-06-2017,82,Consumer
+Office Supplies,1,25-06-2017,594,Corporate
+Office Supplies,1,25-06-2017,105,Home Office
+Furniture,1,26-06-2017,1738,Consumer
+Furniture,1,26-06-2017,235,Corporate
+Office Supplies,1,26-06-2017,821,Consumer
+Office Supplies,1,26-06-2017,271,Corporate
+Technology,1,26-06-2017,246,Consumer
+Furniture,1,27-06-2017,2427,Consumer
+Furniture,1,27-06-2017,208,Corporate
+Office Supplies,1,27-06-2017,61,Consumer
+Office Supplies,1,27-06-2017,211,Corporate
+Technology,1,27-06-2017,280,Consumer
+Technology,1,27-06-2017,457,Corporate
+Furniture,1,28-06-2017,428,Consumer
+Furniture,1,28-06-2017,469,Home Office
+Office Supplies,1,28-06-2017,341,Consumer
+Office Supplies,1,28-06-2017,1798,Corporate
+Office Supplies,1,28-06-2017,2216,Home Office
+Technology,1,28-06-2017,263,Consumer
+Technology,1,28-06-2017,1876,Corporate
+Furniture,1,29-06-2017,1725,Consumer
+Furniture,1,29-06-2017,336,Home Office
+Office Supplies,1,29-06-2017,506,Consumer
+Office Supplies,1,29-06-2017,39,Home Office
+Technology,1,29-06-2017,742,Consumer
+Office Supplies,1,01-07-2017,245,Consumer
+Technology,1,01-07-2017,839,Consumer
+Furniture,1,02-07-2017,839,Consumer
+Furniture,1,02-07-2017,1075,Corporate
+Office Supplies,1,02-07-2017,733,Corporate
+Office Supplies,1,02-07-2017,45,Home Office
+Technology,1,02-07-2017,1437,Corporate
+Office Supplies,1,03-07-2017,274,Consumer
+Office Supplies,1,03-07-2017,2354,Corporate
+Technology,1,03-07-2017,17,Consumer
+Technology,1,03-07-2017,1558,Corporate
+Furniture,1,04-07-2017,116,Corporate
+Office Supplies,1,04-07-2017,63,Corporate
+Technology,1,04-07-2017,1945,Home Office
+Office Supplies,1,05-07-2017,72,Home Office
+Furniture,1,06-07-2017,352,Corporate
+Office Supplies,1,06-07-2017,146,Consumer
+Technology,1,06-07-2017,530,Consumer
+Technology,1,06-07-2017,486,Corporate
+Furniture,1,08-07-2017,187,Consumer
+Office Supplies,1,08-07-2017,4387,Consumer
+Office Supplies,1,08-07-2017,396,Home Office
+Technology,1,08-07-2017,3390,Consumer
+Furniture,1,09-07-2017,291,Consumer
+Office Supplies,1,09-07-2017,51,Consumer
+Office Supplies,1,09-07-2017,259,Corporate
+Office Supplies,1,09-07-2017,110,Home Office
+Technology,1,09-07-2017,890,Corporate
+Office Supplies,1,10-07-2017,7,Corporate
+Furniture,1,11-07-2017,229,Consumer
+Furniture,1,11-07-2017,439,Corporate
+Office Supplies,1,11-07-2017,780,Corporate
+Office Supplies,1,11-07-2017,41,Home Office
+Technology,1,11-07-2017,1658,Consumer
+Technology,1,11-07-2017,741,Corporate
+Technology,1,11-07-2017,399,Home Office
+Furniture,1,12-07-2017,122,Corporate
+Office Supplies,1,12-07-2017,1579,Home Office
+Technology,1,12-07-2017,867,Home Office
+Furniture,1,13-07-2017,49,Corporate
+Furniture,1,14-07-2017,592,Corporate
+Office Supplies,1,14-07-2017,197,Consumer
+Office Supplies,1,14-07-2017,195,Corporate
+Furniture,1,15-07-2017,3018,Consumer
+Furniture,1,15-07-2017,18,Corporate
+Furniture,1,15-07-2017,162,Home Office
+Office Supplies,1,15-07-2017,90,Consumer
+Office Supplies,1,15-07-2017,314,Corporate
+Office Supplies,1,15-07-2017,1413,Home Office
+Technology,1,15-07-2017,1424,Home Office
+Office Supplies,1,16-07-2017,209,Corporate
+Furniture,1,17-07-2017,236,Home Office
+Office Supplies,1,17-07-2017,194,Home Office
+Office Supplies,1,18-07-2017,43,Consumer
+Technology,1,18-07-2017,904,Consumer
+Office Supplies,1,19-07-2017,213,Corporate
+Furniture,1,20-07-2017,1290,Consumer
+Office Supplies,1,20-07-2017,671,Consumer
+Technology,1,20-07-2017,1202,Consumer
+Office Supplies,1,22-07-2017,437,Consumer
+Office Supplies,1,22-07-2017,429,Corporate
+Technology,1,22-07-2017,3048,Consumer
+Office Supplies,1,23-07-2017,77,Consumer
+Office Supplies,1,23-07-2017,14,Corporate
+Office Supplies,1,23-07-2017,1228,Home Office
+Technology,1,23-07-2017,271,Consumer
+Furniture,1,24-07-2017,301,Corporate
+Office Supplies,1,24-07-2017,599,Consumer
+Office Supplies,1,24-07-2017,94,Corporate
+Furniture,1,25-07-2017,620,Consumer
+Furniture,1,25-07-2017,3142,Home Office
+Office Supplies,1,25-07-2017,81,Consumer
+Office Supplies,1,25-07-2017,144,Corporate
+Office Supplies,1,25-07-2017,371,Home Office
+Technology,1,25-07-2017,283,Consumer
+Technology,1,25-07-2017,226,Corporate
+Technology,1,25-07-2017,469,Home Office
+Furniture,1,26-07-2017,979,Corporate
+Office Supplies,1,26-07-2017,60,Corporate
+Technology,1,26-07-2017,198,Corporate
+Furniture,1,29-07-2017,753,Consumer
+Office Supplies,1,29-07-2017,91,Consumer
+Office Supplies,1,30-07-2017,85,Consumer
+Office Supplies,1,30-07-2017,141,Corporate
+Technology,1,30-07-2017,827,Corporate
+Furniture,1,31-07-2017,79,Consumer
+Office Supplies,1,31-07-2017,35,Consumer
+Technology,1,31-07-2017,443,Consumer
+Furniture,1,01-08-2017,455,Consumer
+Furniture,1,01-08-2017,1813,Corporate
+Office Supplies,1,01-08-2017,166,Consumer
+Office Supplies,1,01-08-2017,534,Corporate
+Technology,1,01-08-2017,1197,Consumer
+Technology,1,01-08-2017,670,Home Office
+Office Supplies,1,02-08-2017,40,Consumer
+Office Supplies,1,02-08-2017,33,Corporate
+Office Supplies,1,02-08-2017,43,Home Office
+Technology,1,02-08-2017,400,Consumer
+Technology,1,03-08-2017,1074,Corporate
+Furniture,1,04-08-2017,49,Home Office
+Furniture,1,05-08-2017,1262,Consumer
+Office Supplies,1,05-08-2017,710,Consumer
+Office Supplies,1,05-08-2017,112,Corporate
+Office Supplies,1,05-08-2017,561,Home Office
+Technology,1,05-08-2017,22,Home Office
+Furniture,1,06-08-2017,24,Consumer
+Office Supplies,1,06-08-2017,1814,Consumer
+Office Supplies,1,06-08-2017,275,Corporate
+Office Supplies,1,06-08-2017,194,Home Office
+Technology,1,06-08-2017,111,Consumer
+Technology,1,06-08-2017,1248,Home Office
+Furniture,1,07-08-2017,87,Corporate
+Office Supplies,1,07-08-2017,474,Consumer
+Office Supplies,1,07-08-2017,1830,Corporate
+Office Supplies,1,07-08-2017,140,Home Office
+Technology,1,07-08-2017,261,Corporate
+Technology,1,07-08-2017,411,Home Office
+Furniture,1,08-08-2017,1576,Corporate
+Office Supplies,1,08-08-2017,550,Consumer
+Office Supplies,1,08-08-2017,337,Corporate
+Furniture,1,09-08-2017,46,Consumer
+Furniture,1,09-08-2017,316,Corporate
+Furniture,1,09-08-2017,509,Home Office
+Office Supplies,1,09-08-2017,161,Consumer
+Office Supplies,1,09-08-2017,388,Corporate
+Office Supplies,1,09-08-2017,284,Home Office
+Technology,1,09-08-2017,1189,Consumer
+Furniture,1,10-08-2017,548,Consumer
+Office Supplies,1,10-08-2017,53,Consumer
+Office Supplies,1,10-08-2017,954,Corporate
+Technology,1,10-08-2017,1218,Corporate
+Office Supplies,1,11-08-2017,348,Corporate
+Office Supplies,1,11-08-2017,216,Home Office
+Technology,1,11-08-2017,309,Home Office
+Furniture,1,12-08-2017,259,Consumer
+Office Supplies,1,12-08-2017,1153,Consumer
+Office Supplies,1,12-08-2017,68,Corporate
+Office Supplies,1,12-08-2017,179,Home Office
+Technology,1,12-08-2017,309,Consumer
+Furniture,1,13-08-2017,700,Consumer
+Office Supplies,1,13-08-2017,222,Consumer
+Office Supplies,1,13-08-2017,311,Corporate
+Office Supplies,1,13-08-2017,171,Home Office
+Technology,1,13-08-2017,2104,Consumer
+Technology,1,13-08-2017,349,Corporate
+Furniture,1,14-08-2017,1058,Consumer
+Office Supplies,1,14-08-2017,646,Consumer
+Office Supplies,1,14-08-2017,164,Home Office
+Technology,1,14-08-2017,1333,Consumer
+Furniture,1,15-08-2017,330,Consumer
+Furniture,1,15-08-2017,819,Corporate
+Office Supplies,1,15-08-2017,256,Corporate
+Office Supplies,1,15-08-2017,292,Home Office
+Furniture,1,16-08-2017,1536,Consumer
+Furniture,1,16-08-2017,2969,Corporate
+Furniture,1,16-08-2017,1156,Home Office
+Office Supplies,1,16-08-2017,916,Consumer
+Office Supplies,1,16-08-2017,386,Corporate
+Office Supplies,1,16-08-2017,15,Home Office
+Technology,1,16-08-2017,241,Corporate
+Furniture,1,17-08-2017,1277,Corporate
+Office Supplies,1,17-08-2017,312,Corporate
+Technology,1,17-08-2017,610,Corporate
+Office Supplies,1,19-08-2017,2282,Consumer
+Furniture,1,20-08-2017,1037,Consumer
+Office Supplies,1,20-08-2017,1362,Consumer
+Office Supplies,1,20-08-2017,99,Corporate
+Office Supplies,1,20-08-2017,101,Home Office
+Technology,1,20-08-2017,271,Home Office
+Furniture,1,21-08-2017,136,Consumer
+Office Supplies,1,21-08-2017,449,Consumer
+Office Supplies,1,21-08-2017,239,Corporate
+Office Supplies,1,21-08-2017,468,Home Office
+Technology,1,21-08-2017,541,Home Office
+Office Supplies,1,22-08-2017,140,Consumer
+Office Supplies,1,22-08-2017,165,Home Office
+Technology,1,22-08-2017,481,Consumer
+Technology,1,22-08-2017,388,Home Office
+Furniture,1,23-08-2017,611,Consumer
+Office Supplies,1,23-08-2017,1123,Consumer
+Office Supplies,1,23-08-2017,261,Corporate
+Office Supplies,1,23-08-2017,85,Home Office
+Technology,1,23-08-2017,94,Consumer
+Furniture,1,24-08-2017,535,Home Office
+Office Supplies,1,24-08-2017,329,Consumer
+Office Supplies,1,24-08-2017,78,Corporate
+Office Supplies,1,24-08-2017,89,Home Office
+Technology,1,24-08-2017,386,Consumer
+Technology,1,24-08-2017,498,Home Office
+Office Supplies,1,25-08-2017,134,Consumer
+Office Supplies,1,25-08-2017,180,Corporate
+Office Supplies,1,26-08-2017,168,Consumer
+Technology,1,26-08-2017,396,Consumer
+Furniture,1,27-08-2017,589,Consumer
+Furniture,1,27-08-2017,378,Corporate
+Furniture,1,27-08-2017,1437,Home Office
+Office Supplies,1,27-08-2017,488,Consumer
+Office Supplies,1,27-08-2017,396,Corporate
+Office Supplies,1,27-08-2017,361,Home Office
+Technology,1,27-08-2017,714,Corporate
+Furniture,1,28-08-2017,789,Consumer
+Furniture,1,28-08-2017,216,Corporate
+Office Supplies,1,28-08-2017,622,Consumer
+Office Supplies,1,28-08-2017,209,Corporate
+Office Supplies,1,28-08-2017,562,Home Office
+Technology,1,28-08-2017,328,Consumer
+Furniture,1,29-08-2017,408,Consumer
+Office Supplies,1,29-08-2017,944,Consumer
+Technology,1,29-08-2017,148,Consumer
+Furniture,1,30-08-2017,404,Consumer
+Office Supplies,1,30-08-2017,620,Consumer
+Office Supplies,1,30-08-2017,497,Corporate
+Office Supplies,1,30-08-2017,138,Home Office
+Technology,1,30-08-2017,256,Corporate
+Furniture,1,31-08-2017,575,Corporate
+Office Supplies,1,31-08-2017,29,Consumer
+Office Supplies,1,31-08-2017,2060,Corporate
+Technology,1,31-08-2017,648,Consumer
+Technology,1,31-08-2017,2366,Corporate
+Furniture,1,02-09-2017,284,Consumer
+Office Supplies,1,02-09-2017,28,Consumer
+Office Supplies,1,02-09-2017,34,Corporate
+Office Supplies,1,02-09-2017,403,Home Office
+Technology,1,02-09-2017,511,Corporate
+Technology,1,02-09-2017,87,Home Office
+Office Supplies,1,03-09-2017,325,Consumer
+Office Supplies,1,03-09-2017,17,Corporate
+Office Supplies,1,03-09-2017,3451,Home Office
+Technology,1,03-09-2017,103,Consumer
+Furniture,1,04-09-2017,859,Consumer
+Furniture,1,04-09-2017,864,Home Office
+Office Supplies,1,04-09-2017,106,Consumer
+Office Supplies,1,04-09-2017,621,Corporate
+Office Supplies,1,04-09-2017,55,Home Office
+Technology,1,04-09-2017,619,Consumer
+Furniture,1,05-09-2017,1609,Consumer
+Office Supplies,1,05-09-2017,1883,Consumer
+Office Supplies,1,05-09-2017,235,Corporate
+Technology,1,05-09-2017,1032,Consumer
+Technology,1,05-09-2017,2698,Corporate
+Office Supplies,1,06-09-2017,185,Consumer
+Office Supplies,1,06-09-2017,151,Corporate
+Technology,1,06-09-2017,1173,Consumer
+Furniture,1,07-09-2017,35,Consumer
+Office Supplies,1,07-09-2017,191,Consumer
+Technology,1,07-09-2017,163,Consumer
+Furniture,1,09-09-2017,455,Corporate
+Furniture,1,09-09-2017,41,Home Office
+Office Supplies,1,09-09-2017,2194,Consumer
+Office Supplies,1,09-09-2017,1534,Corporate
+Office Supplies,1,09-09-2017,355,Home Office
+Technology,1,09-09-2017,141,Home Office
+Furniture,1,10-09-2017,4036,Consumer
+Furniture,1,10-09-2017,284,Home Office
+Office Supplies,1,10-09-2017,774,Consumer
+Office Supplies,1,10-09-2017,106,Home Office
+Technology,1,10-09-2017,1484,Consumer
+Technology,1,10-09-2017,222,Home Office
+Furniture,1,11-09-2017,189,Corporate
+Office Supplies,1,11-09-2017,51,Consumer
+Office Supplies,1,11-09-2017,330,Corporate
+Furniture,1,12-09-2017,68,Consumer
+Furniture,1,12-09-2017,2001,Corporate
+Furniture,1,12-09-2017,353,Home Office
+Office Supplies,1,12-09-2017,33,Consumer
+Office Supplies,1,12-09-2017,1077,Corporate
+Technology,1,12-09-2017,73,Consumer
+Technology,1,12-09-2017,1277,Corporate
+Office Supplies,1,13-09-2017,149,Corporate
+Office Supplies,1,13-09-2017,71,Home Office
+Furniture,1,14-09-2017,693,Consumer
+Furniture,1,14-09-2017,339,Corporate
+Office Supplies,1,14-09-2017,286,Consumer
+Office Supplies,1,14-09-2017,355,Corporate
+Office Supplies,1,14-09-2017,467,Home Office
+Technology,1,14-09-2017,1380,Consumer
+Technology,1,14-09-2017,2460,Corporate
+Technology,1,15-09-2017,79,Consumer
+Furniture,1,16-09-2017,237,Consumer
+Furniture,1,16-09-2017,25,Home Office
+Office Supplies,1,16-09-2017,2023,Consumer
+Office Supplies,1,16-09-2017,261,Corporate
+Office Supplies,1,16-09-2017,278,Home Office
+Technology,1,16-09-2017,320,Consumer
+Technology,1,16-09-2017,1031,Corporate
+Technology,1,16-09-2017,2542,Home Office
+Furniture,1,17-09-2017,38,Consumer
+Furniture,1,17-09-2017,2703,Home Office
+Office Supplies,1,17-09-2017,277,Consumer
+Office Supplies,1,17-09-2017,555,Home Office
+Office Supplies,1,18-09-2017,121,Consumer
+Office Supplies,1,18-09-2017,126,Corporate
+Technology,1,18-09-2017,539,Consumer
+Technology,1,18-09-2017,209,Corporate
+Office Supplies,1,19-09-2017,226,Consumer
+Office Supplies,1,19-09-2017,30,Corporate
+Technology,1,19-09-2017,142,Consumer
+Furniture,1,20-09-2017,506,Consumer
+Office Supplies,1,20-09-2017,1002,Consumer
+Office Supplies,1,20-09-2017,143,Corporate
+Office Supplies,1,20-09-2017,81,Home Office
+Technology,1,20-09-2017,809,Consumer
+Technology,1,20-09-2017,1132,Corporate
+Technology,1,20-09-2017,314,Home Office
+Furniture,1,21-09-2017,320,Consumer
+Furniture,1,21-09-2017,62,Corporate
+Furniture,1,21-09-2017,1401,Home Office
+Office Supplies,1,21-09-2017,200,Consumer
+Office Supplies,1,21-09-2017,97,Corporate
+Technology,1,21-09-2017,592,Consumer
+Technology,1,21-09-2017,173,Corporate
+Furniture,1,23-09-2017,854,Consumer
+Office Supplies,1,23-09-2017,509,Consumer
+Office Supplies,1,23-09-2017,161,Corporate
+Office Supplies,1,23-09-2017,65,Home Office
+Office Supplies,1,24-09-2017,1219,Consumer
+Office Supplies,1,24-09-2017,156,Corporate
+Technology,1,24-09-2017,635,Corporate
+Furniture,1,25-09-2017,828,Corporate
+Office Supplies,1,25-09-2017,1199,Consumer
+Office Supplies,1,25-09-2017,289,Corporate
+Office Supplies,1,25-09-2017,246,Home Office
+Technology,1,25-09-2017,449,Consumer
+Technology,1,25-09-2017,422,Corporate
+Technology,1,25-09-2017,287,Home Office
+Furniture,1,26-09-2017,621,Consumer
+Office Supplies,1,26-09-2017,197,Consumer
+Office Supplies,1,26-09-2017,41,Corporate
+Office Supplies,1,26-09-2017,48,Home Office
+Technology,1,26-09-2017,1167,Corporate
+Furniture,1,27-09-2017,1196,Consumer
+Furniture,1,27-09-2017,435,Home Office
+Office Supplies,1,27-09-2017,736,Consumer
+Office Supplies,1,27-09-2017,185,Corporate
+Office Supplies,1,27-09-2017,844,Home Office
+Technology,1,27-09-2017,84,Consumer
+Technology,1,27-09-2017,2088,Corporate
+Furniture,1,28-09-2017,69,Consumer
+Furniture,1,28-09-2017,1224,Corporate
+Office Supplies,1,28-09-2017,57,Consumer
+Office Supplies,1,28-09-2017,463,Corporate
+Technology,1,28-09-2017,1151,Corporate
+Furniture,1,29-09-2017,892,Consumer
+Office Supplies,1,29-09-2017,25,Consumer
+Furniture,1,30-09-2017,589,Consumer
+Office Supplies,1,30-09-2017,562,Consumer
+Technology,1,30-09-2017,1498,Consumer
+Office Supplies,1,01-10-2017,34,Consumer
+Office Supplies,1,01-10-2017,83,Home Office
+Office Supplies,1,03-10-2017,247,Consumer
+Office Supplies,1,03-10-2017,128,Home Office
+Furniture,1,04-10-2017,490,Corporate
+Furniture,1,04-10-2017,466,Home Office
+Office Supplies,1,04-10-2017,148,Consumer
+Technology,1,04-10-2017,1392,Consumer
+Technology,1,04-10-2017,290,Corporate
+Furniture,1,05-10-2017,395,Consumer
+Office Supplies,1,05-10-2017,20,Corporate
+Technology,1,05-10-2017,571,Corporate
+Technology,1,07-10-2017,143,Consumer
+Furniture,1,08-10-2017,573,Consumer
+Office Supplies,1,08-10-2017,225,Consumer
+Technology,1,08-10-2017,583,Consumer
+Technology,1,08-10-2017,1622,Corporate
+Furniture,1,09-10-2017,363,Consumer
+Office Supplies,1,09-10-2017,286,Consumer
+Technology,1,09-10-2017,473,Consumer
+Furniture,1,10-10-2017,402,Home Office
+Technology,1,10-10-2017,286,Consumer
+Technology,1,10-10-2017,628,Corporate
+Furniture,1,11-10-2017,805,Consumer
+Furniture,1,11-10-2017,248,Corporate
+Office Supplies,1,11-10-2017,546,Consumer
+Office Supplies,1,11-10-2017,31,Home Office
+Technology,1,11-10-2017,1968,Consumer
+Office Supplies,1,12-10-2017,582,Consumer
+Office Supplies,1,12-10-2017,48,Home Office
+Technology,1,12-10-2017,1503,Consumer
+Furniture,1,14-10-2017,112,Corporate
+Office Supplies,1,14-10-2017,515,Consumer
+Office Supplies,1,14-10-2017,37,Corporate
+Office Supplies,1,14-10-2017,50,Home Office
+Furniture,1,15-10-2017,350,Consumer
+Furniture,1,15-10-2017,398,Corporate
+Office Supplies,1,15-10-2017,3121,Consumer
+Office Supplies,1,15-10-2017,289,Corporate
+Technology,1,15-10-2017,203,Consumer
+Office Supplies,1,16-10-2017,13,Consumer
+Office Supplies,1,16-10-2017,98,Corporate
+Office Supplies,1,16-10-2017,354,Home Office
+Technology,1,16-10-2017,1385,Consumer
+Technology,1,16-10-2017,1623,Corporate
+Office Supplies,1,17-10-2017,46,Corporate
+Technology,1,17-10-2017,1165,Corporate
+Office Supplies,1,18-10-2017,216,Consumer
+Office Supplies,1,18-10-2017,55,Corporate
+Technology,1,18-10-2017,676,Consumer
+Technology,1,21-10-2017,1220,Corporate
+Office Supplies,1,22-10-2017,131,Consumer
+Furniture,1,23-10-2017,344,Consumer
+Office Supplies,1,23-10-2017,50,Consumer
+Office Supplies,1,23-10-2017,112,Corporate
+Office Supplies,1,23-10-2017,60,Home Office
+Technology,1,23-10-2017,1214,Consumer
+Technology,1,23-10-2017,1239,Corporate
+Office Supplies,1,24-10-2017,360,Consumer
+Office Supplies,1,24-10-2017,371,Corporate
+Office Supplies,1,25-10-2017,92,Consumer
+Office Supplies,1,25-10-2017,248,Home Office
+Technology,1,25-10-2017,523,Consumer
+Office Supplies,1,28-10-2017,1016,Corporate
+Office Supplies,1,28-10-2017,247,Home Office
+Furniture,1,29-10-2017,50,Home Office
+Office Supplies,1,29-10-2017,87,Corporate
+Office Supplies,1,29-10-2017,43,Home Office
+Technology,1,29-10-2017,475,Corporate
+Technology,1,29-10-2017,2080,Home Office
+Office Supplies,1,30-10-2017,45,Corporate
+Technology,1,30-10-2017,44,Consumer
+Office Supplies,1,31-10-2017,51,Consumer
+Office Supplies,1,31-10-2017,183,Corporate
+Furniture,1,01-11-2017,530,Consumer
+Furniture,1,01-11-2017,1104,Home Office
+Office Supplies,1,01-11-2017,171,Consumer
+Office Supplies,1,01-11-2017,701,Corporate
+Office Supplies,1,01-11-2017,862,Home Office
+Technology,1,01-11-2017,402,Corporate
+Office Supplies,1,02-11-2017,874,Consumer
+Technology,1,02-11-2017,171,Home Office
+Furniture,1,04-11-2017,50,Consumer
+Office Supplies,1,04-11-2017,1663,Consumer
+Office Supplies,1,04-11-2017,32,Corporate
+Technology,1,04-11-2017,348,Consumer
+Technology,1,04-11-2017,39,Home Office
+Furniture,1,05-11-2017,936,Consumer
+Furniture,1,05-11-2017,1205,Corporate
+Office Supplies,1,05-11-2017,1148,Consumer
+Office Supplies,1,05-11-2017,408,Corporate
+Technology,1,05-11-2017,202,Consumer
+Furniture,1,06-11-2017,138,Consumer
+Furniture,1,06-11-2017,954,Home Office
+Office Supplies,1,06-11-2017,1176,Consumer
+Office Supplies,1,06-11-2017,337,Corporate
+Office Supplies,1,06-11-2017,173,Home Office
+Technology,1,06-11-2017,1767,Consumer
+Furniture,1,07-11-2017,94,Consumer
+Office Supplies,1,07-11-2017,330,Consumer
+Office Supplies,1,07-11-2017,237,Corporate
+Technology,1,07-11-2017,145,Consumer
+Furniture,1,08-11-2017,222,Consumer
+Furniture,1,08-11-2017,506,Corporate
+Office Supplies,1,08-11-2017,76,Corporate
+Technology,1,08-11-2017,122,Consumer
+Furniture,1,09-11-2017,186,Consumer
+Office Supplies,1,09-11-2017,1671,Consumer
+Office Supplies,1,09-11-2017,234,Corporate
+Technology,1,09-11-2017,1342,Consumer
+Furniture,1,11-11-2017,2237,Consumer
+Office Supplies,1,11-11-2017,680,Consumer
+Office Supplies,1,11-11-2017,214,Corporate
+Technology,1,11-11-2017,2069,Consumer
+Technology,1,11-11-2017,363,Home Office
+Office Supplies,1,12-11-2017,377,Consumer
+Office Supplies,1,12-11-2017,279,Corporate
+Office Supplies,1,12-11-2017,167,Home Office
+Technology,1,12-11-2017,341,Corporate
+Technology,1,12-11-2017,194,Home Office
+Furniture,1,13-11-2017,3274,Corporate
+Office Supplies,1,13-11-2017,1758,Consumer
+Office Supplies,1,13-11-2017,656,Corporate
+Office Supplies,1,13-11-2017,107,Home Office
+Technology,1,13-11-2017,227,Consumer
+Technology,1,13-11-2017,319,Corporate
+Office Supplies,1,14-11-2017,519,Consumer
+Office Supplies,1,14-11-2017,861,Corporate
+Technology,1,14-11-2017,381,Consumer
+Furniture,1,15-11-2017,605,Consumer
+Furniture,1,15-11-2017,1297,Corporate
+Office Supplies,1,15-11-2017,1257,Consumer
+Technology,1,15-11-2017,1020,Home Office
+Furniture,1,16-11-2017,738,Consumer
+Furniture,1,16-11-2017,395,Corporate
+Office Supplies,1,16-11-2017,533,Corporate
+Technology,1,16-11-2017,559,Consumer
+Technology,1,16-11-2017,200,Corporate
+Office Supplies,1,17-11-2017,96,Corporate
+Technology,1,17-11-2017,2038,Consumer
+Furniture,1,18-11-2017,229,Corporate
+Office Supplies,1,18-11-2017,1245,Consumer
+Technology,1,18-11-2017,169,Corporate
+Office Supplies,1,19-11-2017,50,Consumer
+Office Supplies,1,19-11-2017,2217,Corporate
+Office Supplies,1,19-11-2017,119,Home Office
+Technology,1,19-11-2017,2987,Consumer
+Technology,1,19-11-2017,2754,Corporate
+Furniture,1,20-11-2017,11,Consumer
+Furniture,1,20-11-2017,201,Corporate
+Office Supplies,1,20-11-2017,41,Consumer
+Office Supplies,1,20-11-2017,55,Corporate
+Office Supplies,1,21-11-2017,170,Consumer
+Technology,1,21-11-2017,2113,Consumer
+Furniture,1,22-11-2017,1165,Consumer
+Furniture,1,22-11-2017,48,Home Office
+Office Supplies,1,22-11-2017,124,Consumer
+Office Supplies,1,22-11-2017,5909,Corporate
+Office Supplies,1,22-11-2017,215,Home Office
+Technology,1,22-11-2017,1850,Corporate
+Furniture,1,23-11-2017,1469,Corporate
+Office Supplies,1,24-11-2017,505,Consumer
+Office Supplies,1,24-11-2017,43,Corporate
+Technology,1,24-11-2017,1473,Consumer
+Furniture,1,25-11-2017,26,Consumer
+Furniture,1,25-11-2017,135,Corporate
+Office Supplies,1,25-11-2017,604,Consumer
+Office Supplies,1,25-11-2017,2503,Corporate
+Office Supplies,1,25-11-2017,68,Home Office
+Technology,1,25-11-2017,144,Consumer
+Technology,1,25-11-2017,589,Corporate
+Furniture,1,26-11-2017,290,Consumer
+Office Supplies,1,26-11-2017,127,Consumer
+Office Supplies,1,26-11-2017,32,Home Office
+Technology,1,26-11-2017,611,Consumer
+Furniture,1,27-11-2017,2610,Consumer
+Office Supplies,1,27-11-2017,173,Consumer
+Technology,1,27-11-2017,231,Consumer
+Furniture,1,28-11-2017,3965,Consumer
+Office Supplies,1,28-11-2017,699,Consumer
+Office Supplies,1,28-11-2017,179,Home Office
+Technology,1,28-11-2017,438,Consumer
+Technology,1,28-11-2017,285,Home Office
+Furniture,1,29-11-2017,2857,Corporate
+Office Supplies,1,29-11-2017,1467,Corporate
+Technology,1,29-11-2017,194,Corporate
+Furniture,1,30-11-2017,380,Consumer
+Furniture,1,30-11-2017,185,Corporate
+Office Supplies,1,30-11-2017,2944,Consumer
+Technology,1,30-11-2017,872,Consumer
+Office Supplies,1,01-12-2017,343,Corporate
+Technology,1,01-12-2017,41,Corporate
+Office Supplies,1,02-12-2017,34,Consumer
+Office Supplies,1,02-12-2017,247,Corporate
+Office Supplies,1,02-12-2017,2569,Home Office
+Technology,1,02-12-2017,625,Consumer
+Furniture,1,03-12-2017,1043,Consumer
+Furniture,1,03-12-2017,768,Corporate
+Office Supplies,1,03-12-2017,289,Consumer
+Office Supplies,1,03-12-2017,54,Home Office
+Technology,1,03-12-2017,2080,Consumer
+Technology,1,03-12-2017,251,Corporate
+Technology,1,03-12-2017,505,Home Office
+Furniture,1,04-12-2017,850,Consumer
+Furniture,1,04-12-2017,385,Home Office
+Office Supplies,1,04-12-2017,856,Consumer
+Office Supplies,1,04-12-2017,218,Corporate
+Office Supplies,1,04-12-2017,109,Home Office
+Technology,1,04-12-2017,365,Consumer
+Furniture,1,05-12-2017,119,Corporate
+Office Supplies,1,05-12-2017,46,Consumer
+Office Supplies,1,05-12-2017,489,Home Office
+Technology,1,05-12-2017,32,Consumer
+Office Supplies,1,06-12-2017,38,Corporate
+Office Supplies,1,06-12-2017,73,Home Office
+Office Supplies,1,07-12-2017,640,Consumer
+Office Supplies,1,07-12-2017,660,Corporate
+Office Supplies,1,07-12-2017,164,Home Office
+Technology,1,07-12-2017,201,Consumer
+Technology,1,07-12-2017,130,Corporate
+Furniture,1,09-12-2017,1420,Consumer
+Office Supplies,1,09-12-2017,1126,Consumer
+Office Supplies,1,09-12-2017,163,Corporate
+Technology,1,09-12-2017,236,Corporate
+Furniture,1,10-12-2017,1691,Corporate
+Office Supplies,1,10-12-2017,811,Corporate
+Office Supplies,1,10-12-2017,56,Home Office
+Technology,1,10-12-2017,1167,Corporate
+Office Supplies,1,11-12-2017,311,Consumer
+Office Supplies,1,11-12-2017,83,Home Office
+Technology,1,11-12-2017,386,Consumer
+Technology,1,11-12-2017,428,Corporate
+Furniture,1,12-12-2017,1162,Corporate
+Office Supplies,1,12-12-2017,166,Consumer
+Office Supplies,1,12-12-2017,194,Corporate
+Office Supplies,1,12-12-2017,629,Home Office
+Technology,1,12-12-2017,153,Corporate
+Furniture,1,13-12-2017,1580,Consumer
+Office Supplies,1,13-12-2017,57,Consumer
+Office Supplies,1,13-12-2017,210,Corporate
+Office Supplies,1,13-12-2017,155,Home Office
+Technology,1,13-12-2017,994,Corporate
+Furniture,1,14-12-2017,29,Consumer
+Furniture,1,14-12-2017,786,Home Office
+Office Supplies,1,14-12-2017,30,Home Office
+Technology,1,14-12-2017,572,Home Office
+Office Supplies,1,16-12-2017,600,Consumer
+Office Supplies,1,16-12-2017,597,Corporate
+Office Supplies,1,16-12-2017,309,Home Office
+Technology,1,16-12-2017,310,Consumer
+Technology,1,16-12-2017,1358,Home Office
+Furniture,1,17-12-2017,208,Consumer
+Office Supplies,1,17-12-2017,325,Consumer
+Office Supplies,1,17-12-2017,2413,Corporate
+Office Supplies,1,17-12-2017,98,Home Office
+Technology,1,17-12-2017,1014,Consumer
+Technology,1,17-12-2017,41,Corporate
+Furniture,1,18-12-2017,1193,Consumer
+Furniture,1,18-12-2017,286,Home Office
+Office Supplies,1,18-12-2017,540,Consumer
+Office Supplies,1,18-12-2017,124,Home Office
+Technology,1,18-12-2017,4514,Consumer
+Furniture,1,19-12-2017,190,Consumer
+Office Supplies,1,19-12-2017,599,Consumer
+Office Supplies,1,19-12-2017,279,Corporate
+Office Supplies,1,19-12-2017,2036,Home Office
+Technology,1,19-12-2017,369,Consumer
+Furniture,1,20-12-2017,2455,Consumer
+Furniture,1,20-12-2017,1725,Corporate
+Furniture,1,20-12-2017,385,Home Office
+Office Supplies,1,20-12-2017,450,Consumer
+Office Supplies,1,20-12-2017,126,Corporate
+Office Supplies,1,20-12-2017,607,Home Office
+Technology,1,20-12-2017,226,Corporate
+Furniture,1,23-12-2017,274,Corporate
+Furniture,1,23-12-2017,127,Home Office
+Office Supplies,1,23-12-2017,75,Consumer
+Office Supplies,1,23-12-2017,11,Corporate
+Office Supplies,1,23-12-2017,629,Home Office
+Technology,1,23-12-2017,1725,Consumer
+Furniture,1,24-12-2017,144,Consumer
+Furniture,1,24-12-2017,572,Corporate
+Office Supplies,1,24-12-2017,586,Consumer
+Office Supplies,1,24-12-2017,457,Corporate
+Technology,1,24-12-2017,114,Consumer
+Technology,1,24-12-2017,289,Corporate
+Furniture,1,25-12-2017,41,Consumer
+Furniture,1,25-12-2017,15,Corporate
+Office Supplies,1,25-12-2017,916,Consumer
+Office Supplies,1,25-12-2017,85,Corporate
+Technology,1,25-12-2017,1061,Consumer
+Furniture,1,26-12-2017,235,Consumer
+Furniture,1,26-12-2017,1475,Home Office
+Office Supplies,1,26-12-2017,912,Consumer
+Office Supplies,1,26-12-2017,22,Corporate
+Office Supplies,1,26-12-2017,383,Home Office
+Technology,1,26-12-2017,6062,Consumer
+Office Supplies,1,27-12-2017,249,Consumer
+Office Supplies,1,27-12-2017,450,Corporate
+Technology,1,27-12-2017,231,Consumer
+Technology,1,27-12-2017,783,Corporate
+Technology,1,27-12-2017,91,Home Office
+Furniture,1,28-12-2017,41,Consumer
+Office Supplies,1,28-12-2017,12,Consumer
+Furniture,1,30-12-2017,79,Consumer
+Office Supplies,1,30-12-2017,397,Consumer
+Office Supplies,1,30-12-2017,132,Home Office
+Technology,1,30-12-2017,644,Corporate
+Office Supplies,1,31-12-2017,705,Consumer
+Office Supplies,1,31-12-2017,89,Corporate
+Office Supplies,1,31-12-2017,93,Home Office
+Technology,1,31-12-2017,3389,Consumer
+Technology,1,31-12-2017,1907,Corporate
+Technology,1,31-12-2017,720,Home Office
+Office Supplies,1,01-01-2018,46,Consumer
+Office Supplies,1,01-01-2018,389,Corporate
+Technology,1,01-01-2018,909,Consumer
+Office Supplies,1,02-01-2018,9,Home Office
+Furniture,1,03-01-2018,354,Consumer
+Office Supplies,1,03-01-2018,402,Consumer
+Technology,1,03-01-2018,1804,Consumer
+Office Supplies,1,04-01-2018,49,Consumer
+Office Supplies,1,05-01-2018,248,Home Office
+Furniture,1,06-01-2018,135,Consumer
+Furniture,1,06-01-2018,1707,Home Office
+Office Supplies,1,06-01-2018,371,Consumer
+Office Supplies,1,06-01-2018,392,Corporate
+Office Supplies,1,06-01-2018,635,Home Office
+Technology,1,06-01-2018,1657,Consumer
+Technology,1,06-01-2018,2071,Home Office
+Office Supplies,1,07-01-2018,49,Home Office
+Furniture,1,08-01-2018,777,Consumer
+Furniture,1,08-01-2018,37,Corporate
+Office Supplies,1,08-01-2018,175,Consumer
+Office Supplies,1,08-01-2018,681,Corporate
+Technology,1,08-01-2018,436,Consumer
+Technology,1,08-01-2018,61,Corporate
+Furniture,1,09-01-2018,1308,Corporate
+Office Supplies,1,09-01-2018,201,Consumer
+Office Supplies,1,09-01-2018,246,Corporate
+Office Supplies,1,09-01-2018,29,Home Office
+Technology,1,09-01-2018,3100,Corporate
+Office Supplies,1,10-01-2018,564,Consumer
+Technology,1,10-01-2018,1671,Corporate
+Office Supplies,1,11-01-2018,2221,Consumer
+Office Supplies,1,13-01-2018,523,Consumer
+Technology,1,13-01-2018,1327,Consumer
+Furniture,1,14-01-2018,104,Consumer
+Furniture,1,14-01-2018,737,Corporate
+Furniture,1,14-01-2018,359,Home Office
+Office Supplies,1,14-01-2018,910,Consumer
+Office Supplies,1,14-01-2018,30,Corporate
+Office Supplies,1,14-01-2018,202,Home Office
+Technology,1,14-01-2018,7754,Consumer
+Technology,1,14-01-2018,75,Corporate
+Technology,1,14-01-2018,377,Home Office
+Furniture,1,15-01-2018,52,Home Office
+Office Supplies,1,15-01-2018,35,Consumer
+Office Supplies,1,15-01-2018,297,Home Office
+Technology,1,15-01-2018,521,Consumer
+Technology,1,15-01-2018,115,Corporate
+Technology,1,15-01-2018,370,Home Office
+Office Supplies,1,16-01-2018,390,Consumer
+Office Supplies,1,16-01-2018,98,Home Office
+Technology,1,16-01-2018,49,Consumer
+Technology,1,16-01-2018,153,Corporate
+Office Supplies,1,17-01-2018,707,Consumer
+Office Supplies,1,17-01-2018,728,Corporate
+Office Supplies,1,18-01-2018,29,Consumer
+Furniture,1,20-01-2018,597,Consumer
+Office Supplies,1,20-01-2018,958,Consumer
+Office Supplies,1,20-01-2018,2152,Corporate
+Technology,1,20-01-2018,757,Consumer
+Furniture,1,21-01-2018,102,Consumer
+Furniture,1,21-01-2018,1974,Corporate
+Office Supplies,1,21-01-2018,383,Consumer
+Office Supplies,1,21-01-2018,191,Corporate
+Technology,1,21-01-2018,840,Consumer
+Technology,1,21-01-2018,697,Corporate
+Furniture,1,22-01-2018,239,Consumer
+Office Supplies,1,22-01-2018,893,Consumer
+Office Supplies,1,22-01-2018,582,Corporate
+Furniture,1,23-01-2018,191,Consumer
+Office Supplies,1,23-01-2018,226,Consumer
+Technology,1,23-01-2018,675,Consumer
+Office Supplies,1,24-01-2018,337,Consumer
+Office Supplies,1,24-01-2018,39,Corporate
+Office Supplies,1,24-01-2018,613,Home Office
+Office Supplies,1,25-01-2018,916,Consumer
+Office Supplies,1,25-01-2018,111,Home Office
+Furniture,1,26-01-2018,605,Corporate
+Office Supplies,1,26-01-2018,122,Consumer
+Office Supplies,1,26-01-2018,95,Corporate
+Technology,1,26-01-2018,285,Corporate
+Office Supplies,1,27-01-2018,603,Corporate
+Furniture,1,28-01-2018,1052,Consumer
+Office Supplies,1,28-01-2018,889,Consumer
+Office Supplies,1,28-01-2018,116,Corporate
+Technology,1,28-01-2018,499,Consumer
+Furniture,1,29-01-2018,214,Corporate
+Office Supplies,1,29-01-2018,426,Consumer
+Office Supplies,1,29-01-2018,265,Corporate
+Technology,1,29-01-2018,1787,Consumer
+Technology,1,30-01-2018,1642,Consumer
+Furniture,1,31-01-2018,125,Consumer
+Office Supplies,1,31-01-2018,133,Consumer
+Office Supplies,1,31-01-2018,47,Corporate
+Office Supplies,1,31-01-2018,24,Home Office
+Technology,1,31-01-2018,2103,Corporate
+Office Supplies,1,01-02-2018,586,Consumer
+Furniture,1,03-02-2018,288,Consumer
+Office Supplies,1,03-02-2018,137,Consumer
+Office Supplies,1,03-02-2018,64,Corporate
+Office Supplies,1,03-02-2018,376,Home Office
+Technology,1,03-02-2018,919,Consumer
+Technology,1,03-02-2018,233,Home Office
+Office Supplies,1,04-02-2018,6,Consumer
+Furniture,1,05-02-2018,220,Consumer
+Furniture,1,05-02-2018,698,Home Office
+Office Supplies,1,05-02-2018,23,Consumer
+Office Supplies,1,05-02-2018,377,Home Office
+Furniture,1,06-02-2018,305,Home Office
+Office Supplies,1,06-02-2018,1084,Consumer
+Office Supplies,1,06-02-2018,112,Home Office
+Technology,1,06-02-2018,490,Home Office
+Furniture,1,07-02-2018,3032,Home Office
+Office Supplies,1,07-02-2018,360,Consumer
+Office Supplies,1,07-02-2018,295,Corporate
+Office Supplies,1,07-02-2018,541,Home Office
+Technology,1,07-02-2018,870,Consumer
+Technology,1,07-02-2018,995,Corporate
+Office Supplies,1,08-02-2018,33,Consumer
+Office Supplies,1,08-02-2018,1532,Corporate
+Furniture,1,10-02-2018,212,Consumer
+Office Supplies,1,10-02-2018,47,Consumer
+Office Supplies,1,10-02-2018,663,Corporate
+Technology,1,10-02-2018,528,Corporate
+Technology,1,10-02-2018,482,Home Office
+Furniture,1,11-02-2018,703,Corporate
+Office Supplies,1,11-02-2018,431,Consumer
+Office Supplies,1,11-02-2018,3038,Corporate
+Technology,1,11-02-2018,267,Consumer
+Technology,1,11-02-2018,769,Corporate
+Office Supplies,1,12-02-2018,10,Consumer
+Technology,1,12-02-2018,1885,Consumer
+Technology,1,13-02-2018,335,Corporate
+Furniture,1,14-02-2018,488,Consumer
+Furniture,1,14-02-2018,120,Corporate
+Furniture,1,14-02-2018,1223,Home Office
+Office Supplies,1,14-02-2018,1977,Consumer
+Office Supplies,1,14-02-2018,650,Corporate
+Office Supplies,1,14-02-2018,172,Home Office
+Technology,1,14-02-2018,534,Corporate
+Technology,1,14-02-2018,112,Home Office
+Furniture,1,15-02-2018,246,Consumer
+Office Supplies,1,15-02-2018,140,Consumer
+Office Supplies,1,16-02-2018,44,Consumer
+Technology,1,16-02-2018,193,Consumer
+Furniture,1,17-02-2018,598,Consumer
+Furniture,1,17-02-2018,1402,Corporate
+Furniture,1,17-02-2018,339,Home Office
+Office Supplies,1,17-02-2018,341,Consumer
+Office Supplies,1,17-02-2018,29,Corporate
+Office Supplies,1,17-02-2018,37,Home Office
+Technology,1,17-02-2018,959,Consumer
+Technology,1,17-02-2018,1061,Corporate
+Technology,1,17-02-2018,620,Home Office
+Furniture,1,19-02-2018,859,Consumer
+Office Supplies,1,19-02-2018,560,Consumer
+Technology,1,19-02-2018,1018,Consumer
+Furniture,1,20-02-2018,117,Home Office
+Office Supplies,1,20-02-2018,151,Consumer
+Technology,1,20-02-2018,408,Consumer
+Technology,1,20-02-2018,717,Corporate
+Office Supplies,1,21-02-2018,193,Corporate
+Office Supplies,1,21-02-2018,26,Home Office
+Technology,1,21-02-2018,1372,Corporate
+Office Supplies,1,22-02-2018,104,Consumer
+Office Supplies,1,22-02-2018,954,Home Office
+Office Supplies,1,23-02-2018,107,Home Office
+Furniture,1,24-02-2018,959,Consumer
+Office Supplies,1,24-02-2018,140,Consumer
+Office Supplies,1,24-02-2018,1414,Corporate
+Technology,1,24-02-2018,1311,Consumer
+Furniture,1,25-02-2018,1702,Consumer
+Office Supplies,1,25-02-2018,289,Consumer
+Office Supplies,1,25-02-2018,334,Corporate
+Technology,1,25-02-2018,287,Consumer
+Technology,1,25-02-2018,1527,Corporate
+Office Supplies,1,26-02-2018,165,Consumer
+Office Supplies,1,26-02-2018,47,Corporate
+Office Supplies,1,26-02-2018,39,Home Office
+Technology,1,26-02-2018,336,Consumer
+Office Supplies,1,27-02-2018,1547,Consumer
+Office Supplies,1,27-02-2018,67,Corporate
+Technology,1,27-02-2018,1175,Consumer
+Furniture,1,28-02-2018,57,Corporate
+Office Supplies,1,28-02-2018,375,Consumer
+Office Supplies,1,28-02-2018,837,Corporate
+Technology,1,28-02-2018,335,Consumer
+Technology,1,28-02-2018,182,Corporate
+Office Supplies,1,03-03-2018,219,Consumer
+Office Supplies,1,03-03-2018,109,Corporate
+Technology,1,03-03-2018,213,Consumer
+Technology,1,03-03-2018,112,Corporate
+Office Supplies,1,04-03-2018,535,Consumer
+Office Supplies,1,04-03-2018,214,Corporate
+Technology,1,04-03-2018,565,Consumer
+Technology,1,04-03-2018,1432,Corporate
+Furniture,1,05-03-2018,402,Home Office
+Office Supplies,1,05-03-2018,526,Consumer
+Office Supplies,1,05-03-2018,425,Home Office
+Technology,1,05-03-2018,729,Consumer
+Furniture,1,06-03-2018,958,Corporate
+Office Supplies,1,06-03-2018,237,Consumer
+Office Supplies,1,06-03-2018,191,Corporate
+Technology,1,06-03-2018,558,Consumer
+Technology,1,06-03-2018,514,Corporate
+Office Supplies,1,08-03-2018,1024,Consumer
+Office Supplies,1,08-03-2018,516,Corporate
+Technology,1,08-03-2018,385,Consumer
+Office Supplies,1,10-03-2018,176,Consumer
+Office Supplies,1,10-03-2018,45,Corporate
+Office Supplies,1,10-03-2018,50,Home Office
+Technology,1,10-03-2018,726,Consumer
+Office Supplies,1,11-03-2018,127,Consumer
+Furniture,1,12-03-2018,251,Consumer
+Furniture,1,12-03-2018,467,Home Office
+Office Supplies,1,12-03-2018,126,Consumer
+Office Supplies,1,12-03-2018,585,Home Office
+Technology,1,12-03-2018,454,Consumer
+Furniture,1,13-03-2018,1118,Corporate
+Office Supplies,1,13-03-2018,120,Corporate
+Technology,1,13-03-2018,283,Corporate
+Furniture,1,14-03-2018,1420,Consumer
+Office Supplies,1,14-03-2018,87,Consumer
+Office Supplies,1,15-03-2018,316,Consumer
+Office Supplies,1,15-03-2018,1015,Corporate
+Office Supplies,1,15-03-2018,103,Home Office
+Technology,1,15-03-2018,935,Corporate
+Technology,1,15-03-2018,190,Home Office
+Office Supplies,1,17-03-2018,218,Consumer
+Office Supplies,1,17-03-2018,244,Corporate
+Office Supplies,1,17-03-2018,525,Home Office
+Technology,1,17-03-2018,153,Consumer
+Technology,1,17-03-2018,1582,Corporate
+Technology,1,17-03-2018,916,Home Office
+Furniture,1,18-03-2018,601,Consumer
+Office Supplies,1,18-03-2018,170,Consumer
+Office Supplies,1,18-03-2018,199,Corporate
+Office Supplies,1,18-03-2018,164,Home Office
+Technology,1,18-03-2018,2737,Corporate
+Furniture,1,19-03-2018,969,Consumer
+Furniture,1,19-03-2018,225,Corporate
+Office Supplies,1,19-03-2018,958,Consumer
+Office Supplies,1,19-03-2018,73,Home Office
+Office Supplies,1,20-03-2018,189,Consumer
+Furniture,1,21-03-2018,36,Consumer
+Furniture,1,21-03-2018,2113,Home Office
+Office Supplies,1,21-03-2018,627,Home Office
+Technology,1,21-03-2018,123,Consumer
+Office Supplies,1,22-03-2018,108,Consumer
+Office Supplies,1,23-03-2018,240,Consumer
+Office Supplies,1,24-03-2018,564,Corporate
+Furniture,1,25-03-2018,531,Consumer
+Furniture,1,25-03-2018,2040,Corporate
+Office Supplies,1,25-03-2018,863,Consumer
+Office Supplies,1,25-03-2018,534,Corporate
+Office Supplies,1,25-03-2018,282,Home Office
+Office Supplies,1,26-03-2018,261,Consumer
+Technology,1,26-03-2018,795,Corporate
+Office Supplies,1,27-03-2018,38,Consumer
+Office Supplies,1,27-03-2018,62,Corporate
+Office Supplies,1,28-03-2018,670,Consumer
+Office Supplies,1,28-03-2018,41,Corporate
+Office Supplies,1,28-03-2018,1215,Home Office
+Technology,1,28-03-2018,634,Consumer
+Technology,1,28-03-2018,286,Corporate
+Technology,1,28-03-2018,531,Home Office
+Office Supplies,1,29-03-2018,34,Corporate
+Office Supplies,1,29-03-2018,199,Home Office
+Furniture,1,31-03-2018,2921,Consumer
+Furniture,1,31-03-2018,746,Corporate
+Office Supplies,1,31-03-2018,1107,Consumer
+Office Supplies,1,31-03-2018,1027,Corporate
+Technology,1,31-03-2018,113,Corporate
+Office Supplies,1,01-04-2018,39,Consumer
+Technology,1,01-04-2018,2002,Consumer
+Furniture,1,02-04-2018,1064,Home Office
+Office Supplies,1,02-04-2018,1480,Consumer
+Office Supplies,1,02-04-2018,45,Corporate
+Office Supplies,1,02-04-2018,400,Home Office
+Technology,1,02-04-2018,260,Home Office
+Furniture,1,03-04-2018,273,Consumer
+Furniture,1,03-04-2018,2214,Corporate
+Office Supplies,1,03-04-2018,100,Consumer
+Office Supplies,1,03-04-2018,134,Corporate
+Technology,1,03-04-2018,258,Consumer
+Technology,1,03-04-2018,493,Corporate
+Technology,1,03-04-2018,1599,Home Office
+Office Supplies,1,04-04-2018,594,Consumer
+Office Supplies,1,04-04-2018,399,Corporate
+Office Supplies,1,05-04-2018,22,Consumer
+Office Supplies,1,05-04-2018,58,Home Office
+Furniture,1,06-04-2018,273,Consumer
+Office Supplies,1,06-04-2018,446,Consumer
+Technology,1,06-04-2018,292,Consumer
+Furniture,1,07-04-2018,933,Consumer
+Office Supplies,1,07-04-2018,501,Consumer
+Office Supplies,1,07-04-2018,1510,Corporate
+Office Supplies,1,07-04-2018,405,Home Office
+Technology,1,07-04-2018,312,Consumer
+Technology,1,07-04-2018,188,Home Office
+Furniture,1,08-04-2018,199,Consumer
+Office Supplies,1,08-04-2018,363,Consumer
+Office Supplies,1,09-04-2018,1625,Consumer
+Office Supplies,1,09-04-2018,55,Corporate
+Office Supplies,1,09-04-2018,21,Home Office
+Technology,1,09-04-2018,251,Home Office
+Furniture,1,10-04-2018,1179,Corporate
+Office Supplies,1,10-04-2018,89,Consumer
+Office Supplies,1,10-04-2018,191,Corporate
+Office Supplies,1,10-04-2018,84,Home Office
+Technology,1,10-04-2018,1108,Consumer
+Technology,1,10-04-2018,676,Corporate
+Office Supplies,1,11-04-2018,35,Corporate
+Technology,1,11-04-2018,211,Consumer
+Office Supplies,1,12-04-2018,1651,Corporate
+Office Supplies,1,12-04-2018,52,Home Office
+Furniture,1,13-04-2018,148,Corporate
+Office Supplies,1,13-04-2018,46,Consumer
+Office Supplies,1,13-04-2018,456,Corporate
+Technology,1,13-04-2018,1044,Home Office
+Furniture,1,14-04-2018,523,Consumer
+Furniture,1,14-04-2018,1468,Corporate
+Office Supplies,1,14-04-2018,2275,Consumer
+Office Supplies,1,14-04-2018,866,Corporate
+Technology,1,14-04-2018,54,Corporate
+Furniture,1,15-04-2018,831,Corporate
+Office Supplies,1,15-04-2018,450,Consumer
+Office Supplies,1,15-04-2018,680,Corporate
+Technology,1,15-04-2018,651,Consumer
+Furniture,1,16-04-2018,1086,Corporate
+Office Supplies,1,16-04-2018,94,Consumer
+Office Supplies,1,16-04-2018,94,Corporate
+Technology,1,16-04-2018,707,Corporate
+Technology,1,16-04-2018,257,Home Office
+Furniture,1,17-04-2018,169,Consumer
+Furniture,1,17-04-2018,642,Corporate
+Office Supplies,1,17-04-2018,626,Consumer
+Office Supplies,1,17-04-2018,446,Corporate
+Office Supplies,1,17-04-2018,232,Home Office
+Technology,1,17-04-2018,845,Consumer
+Technology,1,17-04-2018,1222,Corporate
+Technology,1,17-04-2018,442,Home Office
+Furniture,1,18-04-2018,83,Corporate
+Office Supplies,1,18-04-2018,76,Consumer
+Office Supplies,1,18-04-2018,114,Corporate
+Furniture,1,19-04-2018,626,Consumer
+Furniture,1,19-04-2018,188,Corporate
+Office Supplies,1,19-04-2018,239,Consumer
+Office Supplies,1,19-04-2018,34,Corporate
+Office Supplies,1,19-04-2018,27,Home Office
+Technology,1,19-04-2018,86,Consumer
+Technology,1,20-04-2018,806,Corporate
+Furniture,1,21-04-2018,1031,Consumer
+Office Supplies,1,21-04-2018,962,Consumer
+Technology,1,21-04-2018,1363,Consumer
+Technology,1,21-04-2018,1723,Corporate
+Furniture,1,22-04-2018,1217,Corporate
+Office Supplies,1,22-04-2018,18,Corporate
+Office Supplies,1,23-04-2018,22,Consumer
+Technology,1,23-04-2018,1343,Consumer
+Furniture,1,24-04-2018,1202,Consumer
+Office Supplies,1,24-04-2018,1140,Consumer
+Office Supplies,1,24-04-2018,282,Corporate
+Technology,1,24-04-2018,2794,Consumer
+Office Supplies,1,25-04-2018,206,Consumer
+Office Supplies,1,25-04-2018,739,Corporate
+Technology,1,25-04-2018,375,Home Office
+Furniture,1,26-04-2018,862,Consumer
+Furniture,1,26-04-2018,21,Corporate
+Office Supplies,1,26-04-2018,313,Consumer
+Office Supplies,1,26-04-2018,137,Corporate
+Office Supplies,1,26-04-2018,44,Home Office
+Technology,1,26-04-2018,648,Corporate
+Furniture,1,28-04-2018,2334,Consumer
+Furniture,1,28-04-2018,353,Corporate
+Furniture,1,28-04-2018,756,Home Office
+Office Supplies,1,28-04-2018,233,Corporate
+Office Supplies,1,28-04-2018,230,Home Office
+Technology,1,28-04-2018,45,Consumer
+Technology,1,28-04-2018,2239,Home Office
+Furniture,1,29-04-2018,84,Corporate
+Technology,1,29-04-2018,825,Consumer
+Furniture,1,30-04-2018,126,Consumer
+Office Supplies,1,30-04-2018,228,Consumer
+Office Supplies,1,30-04-2018,1063,Corporate
+Furniture,1,01-05-2018,1868,Consumer
+Furniture,1,01-05-2018,63,Home Office
+Office Supplies,1,01-05-2018,188,Consumer
+Office Supplies,1,01-05-2018,15,Home Office
+Office Supplies,1,02-05-2018,847,Consumer
+Office Supplies,1,02-05-2018,90,Home Office
+Technology,1,02-05-2018,74,Consumer
+Technology,1,02-05-2018,24,Home Office
+Office Supplies,1,03-05-2018,900,Consumer
+Office Supplies,1,03-05-2018,109,Corporate
+Office Supplies,1,03-05-2018,889,Home Office
+Technology,1,03-05-2018,127,Consumer
+Office Supplies,1,05-05-2018,106,Consumer
+Technology,1,05-05-2018,391,Consumer
+Office Supplies,1,06-05-2018,68,Consumer
+Furniture,1,07-05-2018,1156,Home Office
+Office Supplies,1,07-05-2018,1236,Consumer
+Office Supplies,1,07-05-2018,303,Home Office
+Technology,1,07-05-2018,837,Home Office
+Office Supplies,1,08-05-2018,383,Consumer
+Office Supplies,1,08-05-2018,409,Corporate
+Technology,1,08-05-2018,2883,Consumer
+Technology,1,08-05-2018,1494,Corporate
+Furniture,1,09-05-2018,655,Consumer
+Office Supplies,1,09-05-2018,431,Consumer
+Office Supplies,1,09-05-2018,117,Corporate
+Office Supplies,1,09-05-2018,25,Home Office
+Technology,1,09-05-2018,68,Consumer
+Office Supplies,1,10-05-2018,281,Consumer
+Office Supplies,1,10-05-2018,97,Home Office
+Technology,1,10-05-2018,130,Consumer
+Office Supplies,1,12-05-2018,1755,Consumer
+Office Supplies,1,12-05-2018,154,Corporate
+Office Supplies,1,12-05-2018,159,Home Office
+Technology,1,12-05-2018,362,Consumer
+Office Supplies,1,13-05-2018,96,Consumer
+Office Supplies,1,13-05-2018,66,Corporate
+Office Supplies,1,14-05-2018,370,Consumer
+Furniture,1,15-05-2018,999,Consumer
+Office Supplies,1,15-05-2018,45,Consumer
+Office Supplies,1,15-05-2018,128,Corporate
+Technology,1,15-05-2018,62,Corporate
+Furniture,1,16-05-2018,980,Consumer
+Furniture,1,16-05-2018,1023,Home Office
+Office Supplies,1,16-05-2018,2129,Consumer
+Office Supplies,1,16-05-2018,101,Home Office
+Technology,1,16-05-2018,1730,Consumer
+Office Supplies,1,17-05-2018,139,Consumer
+Office Supplies,1,17-05-2018,89,Corporate
+Technology,1,17-05-2018,432,Consumer
+Office Supplies,1,19-05-2018,1057,Consumer
+Office Supplies,1,19-05-2018,160,Corporate
+Office Supplies,1,19-05-2018,736,Home Office
+Technology,1,19-05-2018,258,Consumer
+Furniture,1,20-05-2018,812,Consumer
+Office Supplies,1,20-05-2018,312,Consumer
+Technology,1,20-05-2018,859,Consumer
+Furniture,1,21-05-2018,156,Consumer
+Office Supplies,1,21-05-2018,191,Consumer
+Office Supplies,1,21-05-2018,122,Corporate
+Technology,1,21-05-2018,73,Corporate
+Office Supplies,1,22-05-2018,975,Consumer
+Office Supplies,1,23-05-2018,1259,Consumer
+Office Supplies,1,23-05-2018,213,Corporate
+Furniture,1,24-05-2018,298,Corporate
+Office Supplies,1,24-05-2018,347,Consumer
+Office Supplies,1,24-05-2018,300,Corporate
+Office Supplies,1,24-05-2018,1472,Home Office
+Technology,1,24-05-2018,647,Consumer
+Technology,1,24-05-2018,875,Corporate
+Furniture,1,26-05-2018,1178,Consumer
+Furniture,1,26-05-2018,312,Home Office
+Office Supplies,1,26-05-2018,167,Consumer
+Office Supplies,1,26-05-2018,128,Home Office
+Technology,1,26-05-2018,1053,Consumer
+Furniture,1,27-05-2018,603,Consumer
+Office Supplies,1,27-05-2018,43,Consumer
+Office Supplies,1,27-05-2018,255,Corporate
+Technology,1,27-05-2018,981,Corporate
+Office Supplies,1,28-05-2018,220,Consumer
+Technology,1,28-05-2018,43,Consumer
+Furniture,1,29-05-2018,1685,Consumer
+Office Supplies,1,29-05-2018,567,Consumer
+Office Supplies,1,29-05-2018,1435,Home Office
+Technology,1,29-05-2018,926,Consumer
+Technology,1,29-05-2018,215,Home Office
+Office Supplies,1,30-05-2018,1483,Corporate
+Office Supplies,1,30-05-2018,214,Home Office
+Technology,1,30-05-2018,550,Corporate
+Technology,1,31-05-2018,789,Corporate
+Office Supplies,1,02-06-2018,235,Consumer
+Office Supplies,1,02-06-2018,222,Corporate
+Technology,1,02-06-2018,1349,Corporate
+Furniture,1,03-06-2018,514,Consumer
+Office Supplies,1,03-06-2018,2797,Consumer
+Office Supplies,1,03-06-2018,346,Corporate
+Office Supplies,1,03-06-2018,42,Home Office
+Furniture,1,04-06-2018,576,Consumer
+Furniture,1,04-06-2018,4189,Corporate
+Office Supplies,1,04-06-2018,135,Consumer
+Office Supplies,1,04-06-2018,613,Corporate
+Office Supplies,1,04-06-2018,585,Home Office
+Technology,1,04-06-2018,451,Corporate
+Technology,1,04-06-2018,697,Home Office
+Office Supplies,1,05-06-2018,350,Consumer
+Office Supplies,1,05-06-2018,64,Corporate
+Technology,1,05-06-2018,1249,Consumer
+Furniture,1,06-06-2018,1615,Consumer
+Office Supplies,1,06-06-2018,607,Consumer
+Technology,1,06-06-2018,377,Consumer
+Furniture,1,07-06-2018,948,Consumer
+Office Supplies,1,07-06-2018,543,Consumer
+Office Supplies,1,07-06-2018,118,Home Office
+Office Supplies,1,08-06-2018,44,Consumer
+Technology,1,08-06-2018,631,Consumer
+Furniture,1,09-06-2018,1415,Consumer
+Office Supplies,1,09-06-2018,539,Consumer
+Office Supplies,1,09-06-2018,1824,Corporate
+Office Supplies,1,09-06-2018,525,Home Office
+Technology,1,09-06-2018,2211,Consumer
+Technology,1,09-06-2018,812,Corporate
+Furniture,1,10-06-2018,1421,Corporate
+Office Supplies,1,10-06-2018,496,Consumer
+Office Supplies,1,10-06-2018,671,Corporate
+Technology,1,10-06-2018,1563,Consumer
+Technology,1,10-06-2018,4432,Corporate
+Furniture,1,11-06-2018,422,Corporate
+Furniture,1,11-06-2018,586,Home Office
+Office Supplies,1,11-06-2018,968,Consumer
+Office Supplies,1,11-06-2018,471,Corporate
+Office Supplies,1,11-06-2018,60,Home Office
+Technology,1,11-06-2018,1530,Consumer
+Technology,1,11-06-2018,529,Home Office
+Furniture,1,12-06-2018,820,Corporate
+Office Supplies,1,12-06-2018,144,Consumer
+Office Supplies,1,12-06-2018,823,Corporate
+Technology,1,12-06-2018,1325,Consumer
+Technology,1,12-06-2018,134,Corporate
+Furniture,1,13-06-2018,367,Consumer
+Office Supplies,1,13-06-2018,272,Consumer
+Office Supplies,1,13-06-2018,42,Corporate
+Technology,1,13-06-2018,148,Corporate
+Furniture,1,14-06-2018,2040,Consumer
+Office Supplies,1,14-06-2018,203,Consumer
+Office Supplies,1,15-06-2018,107,Consumer
+Furniture,1,16-06-2018,277,Consumer
+Furniture,1,16-06-2018,78,Home Office
+Office Supplies,1,16-06-2018,211,Consumer
+Office Supplies,1,16-06-2018,142,Corporate
+Technology,1,16-06-2018,453,Consumer
+Technology,1,16-06-2018,193,Corporate
+Furniture,1,17-06-2018,37,Consumer
+Furniture,1,17-06-2018,2326,Corporate
+Office Supplies,1,17-06-2018,134,Consumer
+Office Supplies,1,17-06-2018,928,Corporate
+Technology,1,17-06-2018,1915,Corporate
+Furniture,1,18-06-2018,33,Consumer
+Furniture,1,18-06-2018,231,Corporate
+Furniture,1,18-06-2018,216,Home Office
+Office Supplies,1,18-06-2018,2893,Consumer
+Office Supplies,1,18-06-2018,2022,Corporate
+Office Supplies,1,18-06-2018,850,Home Office
+Technology,1,18-06-2018,556,Consumer
+Technology,1,18-06-2018,1024,Corporate
+Technology,1,18-06-2018,321,Home Office
+Furniture,1,19-06-2018,1469,Corporate
+Office Supplies,1,19-06-2018,45,Consumer
+Office Supplies,1,19-06-2018,239,Home Office
+Technology,1,19-06-2018,150,Corporate
+Technology,1,19-06-2018,1800,Home Office
+Furniture,1,20-06-2018,87,Corporate
+Office Supplies,1,20-06-2018,1009,Consumer
+Office Supplies,1,20-06-2018,20,Corporate
+Technology,1,20-06-2018,588,Corporate
+Furniture,1,21-06-2018,767,Corporate
+Furniture,1,21-06-2018,663,Home Office
+Office Supplies,1,21-06-2018,114,Consumer
+Office Supplies,1,21-06-2018,197,Corporate
+Technology,1,21-06-2018,86,Consumer
+Office Supplies,1,22-06-2018,77,Corporate
+Office Supplies,1,22-06-2018,467,Home Office
+Furniture,1,23-06-2018,932,Consumer
+Furniture,1,23-06-2018,143,Corporate
+Office Supplies,1,23-06-2018,196,Consumer
+Office Supplies,1,23-06-2018,117,Corporate
+Office Supplies,1,23-06-2018,33,Home Office
+Furniture,1,24-06-2018,782,Consumer
+Office Supplies,1,24-06-2018,589,Consumer
+Office Supplies,1,24-06-2018,396,Corporate
+Office Supplies,1,24-06-2018,300,Home Office
+Technology,1,24-06-2018,7028,Consumer
+Technology,1,24-06-2018,219,Home Office
+Furniture,1,25-06-2018,373,Consumer
+Furniture,1,25-06-2018,1909,Home Office
+Office Supplies,1,25-06-2018,118,Consumer
+Office Supplies,1,25-06-2018,650,Corporate
+Office Supplies,1,25-06-2018,135,Home Office
+Technology,1,25-06-2018,1780,Consumer
+Technology,1,25-06-2018,636,Corporate
+Furniture,1,26-06-2018,315,Consumer
+Furniture,1,26-06-2018,231,Home Office
+Office Supplies,1,26-06-2018,142,Consumer
+Office Supplies,1,26-06-2018,1036,Corporate
+Office Supplies,1,26-06-2018,1453,Home Office
+Technology,1,26-06-2018,860,Consumer
+Technology,1,26-06-2018,4158,Corporate
+Furniture,1,27-06-2018,396,Consumer
+Furniture,1,27-06-2018,577,Corporate
+Furniture,1,27-06-2018,1301,Home Office
+Office Supplies,1,27-06-2018,594,Consumer
+Office Supplies,1,27-06-2018,697,Corporate
+Office Supplies,1,27-06-2018,166,Home Office
+Technology,1,27-06-2018,338,Consumer
+Technology,1,27-06-2018,1559,Home Office
+Office Supplies,1,28-06-2018,44,Home Office
+Furniture,1,29-06-2018,1420,Consumer
+Office Supplies,1,29-06-2018,84,Consumer
+Technology,1,29-06-2018,727,Consumer
+Furniture,1,30-06-2018,431,Corporate
+Furniture,1,30-06-2018,1307,Home Office
+Office Supplies,1,30-06-2018,196,Consumer
+Office Supplies,1,30-06-2018,976,Corporate
+Office Supplies,1,30-06-2018,847,Home Office
+Technology,1,30-06-2018,917,Home Office
+Office Supplies,1,01-07-2018,516,Consumer
+Office Supplies,1,01-07-2018,657,Corporate
+Technology,1,01-07-2018,52,Consumer
+Technology,1,01-07-2018,656,Corporate
+Furniture,1,02-07-2018,980,Consumer
+Office Supplies,1,02-07-2018,428,Consumer
+Office Supplies,1,02-07-2018,101,Home Office
+Furniture,1,03-07-2018,885,Consumer
+Furniture,1,03-07-2018,120,Corporate
+Office Supplies,1,03-07-2018,1387,Consumer
+Office Supplies,1,03-07-2018,230,Home Office
+Technology,1,03-07-2018,2723,Consumer
+Office Supplies,1,04-07-2018,337,Consumer
+Office Supplies,1,04-07-2018,9,Corporate
+Technology,1,04-07-2018,777,Consumer
+Furniture,1,05-07-2018,127,Home Office
+Office Supplies,1,05-07-2018,576,Consumer
+Technology,1,05-07-2018,2092,Home Office
+Furniture,1,07-07-2018,790,Consumer
+Furniture,1,07-07-2018,116,Corporate
+Office Supplies,1,07-07-2018,212,Consumer
+Office Supplies,1,07-07-2018,303,Corporate
+Technology,1,07-07-2018,46,Corporate
+Office Supplies,1,08-07-2018,43,Corporate
+Technology,1,09-07-2018,2460,Consumer
+Furniture,1,10-07-2018,1347,Corporate
+Office Supplies,1,10-07-2018,260,Consumer
+Technology,1,10-07-2018,746,Corporate
+Furniture,1,11-07-2018,484,Corporate
+Office Supplies,1,11-07-2018,1247,Consumer
+Technology,1,11-07-2018,328,Consumer
+Office Supplies,1,12-07-2018,813,Consumer
+Technology,1,12-07-2018,763,Consumer
+Office Supplies,1,13-07-2018,23,Consumer
+Technology,1,13-07-2018,188,Consumer
+Furniture,1,14-07-2018,337,Consumer
+Office Supplies,1,14-07-2018,1123,Consumer
+Office Supplies,1,14-07-2018,70,Home Office
+Technology,1,14-07-2018,4517,Consumer
+Office Supplies,1,15-07-2018,80,Home Office
+Technology,1,15-07-2018,188,Consumer
+Technology,1,15-07-2018,497,Home Office
+Furniture,1,16-07-2018,795,Consumer
+Furniture,1,16-07-2018,777,Home Office
+Office Supplies,1,16-07-2018,43,Consumer
+Office Supplies,1,16-07-2018,289,Corporate
+Office Supplies,1,16-07-2018,1581,Home Office
+Technology,1,16-07-2018,479,Consumer
+Technology,1,16-07-2018,56,Corporate
+Technology,1,16-07-2018,282,Home Office
+Technology,1,17-07-2018,67,Corporate
+Furniture,1,18-07-2018,625,Consumer
+Furniture,1,18-07-2018,1162,Corporate
+Technology,1,18-07-2018,492,Corporate
+Furniture,1,19-07-2018,656,Consumer
+Office Supplies,1,19-07-2018,790,Consumer
+Office Supplies,1,21-07-2018,68,Consumer
+Office Supplies,1,22-07-2018,559,Consumer
+Office Supplies,1,22-07-2018,174,Corporate
+Technology,1,22-07-2018,1013,Consumer
+Furniture,1,24-07-2018,209,Home Office
+Office Supplies,1,24-07-2018,103,Consumer
+Office Supplies,1,24-07-2018,211,Corporate
+Office Supplies,1,24-07-2018,1444,Home Office
+Technology,1,24-07-2018,808,Home Office
+Office Supplies,1,25-07-2018,894,Corporate
+Furniture,1,26-07-2018,2193,Corporate
+Furniture,1,26-07-2018,151,Home Office
+Office Supplies,1,26-07-2018,367,Home Office
+Technology,1,27-07-2018,124,Corporate
+Furniture,1,28-07-2018,910,Consumer
+Office Supplies,1,28-07-2018,838,Consumer
+Office Supplies,1,28-07-2018,57,Corporate
+Technology,1,28-07-2018,285,Home Office
+Office Supplies,1,29-07-2018,44,Consumer
+Office Supplies,1,29-07-2018,233,Corporate
+Office Supplies,1,29-07-2018,498,Home Office
+Technology,1,29-07-2018,486,Corporate
+Furniture,1,30-07-2018,305,Consumer
+Furniture,1,30-07-2018,511,Corporate
+Furniture,1,30-07-2018,1242,Home Office
+Office Supplies,1,30-07-2018,493,Consumer
+Office Supplies,1,30-07-2018,382,Corporate
+Office Supplies,1,30-07-2018,214,Home Office
+Technology,1,30-07-2018,878,Consumer
+Technology,1,30-07-2018,2805,Corporate
+Furniture,1,31-07-2018,193,Consumer
+Office Supplies,1,31-07-2018,145,Consumer
+Office Supplies,1,31-07-2018,2291,Corporate
+Office Supplies,1,31-07-2018,115,Home Office
+Technology,1,31-07-2018,599,Consumer
+Furniture,1,01-08-2018,163,Consumer
+Office Supplies,1,01-08-2018,174,Consumer
+Office Supplies,1,01-08-2018,48,Corporate
+Furniture,1,02-08-2018,1641,Consumer
+Furniture,1,02-08-2018,1197,Home Office
+Office Supplies,1,02-08-2018,1190,Consumer
+Office Supplies,1,02-08-2018,47,Corporate
+Office Supplies,1,02-08-2018,725,Home Office
+Technology,1,02-08-2018,2127,Consumer
+Technology,1,02-08-2018,1956,Corporate
+Technology,1,02-08-2018,2916,Home Office
+Office Supplies,1,03-08-2018,52,Consumer
+Office Supplies,1,03-08-2018,116,Corporate
+Technology,1,03-08-2018,231,Consumer
+Furniture,1,04-08-2018,654,Consumer
+Furniture,1,04-08-2018,2729,Corporate
+Office Supplies,1,04-08-2018,3021,Consumer
+Office Supplies,1,04-08-2018,626,Corporate
+Office Supplies,1,04-08-2018,284,Home Office
+Technology,1,04-08-2018,1828,Consumer
+Technology,1,04-08-2018,1279,Home Office
+Furniture,1,05-08-2018,1055,Corporate
+Office Supplies,1,05-08-2018,1019,Consumer
+Office Supplies,1,05-08-2018,83,Corporate
+Technology,1,05-08-2018,1214,Consumer
+Technology,1,05-08-2018,265,Corporate
+Furniture,1,06-08-2018,1914,Corporate
+Office Supplies,1,06-08-2018,1099,Consumer
+Office Supplies,1,06-08-2018,1086,Corporate
+Office Supplies,1,06-08-2018,289,Home Office
+Technology,1,06-08-2018,2055,Consumer
+Technology,1,06-08-2018,3390,Corporate
+Furniture,1,07-08-2018,1403,Corporate
+Furniture,1,07-08-2018,705,Home Office
+Office Supplies,1,07-08-2018,797,Consumer
+Office Supplies,1,07-08-2018,703,Corporate
+Office Supplies,1,07-08-2018,1510,Home Office
+Technology,1,07-08-2018,577,Consumer
+Technology,1,07-08-2018,1914,Corporate
+Furniture,1,08-08-2018,1136,Consumer
+Furniture,1,08-08-2018,258,Corporate
+Office Supplies,1,08-08-2018,1089,Consumer
+Office Supplies,1,08-08-2018,56,Corporate
+Office Supplies,1,08-08-2018,910,Home Office
+Technology,1,08-08-2018,2945,Consumer
+Technology,1,08-08-2018,292,Corporate
+Furniture,1,09-08-2018,221,Consumer
+Office Supplies,1,09-08-2018,419,Consumer
+Office Supplies,1,09-08-2018,526,Home Office
+Technology,1,09-08-2018,1162,Consumer
+Furniture,1,11-08-2018,38,Consumer
+Furniture,1,11-08-2018,564,Corporate
+Furniture,1,11-08-2018,788,Home Office
+Office Supplies,1,11-08-2018,650,Consumer
+Office Supplies,1,11-08-2018,275,Corporate
+Office Supplies,1,11-08-2018,2275,Home Office
+Technology,1,11-08-2018,221,Consumer
+Technology,1,11-08-2018,6732,Corporate
+Technology,1,11-08-2018,841,Home Office
+Furniture,1,12-08-2018,777,Consumer
+Furniture,1,12-08-2018,57,Corporate
+Furniture,1,12-08-2018,203,Home Office
+Office Supplies,1,12-08-2018,931,Consumer
+Office Supplies,1,12-08-2018,635,Corporate
+Office Supplies,1,12-08-2018,1715,Home Office
+Technology,1,12-08-2018,901,Consumer
+Technology,1,12-08-2018,636,Home Office
+Furniture,1,13-08-2018,1145,Consumer
+Furniture,1,13-08-2018,161,Corporate
+Office Supplies,1,13-08-2018,1116,Consumer
+Office Supplies,1,13-08-2018,2131,Corporate
+Office Supplies,1,13-08-2018,278,Home Office
+Technology,1,13-08-2018,130,Consumer
+Technology,1,13-08-2018,2495,Corporate
+Furniture,1,14-08-2018,199,Consumer
+Office Supplies,1,14-08-2018,1095,Consumer
+Office Supplies,1,14-08-2018,121,Corporate
+Office Supplies,1,14-08-2018,294,Home Office
+Technology,1,14-08-2018,2565,Consumer
+Technology,1,14-08-2018,1674,Home Office
+Furniture,1,15-08-2018,205,Consumer
+Office Supplies,1,15-08-2018,856,Consumer
+Office Supplies,1,15-08-2018,298,Corporate
+Office Supplies,1,15-08-2018,28,Home Office
+Technology,1,15-08-2018,3875,Consumer
+Furniture,1,16-08-2018,149,Corporate
+Furniture,1,16-08-2018,295,Home Office
+Office Supplies,1,16-08-2018,604,Consumer
+Office Supplies,1,16-08-2018,481,Corporate
+Office Supplies,1,16-08-2018,300,Home Office
+Technology,1,16-08-2018,2116,Corporate
+Furniture,1,18-08-2018,555,Consumer
+Office Supplies,1,18-08-2018,2317,Consumer
+Office Supplies,1,18-08-2018,247,Corporate
+Office Supplies,1,18-08-2018,116,Home Office
+Technology,1,18-08-2018,1196,Consumer
+Furniture,1,19-08-2018,1244,Corporate
+Office Supplies,1,19-08-2018,560,Consumer
+Office Supplies,1,19-08-2018,1596,Corporate
+Office Supplies,1,19-08-2018,289,Home Office
+Technology,1,19-08-2018,1776,Consumer
+Technology,1,19-08-2018,87,Corporate
+Furniture,1,20-08-2018,758,Consumer
+Furniture,1,20-08-2018,147,Home Office
+Office Supplies,1,20-08-2018,157,Consumer
+Office Supplies,1,20-08-2018,529,Corporate
+Office Supplies,1,20-08-2018,663,Home Office
+Technology,1,20-08-2018,212,Corporate
+Furniture,1,21-08-2018,550,Corporate
+Furniture,1,21-08-2018,1065,Home Office
+Office Supplies,1,21-08-2018,865,Consumer
+Office Supplies,1,21-08-2018,147,Corporate
+Office Supplies,1,21-08-2018,352,Home Office
+Technology,1,21-08-2018,674,Consumer
+Technology,1,21-08-2018,39,Home Office
+Furniture,1,22-08-2018,1986,Consumer
+Furniture,1,22-08-2018,399,Corporate
+Furniture,1,22-08-2018,404,Home Office
+Office Supplies,1,22-08-2018,793,Consumer
+Office Supplies,1,22-08-2018,1295,Corporate
+Office Supplies,1,22-08-2018,23,Home Office
+Technology,1,22-08-2018,2121,Consumer
+Technology,1,22-08-2018,1008,Corporate
+Technology,1,22-08-2018,43,Home Office
+Furniture,1,23-08-2018,290,Consumer
+Office Supplies,1,23-08-2018,363,Consumer
+Technology,1,23-08-2018,813,Consumer
+Office Supplies,1,24-08-2018,132,Consumer
+Furniture,1,25-08-2018,838,Home Office
+Office Supplies,1,25-08-2018,2152,Consumer
+Office Supplies,1,25-08-2018,162,Corporate
+Office Supplies,1,25-08-2018,35,Home Office
+Technology,1,25-08-2018,129,Consumer
+Technology,1,25-08-2018,1104,Corporate
+Furniture,1,26-08-2018,700,Corporate
+Office Supplies,1,26-08-2018,357,Consumer
+Office Supplies,1,26-08-2018,200,Corporate
+Office Supplies,1,26-08-2018,57,Home Office
+Technology,1,26-08-2018,165,Consumer
+Technology,1,26-08-2018,436,Corporate
+Furniture,1,27-08-2018,151,Consumer
+Office Supplies,1,27-08-2018,268,Consumer
+Office Supplies,1,27-08-2018,815,Corporate
+Office Supplies,1,27-08-2018,290,Home Office
+Technology,1,27-08-2018,558,Corporate
+Furniture,1,28-08-2018,738,Home Office
+Office Supplies,1,28-08-2018,721,Consumer
+Office Supplies,1,28-08-2018,36,Corporate
+Office Supplies,1,28-08-2018,476,Home Office
+Technology,1,28-08-2018,198,Consumer
+Technology,1,28-08-2018,740,Corporate
+Technology,1,28-08-2018,1045,Home Office
+Furniture,1,29-08-2018,2516,Consumer
+Office Supplies,1,29-08-2018,1247,Consumer
+Office Supplies,1,29-08-2018,478,Corporate
+Office Supplies,1,29-08-2018,20,Home Office
+Technology,1,29-08-2018,1508,Consumer
+Technology,1,29-08-2018,73,Corporate
+Technology,1,29-08-2018,5867,Home Office
+Furniture,1,30-08-2018,2343,Consumer
+Office Supplies,1,30-08-2018,180,Consumer
+Office Supplies,1,30-08-2018,339,Corporate
+Office Supplies,1,31-08-2018,44,Home Office
+Furniture,1,01-09-2018,77,Consumer
+Office Supplies,1,01-09-2018,681,Consumer
+Office Supplies,1,01-09-2018,152,Corporate
+Office Supplies,1,01-09-2018,1061,Home Office
+Technology,1,01-09-2018,794,Consumer
+Technology,1,01-09-2018,509,Corporate
+Technology,1,01-09-2018,2566,Home Office
+Furniture,1,02-09-2018,1143,Consumer
+Furniture,1,02-09-2018,2305,Corporate
+Office Supplies,1,02-09-2018,1280,Consumer
+Office Supplies,1,02-09-2018,733,Corporate
+Technology,1,02-09-2018,1933,Consumer
+Technology,1,02-09-2018,104,Corporate
+Furniture,1,03-09-2018,232,Consumer
+Furniture,1,03-09-2018,298,Corporate
+Office Supplies,1,03-09-2018,761,Consumer
+Office Supplies,1,03-09-2018,319,Corporate
+Technology,1,03-09-2018,303,Consumer
+Technology,1,03-09-2018,1372,Corporate
+Furniture,1,04-09-2018,2972,Consumer
+Furniture,1,04-09-2018,1898,Home Office
+Office Supplies,1,04-09-2018,905,Consumer
+Office Supplies,1,04-09-2018,857,Corporate
+Technology,1,04-09-2018,194,Consumer
+Technology,1,04-09-2018,884,Corporate
+Office Supplies,1,05-09-2018,1685,Consumer
+Office Supplies,1,05-09-2018,91,Corporate
+Office Supplies,1,05-09-2018,8,Home Office
+Technology,1,05-09-2018,278,Home Office
+Furniture,1,06-09-2018,1091,Consumer
+Furniture,1,06-09-2018,1527,Home Office
+Office Supplies,1,06-09-2018,1426,Consumer
+Office Supplies,1,06-09-2018,43,Home Office
+Technology,1,06-09-2018,2366,Consumer
+Technology,1,06-09-2018,276,Corporate
+Technology,1,06-09-2018,376,Home Office
+Furniture,1,08-09-2018,1135,Consumer
+Office Supplies,1,08-09-2018,134,Consumer
+Office Supplies,1,08-09-2018,8036,Corporate
+Office Supplies,1,08-09-2018,76,Home Office
+Technology,1,08-09-2018,2084,Corporate
+Furniture,1,09-09-2018,114,Consumer
+Office Supplies,1,09-09-2018,39,Consumer
+Office Supplies,1,09-09-2018,546,Corporate
+Office Supplies,1,09-09-2018,448,Home Office
+Technology,1,09-09-2018,915,Consumer
+Furniture,1,10-09-2018,55,Corporate
+Office Supplies,1,10-09-2018,475,Consumer
+Office Supplies,1,10-09-2018,16,Corporate
+Technology,1,10-09-2018,192,Consumer
+Technology,1,10-09-2018,769,Corporate
+Furniture,1,11-09-2018,2341,Corporate
+Office Supplies,1,11-09-2018,1222,Consumer
+Office Supplies,1,11-09-2018,918,Corporate
+Office Supplies,1,11-09-2018,390,Home Office
+Technology,1,11-09-2018,529,Consumer
+Technology,1,11-09-2018,599,Corporate
+Technology,1,11-09-2018,444,Home Office
+Furniture,1,12-09-2018,1212,Consumer
+Furniture,1,12-09-2018,233,Corporate
+Furniture,1,12-09-2018,467,Home Office
+Office Supplies,1,12-09-2018,151,Consumer
+Office Supplies,1,12-09-2018,386,Corporate
+Office Supplies,1,12-09-2018,285,Home Office
+Technology,1,12-09-2018,179,Consumer
+Technology,1,12-09-2018,270,Corporate
+Technology,1,12-09-2018,974,Home Office
+Office Supplies,1,13-09-2018,546,Home Office
+Furniture,1,15-09-2018,764,Consumer
+Furniture,1,15-09-2018,46,Home Office
+Office Supplies,1,15-09-2018,1151,Consumer
+Office Supplies,1,15-09-2018,44,Corporate
+Technology,1,15-09-2018,1046,Consumer
+Technology,1,15-09-2018,328,Corporate
+Furniture,1,16-09-2018,98,Consumer
+Furniture,1,16-09-2018,311,Home Office
+Office Supplies,1,16-09-2018,868,Consumer
+Office Supplies,1,16-09-2018,1389,Corporate
+Office Supplies,1,16-09-2018,184,Home Office
+Technology,1,16-09-2018,1653,Consumer
+Technology,1,16-09-2018,560,Corporate
+Technology,1,16-09-2018,2745,Home Office
+Furniture,1,17-09-2018,1592,Consumer
+Furniture,1,17-09-2018,469,Corporate
+Furniture,1,17-09-2018,2156,Home Office
+Office Supplies,1,17-09-2018,413,Consumer
+Office Supplies,1,17-09-2018,50,Corporate
+Office Supplies,1,17-09-2018,122,Home Office
+Technology,1,17-09-2018,1318,Consumer
+Technology,1,17-09-2018,790,Corporate
+Furniture,1,18-09-2018,4316,Corporate
+Office Supplies,1,18-09-2018,380,Consumer
+Office Supplies,1,18-09-2018,555,Corporate
+Technology,1,18-09-2018,185,Consumer
+Office Supplies,1,19-09-2018,814,Consumer
+Office Supplies,1,19-09-2018,711,Corporate
+Office Supplies,1,19-09-2018,117,Home Office
+Technology,1,19-09-2018,1589,Consumer
+Technology,1,19-09-2018,1682,Corporate
+Furniture,1,20-09-2018,1952,Consumer
+Office Supplies,1,20-09-2018,546,Consumer
+Office Supplies,1,20-09-2018,275,Corporate
+Technology,1,20-09-2018,522,Consumer
+Office Supplies,1,21-09-2018,71,Home Office
+Technology,1,21-09-2018,647,Home Office
+Office Supplies,1,22-09-2018,550,Consumer
+Office Supplies,1,22-09-2018,918,Corporate
+Furniture,1,23-09-2018,121,Consumer
+Furniture,1,23-09-2018,886,Corporate
+Furniture,1,23-09-2018,668,Home Office
+Office Supplies,1,23-09-2018,13,Consumer
+Office Supplies,1,23-09-2018,731,Corporate
+Office Supplies,1,23-09-2018,205,Home Office
+Technology,1,23-09-2018,632,Corporate
+Technology,1,23-09-2018,365,Home Office
+Furniture,1,24-09-2018,1768,Home Office
+Office Supplies,1,24-09-2018,1464,Corporate
+Office Supplies,1,24-09-2018,197,Home Office
+Technology,1,24-09-2018,507,Home Office
+Office Supplies,1,25-09-2018,1801,Consumer
+Office Supplies,1,25-09-2018,418,Corporate
+Office Supplies,1,25-09-2018,745,Home Office
+Technology,1,25-09-2018,910,Consumer
+Technology,1,25-09-2018,668,Home Office
+Furniture,1,26-09-2018,1080,Consumer
+Office Supplies,1,26-09-2018,668,Consumer
+Office Supplies,1,26-09-2018,435,Corporate
+Office Supplies,1,26-09-2018,17,Home Office
+Technology,1,26-09-2018,731,Consumer
+Technology,1,26-09-2018,71,Corporate
+Furniture,1,27-09-2018,144,Home Office
+Office Supplies,1,27-09-2018,51,Consumer
+Office Supplies,1,27-09-2018,837,Home Office
+Technology,1,27-09-2018,625,Home Office
+Furniture,1,28-09-2018,3240,Consumer
+Office Supplies,1,28-09-2018,1091,Consumer
+Furniture,1,29-09-2018,120,Consumer
+Furniture,1,29-09-2018,110,Corporate
+Office Supplies,1,29-09-2018,308,Consumer
+Office Supplies,1,29-09-2018,72,Corporate
+Technology,1,29-09-2018,3102,Corporate
+Furniture,1,30-09-2018,189,Corporate
+Furniture,1,30-09-2018,331,Home Office
+Office Supplies,1,30-09-2018,28,Consumer
+Office Supplies,1,30-09-2018,563,Corporate
+Office Supplies,1,30-09-2018,80,Home Office
+Technology,1,30-09-2018,985,Consumer
+Technology,1,30-09-2018,367,Corporate
+Furniture,1,01-10-2018,77,Consumer
+Technology,1,01-10-2018,146,Consumer
+Technology,1,01-10-2018,336,Home Office
+Furniture,1,02-10-2018,253,Home Office
+Office Supplies,1,02-10-2018,46,Corporate
+Office Supplies,1,02-10-2018,881,Home Office
+Technology,1,02-10-2018,800,Corporate
+Technology,1,02-10-2018,574,Home Office
+Office Supplies,1,03-10-2018,476,Consumer
+Office Supplies,1,03-10-2018,1841,Corporate
+Technology,1,03-10-2018,718,Consumer
+Office Supplies,1,05-10-2018,47,Corporate
+Furniture,1,06-10-2018,403,Consumer
+Furniture,1,06-10-2018,267,Home Office
+Office Supplies,1,06-10-2018,121,Consumer
+Office Supplies,1,06-10-2018,130,Corporate
+Office Supplies,1,06-10-2018,77,Home Office
+Technology,1,06-10-2018,670,Consumer
+Technology,1,06-10-2018,1649,Home Office
+Furniture,1,07-10-2018,384,Consumer
+Furniture,1,07-10-2018,556,Corporate
+Office Supplies,1,07-10-2018,251,Consumer
+Office Supplies,1,07-10-2018,110,Corporate
+Technology,1,07-10-2018,2098,Consumer
+Furniture,1,08-10-2018,91,Consumer
+Office Supplies,1,08-10-2018,10,Consumer
+Technology,1,08-10-2018,380,Consumer
+Technology,1,09-10-2018,131,Consumer
+Furniture,1,10-10-2018,65,Consumer
+Office Supplies,1,10-10-2018,21,Consumer
+Office Supplies,1,10-10-2018,26,Corporate
+Office Supplies,1,10-10-2018,73,Home Office
+Furniture,1,11-10-2018,270,Consumer
+Office Supplies,1,11-10-2018,235,Home Office
+Technology,1,11-10-2018,209,Consumer
+Furniture,1,13-10-2018,1287,Consumer
+Office Supplies,1,13-10-2018,935,Consumer
+Office Supplies,1,13-10-2018,260,Corporate
+Office Supplies,1,13-10-2018,1807,Home Office
+Technology,1,13-10-2018,4065,Consumer
+Technology,1,13-10-2018,2813,Corporate
+Technology,1,13-10-2018,573,Home Office
+Office Supplies,1,14-10-2018,336,Consumer
+Office Supplies,1,14-10-2018,1131,Corporate
+Technology,1,14-10-2018,240,Consumer
+Technology,1,14-10-2018,157,Corporate
+Office Supplies,1,15-10-2018,1134,Consumer
+Technology,1,15-10-2018,1345,Consumer
+Office Supplies,1,16-10-2018,120,Consumer
+Office Supplies,1,16-10-2018,47,Home Office
+Furniture,1,17-10-2018,530,Consumer
+Office Supplies,1,17-10-2018,172,Consumer
+Office Supplies,1,17-10-2018,444,Home Office
+Technology,1,17-10-2018,1592,Corporate
+Technology,1,17-10-2018,1540,Home Office
+Technology,1,18-10-2018,510,Consumer
+Technology,1,18-10-2018,1300,Home Office
+Furniture,1,19-10-2018,446,Consumer
+Office Supplies,1,19-10-2018,379,Consumer
+Furniture,1,20-10-2018,719,Consumer
+Office Supplies,1,20-10-2018,476,Consumer
+Office Supplies,1,20-10-2018,662,Corporate
+Office Supplies,1,20-10-2018,48,Home Office
+Technology,1,20-10-2018,220,Consumer
+Technology,1,20-10-2018,456,Corporate
+Furniture,1,21-10-2018,355,Home Office
+Office Supplies,1,21-10-2018,351,Consumer
+Office Supplies,1,21-10-2018,594,Home Office
+Technology,1,21-10-2018,434,Consumer
+Office Supplies,1,22-10-2018,482,Consumer
+Office Supplies,1,22-10-2018,123,Corporate
+Technology,1,22-10-2018,764,Consumer
+Furniture,1,23-10-2018,352,Corporate
+Office Supplies,1,23-10-2018,76,Consumer
+Office Supplies,1,23-10-2018,119,Corporate
+Office Supplies,1,23-10-2018,321,Home Office
+Technology,1,23-10-2018,805,Consumer
+Technology,1,23-10-2018,566,Corporate
+Furniture,1,24-10-2018,188,Corporate
+Office Supplies,1,24-10-2018,1081,Consumer
+Office Supplies,1,24-10-2018,63,Corporate
+Technology,1,24-10-2018,1398,Consumer
+Furniture,1,27-10-2018,674,Consumer
+Furniture,1,27-10-2018,938,Corporate
+Office Supplies,1,27-10-2018,127,Corporate
+Office Supplies,1,27-10-2018,70,Home Office
+Technology,1,27-10-2018,409,Consumer
+Technology,1,27-10-2018,231,Corporate
+Office Supplies,1,28-10-2018,144,Consumer
+Office Supplies,1,28-10-2018,61,Corporate
+Technology,1,28-10-2018,3274,Consumer
+Office Supplies,1,29-10-2018,961,Consumer
+Technology,1,29-10-2018,1097,Consumer
+Furniture,1,30-10-2018,414,Consumer
+Office Supplies,1,30-10-2018,1492,Consumer
+Office Supplies,1,30-10-2018,40,Home Office
+Technology,1,30-10-2018,1531,Consumer
+Technology,1,30-10-2018,1270,Corporate
+Office Supplies,1,31-10-2018,56,Consumer
+Office Supplies,1,31-10-2018,153,Home Office
+Technology,1,31-10-2018,237,Home Office
+Office Supplies,1,01-11-2018,106,Corporate
+Technology,1,01-11-2018,512,Corporate
+Technology,1,01-11-2018,52,Home Office
+Furniture,1,02-11-2018,320,Corporate
+Technology,1,02-11-2018,603,Corporate
+Office Supplies,1,03-11-2018,70,Consumer
+Office Supplies,1,03-11-2018,29,Corporate
+Office Supplies,1,03-11-2018,529,Home Office
+Technology,1,03-11-2018,222,Consumer
+Technology,1,03-11-2018,1506,Home Office
+Office Supplies,1,04-11-2018,35,Consumer
+Office Supplies,1,04-11-2018,68,Corporate
+Technology,1,04-11-2018,781,Corporate
+Furniture,1,05-11-2018,1677,Consumer
+Office Supplies,1,05-11-2018,450,Consumer
+Office Supplies,1,05-11-2018,48,Corporate
+Technology,1,05-11-2018,190,Consumer
+Furniture,1,06-11-2018,593,Consumer
+Furniture,1,06-11-2018,594,Corporate
+Office Supplies,1,06-11-2018,786,Consumer
+Office Supplies,1,06-11-2018,459,Corporate
+Technology,1,06-11-2018,115,Corporate
+Furniture,1,07-11-2018,670,Corporate
+Office Supplies,1,07-11-2018,1495,Consumer
+Office Supplies,1,07-11-2018,850,Corporate
+Office Supplies,1,07-11-2018,965,Home Office
+Technology,1,07-11-2018,502,Consumer
+Technology,1,07-11-2018,813,Corporate
+Furniture,1,08-11-2018,375,Consumer
+Office Supplies,1,08-11-2018,243,Consumer
+Office Supplies,1,08-11-2018,567,Home Office
+Technology,1,08-11-2018,1062,Consumer
+Technology,1,08-11-2018,817,Corporate
+Technology,1,08-11-2018,65,Home Office
+Furniture,1,10-11-2018,266,Consumer
+Furniture,1,10-11-2018,240,Corporate
+Office Supplies,1,10-11-2018,116,Consumer
+Office Supplies,1,10-11-2018,588,Corporate
+Office Supplies,1,10-11-2018,671,Home Office
+Technology,1,10-11-2018,306,Consumer
+Technology,1,10-11-2018,181,Corporate
+Furniture,1,11-11-2018,118,Home Office
+Office Supplies,1,11-11-2018,55,Consumer
+Office Supplies,1,11-11-2018,173,Corporate
+Office Supplies,1,11-11-2018,25,Home Office
+Technology,1,11-11-2018,768,Consumer
+Technology,1,11-11-2018,279,Home Office
+Furniture,1,12-11-2018,3175,Consumer
+Furniture,1,12-11-2018,324,Corporate
+Office Supplies,1,12-11-2018,2785,Consumer
+Office Supplies,1,12-11-2018,1244,Corporate
+Technology,1,12-11-2018,6368,Consumer
+Technology,1,12-11-2018,498,Corporate
+Furniture,1,13-11-2018,439,Consumer
+Furniture,1,13-11-2018,89,Corporate
+Office Supplies,1,13-11-2018,149,Consumer
+Office Supplies,1,13-11-2018,97,Corporate
+Office Supplies,1,13-11-2018,12,Home Office
+Furniture,1,14-11-2018,668,Consumer
+Office Supplies,1,14-11-2018,842,Consumer
+Office Supplies,1,14-11-2018,244,Corporate
+Technology,1,14-11-2018,368,Consumer
+Furniture,1,15-11-2018,52,Consumer
+Furniture,1,15-11-2018,1345,Corporate
+Office Supplies,1,15-11-2018,1052,Consumer
+Office Supplies,1,15-11-2018,44,Home Office
+Technology,1,15-11-2018,780,Consumer
+Furniture,1,16-11-2018,785,Consumer
+Office Supplies,1,16-11-2018,38,Consumer
+Furniture,1,17-11-2018,1620,Corporate
+Office Supplies,1,17-11-2018,737,Consumer
+Office Supplies,1,17-11-2018,2046,Corporate
+Office Supplies,1,17-11-2018,163,Home Office
+Technology,1,17-11-2018,758,Consumer
+Technology,1,17-11-2018,2826,Corporate
+Furniture,1,18-11-2018,369,Consumer
+Furniture,1,18-11-2018,981,Corporate
+Furniture,1,18-11-2018,786,Home Office
+Office Supplies,1,18-11-2018,1243,Consumer
+Office Supplies,1,18-11-2018,1311,Corporate
+Office Supplies,1,18-11-2018,343,Home Office
+Technology,1,18-11-2018,400,Consumer
+Technology,1,18-11-2018,2154,Corporate
+Furniture,1,19-11-2018,5386,Consumer
+Office Supplies,1,19-11-2018,512,Consumer
+Office Supplies,1,19-11-2018,41,Corporate
+Technology,1,19-11-2018,470,Consumer
+Furniture,1,20-11-2018,510,Consumer
+Office Supplies,1,20-11-2018,979,Consumer
+Office Supplies,1,20-11-2018,1398,Corporate
+Office Supplies,1,20-11-2018,123,Home Office
+Technology,1,20-11-2018,2561,Consumer
+Technology,1,20-11-2018,1074,Home Office
+Furniture,1,21-11-2018,1301,Consumer
+Furniture,1,21-11-2018,1260,Corporate
+Office Supplies,1,21-11-2018,396,Consumer
+Office Supplies,1,21-11-2018,1227,Corporate
+Office Supplies,1,21-11-2018,398,Home Office
+Technology,1,21-11-2018,1240,Consumer
+Furniture,1,22-11-2018,647,Consumer
+Furniture,1,22-11-2018,196,Corporate
+Office Supplies,1,22-11-2018,148,Consumer
+Office Supplies,1,22-11-2018,1443,Home Office
+Technology,1,22-11-2018,2211,Corporate
+Furniture,1,23-11-2018,515,Corporate
+Office Supplies,1,23-11-2018,601,Corporate
+Technology,1,23-11-2018,1202,Corporate
+Furniture,1,24-11-2018,738,Consumer
+Furniture,1,24-11-2018,806,Corporate
+Furniture,1,24-11-2018,614,Home Office
+Office Supplies,1,24-11-2018,2212,Consumer
+Office Supplies,1,24-11-2018,24,Corporate
+Technology,1,24-11-2018,389,Consumer
+Technology,1,24-11-2018,508,Corporate
+Technology,1,24-11-2018,136,Home Office
+Furniture,1,25-11-2018,274,Consumer
+Office Supplies,1,25-11-2018,1354,Consumer
+Office Supplies,1,25-11-2018,261,Corporate
+Office Supplies,1,25-11-2018,60,Home Office
+Technology,1,25-11-2018,1131,Consumer
+Technology,1,25-11-2018,593,Home Office
+Furniture,1,26-11-2018,107,Consumer
+Furniture,1,26-11-2018,153,Corporate
+Office Supplies,1,26-11-2018,3469,Consumer
+Office Supplies,1,26-11-2018,141,Corporate
+Office Supplies,1,26-11-2018,370,Home Office
+Technology,1,26-11-2018,581,Consumer
+Technology,1,26-11-2018,459,Corporate
+Furniture,1,27-11-2018,1206,Consumer
+Furniture,1,27-11-2018,575,Corporate
+Office Supplies,1,27-11-2018,1567,Consumer
+Office Supplies,1,27-11-2018,340,Corporate
+Office Supplies,1,27-11-2018,179,Home Office
+Technology,1,27-11-2018,1352,Consumer
+Technology,1,27-11-2018,1086,Corporate
+Furniture,1,28-11-2018,750,Consumer
+Furniture,1,28-11-2018,3022,Corporate
+Office Supplies,1,28-11-2018,1543,Consumer
+Office Supplies,1,28-11-2018,503,Corporate
+Technology,1,28-11-2018,303,Consumer
+Furniture,1,29-11-2018,97,Home Office
+Office Supplies,1,29-11-2018,416,Consumer
+Office Supplies,1,29-11-2018,490,Corporate
+Office Supplies,1,29-11-2018,274,Home Office
+Technology,1,29-11-2018,407,Corporate
+Technology,1,29-11-2018,2256,Home Office
+Furniture,1,01-12-2018,110,Consumer
+Office Supplies,1,01-12-2018,44,Consumer
+Office Supplies,1,01-12-2018,432,Corporate
+Furniture,1,02-12-2018,350,Consumer
+Furniture,1,02-12-2018,41,Corporate
+Office Supplies,1,02-12-2018,471,Consumer
+Office Supplies,1,02-12-2018,69,Corporate
+Office Supplies,1,02-12-2018,412,Home Office
+Technology,1,02-12-2018,844,Consumer
+Technology,1,02-12-2018,112,Corporate
+Technology,1,02-12-2018,128,Home Office
+Office Supplies,1,03-12-2018,1080,Consumer
+Office Supplies,1,03-12-2018,766,Corporate
+Office Supplies,1,03-12-2018,180,Home Office
+Technology,1,03-12-2018,716,Consumer
+Technology,1,03-12-2018,1750,Corporate
+Technology,1,03-12-2018,111,Home Office
+Furniture,1,04-12-2018,1145,Consumer
+Furniture,1,04-12-2018,401,Home Office
+Office Supplies,1,04-12-2018,496,Consumer
+Office Supplies,1,04-12-2018,473,Corporate
+Office Supplies,1,04-12-2018,161,Home Office
+Technology,1,04-12-2018,918,Consumer
+Technology,1,04-12-2018,731,Corporate
+Furniture,1,05-12-2018,67,Home Office
+Office Supplies,1,05-12-2018,456,Consumer
+Office Supplies,1,05-12-2018,1507,Corporate
+Office Supplies,1,05-12-2018,1599,Home Office
+Office Supplies,1,06-12-2018,530,Consumer
+Office Supplies,1,06-12-2018,141,Corporate
+Office Supplies,1,06-12-2018,43,Home Office
+Technology,1,06-12-2018,398,Corporate
+Furniture,1,07-12-2018,2297,Consumer
+Technology,1,07-12-2018,776,Consumer
+Furniture,1,08-12-2018,924,Consumer
+Furniture,1,08-12-2018,70,Corporate
+Office Supplies,1,08-12-2018,478,Consumer
+Office Supplies,1,08-12-2018,1617,Corporate
+Office Supplies,1,08-12-2018,80,Home Office
+Technology,1,08-12-2018,1149,Consumer
+Technology,1,08-12-2018,2215,Corporate
+Technology,1,08-12-2018,199,Home Office
+Furniture,1,09-12-2018,1491,Consumer
+Furniture,1,09-12-2018,156,Corporate
+Office Supplies,1,09-12-2018,1022,Consumer
+Office Supplies,1,09-12-2018,594,Corporate
+Technology,1,09-12-2018,162,Consumer
+Technology,1,09-12-2018,1204,Corporate
+Furniture,1,10-12-2018,206,Corporate
+Office Supplies,1,10-12-2018,628,Consumer
+Office Supplies,1,10-12-2018,200,Corporate
+Office Supplies,1,10-12-2018,561,Home Office
+Technology,1,10-12-2018,583,Corporate
+Technology,1,10-12-2018,217,Home Office
+Furniture,1,11-12-2018,241,Consumer
+Furniture,1,11-12-2018,1175,Corporate
+Furniture,1,11-12-2018,217,Home Office
+Office Supplies,1,11-12-2018,250,Consumer
+Office Supplies,1,11-12-2018,31,Corporate
+Office Supplies,1,11-12-2018,93,Home Office
+Technology,1,11-12-2018,1608,Consumer
+Technology,1,11-12-2018,1608,Home Office
+Furniture,1,12-12-2018,908,Consumer
+Furniture,1,12-12-2018,162,Corporate
+Office Supplies,1,12-12-2018,885,Consumer
+Office Supplies,1,12-12-2018,168,Corporate
+Technology,1,12-12-2018,925,Consumer
+Office Supplies,1,13-12-2018,513,Consumer
+Office Supplies,1,13-12-2018,17,Corporate
+Office Supplies,1,13-12-2018,381,Home Office
+Technology,1,13-12-2018,2140,Consumer
+Furniture,1,14-12-2018,439,Consumer
+Technology,1,14-12-2018,101,Consumer
+Furniture,1,15-12-2018,2240,Consumer
+Office Supplies,1,15-12-2018,1234,Consumer
+Office Supplies,1,15-12-2018,292,Corporate
+Office Supplies,1,15-12-2018,40,Home Office
+Technology,1,15-12-2018,1474,Consumer
+Furniture,1,16-12-2018,105,Home Office
+Office Supplies,1,16-12-2018,1067,Consumer
+Office Supplies,1,16-12-2018,685,Corporate
+Office Supplies,1,16-12-2018,1334,Home Office
+Technology,1,16-12-2018,247,Consumer
+Technology,1,16-12-2018,309,Corporate
+Office Supplies,1,17-12-2018,177,Consumer
+Office Supplies,1,17-12-2018,163,Corporate
+Office Supplies,1,17-12-2018,9,Home Office
+Technology,1,17-12-2018,240,Consumer
+Technology,1,17-12-2018,1490,Corporate
+Technology,1,17-12-2018,1241,Home Office
+Furniture,1,18-12-2018,1458,Consumer
+Office Supplies,1,18-12-2018,1463,Consumer
+Office Supplies,1,18-12-2018,287,Corporate
+Technology,1,18-12-2018,681,Consumer
+Furniture,1,19-12-2018,848,Corporate
+Office Supplies,1,19-12-2018,1302,Consumer
+Office Supplies,1,19-12-2018,936,Corporate
+Office Supplies,1,19-12-2018,166,Home Office
+Technology,1,19-12-2018,2853,Corporate
+Technology,1,19-12-2018,4766,Home Office
+Furniture,1,20-12-2018,227,Consumer
+Office Supplies,1,20-12-2018,150,Consumer
+Furniture,1,22-12-2018,117,Home Office
+Office Supplies,1,22-12-2018,22,Consumer
+Technology,1,22-12-2018,1772,Home Office
+Furniture,1,23-12-2018,403,Corporate
+Furniture,1,23-12-2018,2202,Home Office
+Office Supplies,1,23-12-2018,327,Consumer
+Office Supplies,1,23-12-2018,709,Corporate
+Office Supplies,1,23-12-2018,605,Home Office
+Technology,1,23-12-2018,693,Corporate
+Furniture,1,24-12-2018,4253,Consumer
+Furniture,1,24-12-2018,440,Corporate
+Office Supplies,1,24-12-2018,532,Consumer
+Office Supplies,1,24-12-2018,196,Corporate
+Office Supplies,1,24-12-2018,90,Home Office
+Technology,1,24-12-2018,1710,Consumer
+Furniture,1,25-12-2018,346,Corporate
+Office Supplies,1,25-12-2018,1350,Consumer
+Office Supplies,1,25-12-2018,1263,Corporate
+Office Supplies,1,25-12-2018,283,Home Office
+Technology,1,25-12-2018,582,Consumer
+Technology,1,25-12-2018,344,Corporate
+Technology,1,25-12-2018,533,Home Office
+Furniture,1,26-12-2018,1973,Consumer
+Furniture,1,26-12-2018,26,Corporate
+Furniture,1,26-12-2018,200,Home Office
+Office Supplies,1,26-12-2018,530,Consumer
+Office Supplies,1,26-12-2018,31,Corporate
+Office Supplies,1,26-12-2018,178,Home Office
+Technology,1,26-12-2018,2226,Consumer
+Technology,1,26-12-2018,3199,Home Office
+Office Supplies,1,27-12-2018,1833,Consumer
+Office Supplies,1,27-12-2018,2339,Corporate
+Office Supplies,1,27-12-2018,94,Home Office
+Technology,1,27-12-2018,515,Corporate
+Office Supplies,1,28-12-2018,343,Consumer
+Office Supplies,1,28-12-2018,725,Home Office
+Furniture,1,29-12-2018,2336,Consumer
+Office Supplies,1,29-12-2018,3103,Consumer
+Office Supplies,1,29-12-2018,295,Corporate
+Office Supplies,1,29-12-2018,139,Home Office
+Technology,1,29-12-2018,1089,Consumer
+Technology,1,29-12-2018,114,Corporate
+Technology,1,29-12-2018,377,Home Office
+Furniture,1,30-12-2018,1142,Consumer
+Furniture,1,30-12-2018,136,Home Office
+Office Supplies,1,30-12-2018,574,Consumer
+Office Supplies,1,30-12-2018,207,Corporate
+Technology,1,30-12-2018,263,Consumer
+Technology,1,30-12-2018,2228,Corporate
+Furniture,1,31-12-2018,223,Corporate
+Office Supplies,1,31-12-2018,1185,Consumer
+Office Supplies,1,31-12-2018,93,Home Office
+Technology,1,31-12-2018,772,Corporate
+Technology,1,31-12-2018,695,Home Office

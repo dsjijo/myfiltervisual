@@ -25,15 +25,27 @@
  */
 
 module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1F6  {
+  export function logExceptions(): MethodDecorator {
+    return function(
+      target: Object,
+      propertyKey: string,
+      descriptor: TypedPropertyDescriptor<any>
+    ): TypedPropertyDescriptor<any> {
+      return {
+        value: function() {
+          try {
+            return descriptor.value.apply(this, arguments);
+          } catch (e) {
+            console.error(e);
+            throw e;
+          }
+        }
+      };
+    };
+  }
+}
+module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1F6  {
   "use strict";
-  interface IData {
-    name: string;
-    attributes?: IDataAttributes;
-    children?: IData[];
-  }
-  interface IDataAttributes {
-    [key: string]: any;
-  }
   export class Visual implements IVisual {
     private target: HTMLElement;
     private updateCount: number;
@@ -71,11 +83,14 @@ module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1
         this.target.appendChild(parentDiv);
       }
     }
-
+    @logExceptions()
     public update(options: VisualUpdateOptions) {
       this.settings = Visual.parseSettings(
         options && options.dataViews && options.dataViews[0]
       );
+
+      console.log(options);
+      /*
       this.treeViewUl.innerHTML = "";
       let treeViewUL = this.treeViewUl;
       if (typeof this.textNode !== "undefined") {
@@ -137,10 +152,10 @@ module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1
           }
         });
       });
-
+*/
       //   // invoke the filter
       let __this = this.host;
-
+      /*
       $("#treeview-sprites li.elm").on("click", function() {
         var parent = $(this).attr("parent");
         let target: IFilterColumnTarget = {
@@ -156,6 +171,50 @@ module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1
 
         __this.applyJsonFilter(filter, "general", "filter", FilterAction.merge);
       });
+      */
+      //   debugger;
+      //   console.log(FilterType.Tuple);
+
+      let target: ITupleFilterTarget = [
+        {
+          table: "_Sales Target",
+          column: "Category"
+        },
+        {
+          table: "_Sales Target",
+          column: "Segement"
+        }
+      ];
+      let values = [
+        [
+          {
+            value: "Furniture"
+          },
+          {
+            value: "Consumer"
+          }
+        ],
+        [
+          {
+            value: "Furniture"
+          },
+          {
+            value: "Corporate"
+          }
+        ]
+      ];
+      console.log("before");
+      let filter: ITupleFilter = {
+        $schema: "http://powerbi.com/product/schema#tuple",
+        filterType: 6,
+        operator: "In",
+        target: target,
+        values: values
+      };
+      console.log("after");
+      __this.applyJsonFilter(filter, "general", "filter", FilterAction.merge);
+
+      console.log("after 2");
     }
 
     private static parseSettings(dataView: DataView): VisualSettings {

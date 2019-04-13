@@ -3714,6 +3714,15 @@ return /******/ (function(modules) { // webpackBootstrap
 
 var jQuery = typeof jQuery !== "undefined" ? jQuery : window["$"];
 
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
 /*
  *  Power BI Visualizations
  *
@@ -3808,6 +3817,33 @@ var powerbi;
         (function (visual) {
             var myfiltervisualD12251A49A324B589383E3A2B4A4E1F6;
             (function (myfiltervisualD12251A49A324B589383E3A2B4A4E1F6) {
+                function logExceptions() {
+                    return function (target, propertyKey, descriptor) {
+                        return {
+                            value: function () {
+                                try {
+                                    return descriptor.value.apply(this, arguments);
+                                }
+                                catch (e) {
+                                    console.error(e);
+                                    throw e;
+                                }
+                            }
+                        };
+                    };
+                }
+                myfiltervisualD12251A49A324B589383E3A2B4A4E1F6.logExceptions = logExceptions;
+            })(myfiltervisualD12251A49A324B589383E3A2B4A4E1F6 = visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1F6 || (visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1F6 = {}));
+        })(visual = extensibility.visual || (extensibility.visual = {}));
+    })(extensibility = powerbi.extensibility || (powerbi.extensibility = {}));
+})(powerbi || (powerbi = {}));
+(function (powerbi) {
+    var extensibility;
+    (function (extensibility) {
+        var visual;
+        (function (visual) {
+            var myfiltervisualD12251A49A324B589383E3A2B4A4E1F6;
+            (function (myfiltervisualD12251A49A324B589383E3A2B4A4E1F6) {
                 "use strict";
                 class Visual {
                     constructor(options) {
@@ -3840,72 +3876,130 @@ var powerbi;
                     }
                     update(options) {
                         this.settings = Visual.parseSettings(options && options.dataViews && options.dataViews[0]);
+                        console.log(options);
+                        /*
                         this.treeViewUl.innerHTML = "";
                         let treeViewUL = this.treeViewUl;
                         if (typeof this.textNode !== "undefined") {
-                            this.textNode.textContent = (this.updateCount++).toString();
+                          this.textNode.textContent = (this.updateCount++).toString();
                         }
                         let arr = options.dataViews[0].categorical.categories;
                         let filteredArray = [];
-                        const columnNames = options.dataViews[0].metadata.columns.map(col => col.displayName);
+                        const columnNames = options.dataViews[0].metadata.columns.map(
+                          col => col.displayName
+                        );
                         for (var index in arr) {
-                            let myval = options.dataViews[0].categorical.categories[index].values;
-                            let unique = [...new Set(myval)];
-                            filteredArray.push(unique);
+                          let myval = options.dataViews[0].categorical.categories[index].values;
+                          let unique = [...new Set(myval)];
+                          filteredArray.push(unique);
                         }
-                        filteredArray.forEach(function (value, i) {
-                            const li_p = document.createElement("li");
-                            li_p.setAttribute("class", "tree-item");
-                            const li_span = document.createElement("span");
-                            li_span.innerHTML = columnNames[i];
-                            li_p.appendChild(li_span);
-                            const ul_c = document.createElement("ul");
-                            value.forEach(function (cvalue, ci) {
-                                const li_c = document.createElement("li");
-                                li_c.setAttribute("class", "k-out elm");
-                                li_c.setAttribute("parent", columnNames[i]);
-                                li_c.innerHTML = value[ci];
-                                ul_c.appendChild(li_c);
-                            });
-                            li_p.appendChild(ul_c);
-                            treeViewUL.appendChild(li_p);
+                        filteredArray.forEach(function(value, i) {
+                          const li_p: HTMLElement = document.createElement("li");
+                          li_p.setAttribute("class", "tree-item");
+                          const li_span: HTMLElement = document.createElement("span");
+                          li_span.innerHTML = columnNames[i];
+                          li_p.appendChild(li_span);
+                          const ul_c: HTMLElement = document.createElement("ul");
+                          value.forEach(function(cvalue, ci) {
+                            const li_c: HTMLElement = document.createElement("li");
+                            li_c.setAttribute("class", "k-out elm");
+                            li_c.setAttribute("parent", columnNames[i]);
+                            li_c.innerHTML = value[ci];
+                            ul_c.appendChild(li_c);
+                          });
+                          li_p.appendChild(ul_c);
+                          treeViewUL.appendChild(li_p);
                         });
-                        $("#search-term").on("keyup", function () {
-                            // ignore if no search term
-                            if ($.trim($(this)
-                                .val()
-                                .toString()) == "") {
-                                $("#treeview-sprites li").each(function (index) {
-                                    $(this).removeClass("k-out");
-                                });
-                                return;
-                            }
-                            var term = $(this)
+                  
+                        $("#search-term").on("keyup", function() {
+                          // ignore if no search term
+                          if (
+                            $.trim(
+                              $(this)
                                 .val()
                                 .toString()
-                                .toUpperCase();
-                            var expression = new RegExp(term.toString(), "i");
-                            $("#treeview-sprites li").each(function (index) {
-                                var text = $(this).text();
-                                $(this).removeClass("k-out");
-                                $(this).addClass("k-out");
-                                if (text.search(expression) != -1) {
-                                    $(this).toggleClass("k-out");
-                                }
+                            ) == ""
+                          ) {
+                            $("#treeview-sprites li").each(function(index) {
+                              $(this).removeClass("k-out");
                             });
+                            return;
+                          }
+                          var term = $(this)
+                            .val()
+                            .toString()
+                            .toUpperCase();
+                          var expression = new RegExp(term.toString(), "i");
+                          $("#treeview-sprites li").each(function(index) {
+                            var text = $(this).text();
+                            $(this).removeClass("k-out");
+                            $(this).addClass("k-out");
+                            if (text.search(expression) != -1) {
+                              $(this).toggleClass("k-out");
+                            }
+                          });
                         });
+                  */
                         //   // invoke the filter
                         let __this = this.host;
-                        $("#treeview-sprites li.elm").on("click", function () {
-                            var parent = $(this).attr("parent");
-                            let target = {
-                                table: "_Sales Target",
-                                column: parent
-                            };
-                            let values = [$(this).html()];
-                            let filter = new window["powerbi-models"].BasicFilter(target, "In", values);
-                            __this.applyJsonFilter(filter, "general", "filter", 0 /* merge */);
+                        /*
+                        $("#treeview-sprites li.elm").on("click", function() {
+                          var parent = $(this).attr("parent");
+                          let target: IFilterColumnTarget = {
+                            table: "_Sales Target",
+                            column: parent
+                          };
+                          let values = [$(this).html()];
+                          let filter: IBasicFilter = new window["powerbi-models"].BasicFilter(
+                            target,
+                            "In",
+                            values
+                          );
+                  
+                          __this.applyJsonFilter(filter, "general", "filter", FilterAction.merge);
                         });
+                        */
+                        //   debugger;
+                        //   console.log(FilterType.Tuple);
+                        let target = [
+                            {
+                                table: "_Sales Target",
+                                column: "Category"
+                            },
+                            {
+                                table: "_Sales Target",
+                                column: "Segement"
+                            }
+                        ];
+                        let values = [
+                            [
+                                {
+                                    value: "Furniture"
+                                },
+                                {
+                                    value: "Consumer"
+                                }
+                            ],
+                            [
+                                {
+                                    value: "Furniture"
+                                },
+                                {
+                                    value: "Corporate"
+                                }
+                            ]
+                        ];
+                        console.log("before");
+                        let filter = {
+                            $schema: "http://powerbi.com/product/schema#tuple",
+                            filterType: 6,
+                            operator: "In",
+                            target: target,
+                            values: values
+                        };
+                        console.log("after");
+                        __this.applyJsonFilter(filter, "general", "filter", 0 /* merge */);
+                        console.log("after 2");
                     }
                     static parseSettings(dataView) {
                         return myfiltervisualD12251A49A324B589383E3A2B4A4E1F6.VisualSettings.parse(dataView);
@@ -3919,6 +4013,12 @@ var powerbi;
                         return myfiltervisualD12251A49A324B589383E3A2B4A4E1F6.VisualSettings.enumerateObjectInstances(this.settings || myfiltervisualD12251A49A324B589383E3A2B4A4E1F6.VisualSettings.getDefault(), options);
                     }
                 }
+                __decorate([
+                    myfiltervisualD12251A49A324B589383E3A2B4A4E1F6.logExceptions(),
+                    __metadata("design:type", Function),
+                    __metadata("design:paramtypes", [Object]),
+                    __metadata("design:returntype", void 0)
+                ], Visual.prototype, "update", null);
                 myfiltervisualD12251A49A324B589383E3A2B4A4E1F6.Visual = Visual;
             })(myfiltervisualD12251A49A324B589383E3A2B4A4E1F6 = visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1F6 || (visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1F6 = {}));
         })(visual = extensibility.visual || (extensibility.visual = {}));
