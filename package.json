@@ -2,8 +2,10 @@
   "name": "visual",
   "dependencies": {
     "@types/jquery": "^3.3.29",
+    "@types/select2": "^4.0.48",
     "jquery": "^3.3.1",
     "powerbi-models": "^1.1.0",
-    "powerbi-visuals-utils-dataviewutils": "1.2.0"
+    "powerbi-visuals-utils-dataviewutils": "1.2.0",
+    "select2": "^4.0.6-rc.1"
   }
 }

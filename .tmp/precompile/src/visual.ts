@@ -48,39 +48,16 @@ module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1
   "use strict";
   export class Visual implements IVisual {
     private target: HTMLElement;
-    private updateCount: number;
     private settings: VisualSettings;
-    private textNode: Text;
-    private buttonNode: HTMLElement;
-    private searchNode: HTMLElement;
+    private selectedColumns = [];
+    private selectedValues = [];
     private host: IVisualHost;
-    private treeViewUl: HTMLElement;
+
     constructor(options: VisualConstructorOptions) {
       console.log("Visual constructor", options);
       this.target = options.element;
-      this.updateCount = 0;
       this.host = options.host;
       if (typeof document !== "undefined") {
-        const parentDiv = document.createElement("div");
-        parentDiv.setAttribute("class", "demo-section k-header");
-        const heading = document.createElement("h4");
-        heading.innerHTML = "Omni Search";
-        const label = document.createElement("label");
-        label.innerHTML = "Search";
-        const searchBox = document.createElement("input");
-        searchBox.setAttribute("type", "text");
-        searchBox.setAttribute("id", "search-term");
-        this.searchNode = searchBox;
-        const treeView = document.createElement("div");
-        treeView.setAttribute("id", "treeview-sprites");
-        this.treeViewUl = document.createElement("ul");
-        this.treeViewUl.setAttribute("id", "result");
-        treeView.appendChild(this.treeViewUl);
-        parentDiv.appendChild(heading);
-        parentDiv.appendChild(label);
-        parentDiv.appendChild(searchBox);
-        parentDiv.appendChild(treeView);
-        this.target.appendChild(parentDiv);
       }
     }
     @logExceptions()
@@ -88,13 +65,13 @@ module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1
       this.settings = Visual.parseSettings(
         options && options.dataViews && options.dataViews[0]
       );
-
-      console.log(options);
-      /*
-      this.treeViewUl.innerHTML = "";
-      let treeViewUL = this.treeViewUl;
-      if (typeof this.textNode !== "undefined") {
-        this.textNode.textContent = (this.updateCount++).toString();
+      let __this = this;
+      this.target.innerHTML = "";
+      let selectTag = document.createElement("select");
+      selectTag.setAttribute("id", "omni-search");
+      if (__this.selectedColumns.length == 0) {
+        const defaultOption: HTMLElement = document.createElement("option");
+        selectTag.appendChild(defaultOption);
       }
       let arr = options.dataViews[0].categorical.categories;
       let filteredArray = [];
@@ -106,123 +83,168 @@ module powerbi.extensibility.visual.myfiltervisualD12251A49A324B589383E3A2B4A4E1
         let unique = [...new Set(myval)];
         filteredArray.push(unique);
       }
+
+      selectTag.appendChild(document.createElement("option"));
       filteredArray.forEach(function(value, i) {
-        const li_p: HTMLElement = document.createElement("li");
-        li_p.setAttribute("class", "tree-item");
-        const li_span: HTMLElement = document.createElement("span");
-        li_span.innerHTML = columnNames[i];
-        li_p.appendChild(li_span);
-        const ul_c: HTMLElement = document.createElement("ul");
+        let optgroup = document.createElement("optgroup");
+        optgroup.setAttribute("label", columnNames[i]);
         value.forEach(function(cvalue, ci) {
-          const li_c: HTMLElement = document.createElement("li");
-          li_c.setAttribute("class", "k-out elm");
-          li_c.setAttribute("parent", columnNames[i]);
-          li_c.innerHTML = value[ci];
-          ul_c.appendChild(li_c);
+          let option = document.createElement("option");
+          option.setAttribute("value", value[ci]);
+          option.setAttribute("data-parent", columnNames[i]);
+          option.innerHTML = value[ci];
+          optgroup.appendChild(option);
         });
-        li_p.appendChild(ul_c);
-        treeViewUL.appendChild(li_p);
+        selectTag.appendChild(optgroup);
       });
-
-      $("#search-term").on("keyup", function() {
-        // ignore if no search term
-        if (
-          $.trim(
+      this.target.appendChild(selectTag);
+      $("#omni-search").on("select2:select", function(e) {
+        var idToRemove = "";
+        var selectedvalues: any = $("#omni-search").val();
+        // console.log("Data ", selectedvalues);
+        if (selectedvalues) {
+          var i = selectedvalues.indexOf(idToRemove);
+          if (i >= 0) {
+            selectedvalues.splice(i, 1);
             $(this)
-              .val()
-              .toString()
-          ) == ""
+              .val(selectedvalues)
+              .change();
+          }
+        }
+
+        var data = e.params.data;
+
+        if (
+          !__this.selectedColumns.some(e => e == data.element.dataset.parent)
         ) {
-          $("#treeview-sprites li").each(function(index) {
-            $(this).removeClass("k-out");
+          __this.selectedColumns.push(data.element.dataset.parent);
+          __this.selectedValues.push([data.text]);
+        } else {
+          const index = __this.selectedColumns
+            .map(e => e)
+            .indexOf(data.element.dataset.parent);
+          __this.selectedValues[index].push(data.text);
+          console.log("inside elese");
+        }
+        console.log("All Selected", __this.selectedValues);
+        console.log("All Columns", __this.selectedColumns);
+        let new_arr = [...__this.selectedValues];
+        let a = __this.cartesianProduct(new_arr);
+        var values_p = [];
+        a.forEach(function(val1, ind1) {
+          var values_c = [];
+          val1.forEach(function(val2, ind2) {
+            values_c.push({ value: val2 });
           });
-          return;
-        }
-        var term = $(this)
-          .val()
-          .toString()
-          .toUpperCase();
-        var expression = new RegExp(term.toString(), "i");
-        $("#treeview-sprites li").each(function(index) {
-          var text = $(this).text();
-          $(this).removeClass("k-out");
-          $(this).addClass("k-out");
-          if (text.search(expression) != -1) {
-            $(this).toggleClass("k-out");
-          }
+          values_p.push(values_c);
         });
-      });
-*/
-      //   // invoke the filter
-      let __this = this.host;
-      /*
-      $("#treeview-sprites li.elm").on("click", function() {
-        var parent = $(this).attr("parent");
-        let target: IFilterColumnTarget = {
-          table: "_Sales Target",
-          column: parent
+        let target: any = [];
+        __this.selectedColumns.forEach(function(val1, ind1) {
+          target.push({
+            table: "_Sales Target",
+            column: val1
+          });
+        });
+        console.log(JSON.stringify(values_p));
+        let filter: ITupleFilter = {
+          $schema: "http://powerbi.com/product/schema#tuple",
+          filterType: 6,
+          operator: "In",
+          target: target,
+          values: values_p
         };
-        let values = [$(this).html()];
-        let filter: IBasicFilter = new window["powerbi-models"].BasicFilter(
-          target,
-          "In",
-          values
+        __this.host.applyJsonFilter(
+          filter,
+          "general",
+          "filter",
+          FilterAction.merge
         );
-
-        __this.applyJsonFilter(filter, "general", "filter", FilterAction.merge);
       });
-      */
-      //   debugger;
-      //   console.log(FilterType.Tuple);
-
-      let target: ITupleFilterTarget = [
-        {
-          table: "_Sales Target",
-          column: "Category"
-        },
-        {
-          table: "_Sales Target",
-          column: "Segement"
+      $("#omni-search").on("select2:unselect", function(e) {
+        var data = e.params.data;
+        console.log("Data to remove:- ", data);
+        __this.selectedValues.forEach(function(P, ind1) {
+          P.forEach(function(C, ind2) {
+            if (C == data.text) {
+              __this.selectedValues[ind1].splice(ind2, 1);
+            }
+            if (__this.selectedValues[ind1].length == 0) {
+              __this.selectedValues.splice(ind1, 1);
+              __this.selectedColumns.splice(ind1, 1);
+            }
+          });
+        });
+        console.log("All Selected", __this.selectedValues);
+        console.log("All Columns", __this.selectedColumns);
+        if (__this.selectedColumns.length > 0) {
+          let new_arr = [...__this.selectedValues];
+          let a = __this.cartesianProduct(new_arr);
+          var values_p = [];
+          a.forEach(function(val1, ind1) {
+            var values_c = [];
+            val1.forEach(function(val2, ind2) {
+              values_c.push({ value: val2 });
+            });
+            values_p.push(values_c);
+          });
+          let target: any = [];
+          __this.selectedColumns.forEach(function(val1, ind1) {
+            target.push({
+              table: "_Sales Target",
+              column: val1
+            });
+          });
+          console.log(JSON.stringify(values_p));
+          let filter: ITupleFilter = {
+            $schema: "http://powerbi.com/product/schema#tuple",
+            filterType: 6,
+            operator: "In",
+            target: target,
+            values: values_p
+          };
+          __this.host.applyJsonFilter(
+            filter,
+            "general",
+            "filter",
+            FilterAction.merge
+          );
         }
-      ];
-      let values = [
-        [
-          {
-            value: "Furniture"
-          },
-          {
-            value: "Consumer"
-          }
-        ],
-        [
-          {
-            value: "Furniture"
-          },
-          {
-            value: "Corporate"
-          }
-        ]
-      ];
-      console.log("before");
-      let filter: ITupleFilter = {
-        $schema: "http://powerbi.com/product/schema#tuple",
-        filterType: 6,
-        operator: "In",
-        target: target,
-        values: values
-      };
-      console.log("after");
-      __this.applyJsonFilter(filter, "general", "filter", FilterAction.merge);
-
-      console.log("after 2");
+      });
+      $("#omni-search").select2({
+        placeholder: "Select Any Filter",
+        allowClear: true,
+        multiple: true
+      });
+      $("#omni-search")
+        .val([].concat.apply([], __this.selectedValues))
+        .trigger("change");
     }
 
     private static parseSettings(dataView: DataView): VisualSettings {
       return VisualSettings.parse(dataView) as VisualSettings;
     }
+    public cartesianProduct(a) {
+      // a = array of array
+      var i,
+        j,
+        l,
+        m,
+        a1,
+        o = [];
+      if (!a || a.length == 0) return a;
 
+      a1 = a.splice(0, 1)[0]; // the first array of a
+      a = this.cartesianProduct(a);
+      for (i = 0, l = a1.length; i < l; i++) {
+        if (a && a.length)
+          for (j = 0, m = a.length; j < m; j++) o.push([a1[i]].concat(a[j]));
+        else o.push([a1[i]]);
+      }
+      return o;
+    }
     /**
-     * This function gets called for each of the objects defined in the capabilities files and allows you to select which of the
+     * This function gets called for each of the objects defined in the capabilities files
+     * and allows you to select which of the
      * objects and properties you want to expose to the users in the property pane.
      *
      */

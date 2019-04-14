@@ -13,6 +13,7 @@
     "src/settings.ts",
     "node_modules/powerbi-models/dist/models-noexports.d.ts",
     "node_modules/@types/jquery/index.d.ts",
+    "node_modules/@types/select2/index.d.ts",
     "src/visual.ts"
   ]
 }

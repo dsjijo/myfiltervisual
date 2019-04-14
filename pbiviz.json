@@ -21,7 +21,8 @@
     "node_modules/powerbi-visuals-utils-dataviewutils/lib/index.js",
     "node_modules/powerbi-models/dist/models.js",
     "node_modules/jquery/dist/jquery.min.js",
-    "src/custom.js"
+    "src/custom.js",
+    "node_modules/select2/dist/js/select2.js"
   ],
   "style": "style/visual.less",
   "capabilities": "capabilities.json",
